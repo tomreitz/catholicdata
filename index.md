@@ -84,7 +84,7 @@ Structure:
         date_appointed: "2013-01-29",
         date_installed: "2013-04-02",
         date_left: null,
-        jurisdiction: "regions/us/or/archdiocese-of-portland"
+        jurisdiction: "regions/ecclesiastical/us/or/archdiocese-of-portland"
       }
     ],
     past_assignments: [
@@ -93,7 +93,7 @@ Structure:
         date_appointed: "2005-12-13",
         date_installed: "2006-01-25",
         date_left: "2013-04-02",
-        jurisdiction: "regions/us/mi/diocese-of-marquette"
+        jurisdiction: "regions/ecclesiastical/us/mi/diocese-of-marquette"
       }
     ],
     contact: {
@@ -104,7 +104,8 @@ Structure:
 ]
 ```
 Details:
-* 
+* *current_assignments[\*].jurisdiction* and *past_assignments[\*].jurisdiction* contain IDs of [regions](#regionsjson)
+* The contact object may contain { facebook (URL), twitter (handle), instagram (URL), email }
 
 ## [organizations.json](https://tomreitz.github.io/catholicdata/organizations.json)
 Structure:
@@ -126,7 +127,7 @@ Structure:
     event: "education_completed",
     date: "1978",
     place: "places/us/mi/michigan-technological-university"
-    region: "regions/civil/us/mi/houghton",
+    region: "regions/secular/us/mi/houghton",
     description: "Masters of Science in Metallurgical Engineering"
   },
   ...
@@ -136,4 +137,8 @@ Event types include:
 * (for places) { established, rebuilt, renovated, destroyed, closed }
 * (for regions) { established, absorbed, split }
 * (for organizations) { established, disbanded }
-* (for people) { born, education_began, education_completed, education_withdrew, military_began, military_withdrew, diaconate_ordination, presbyteral_ordination, incardination, episcopal_consecration, married, moved, retired, died }
+* (for people) { Born, Education began, Education completed, Education withdrew, Military began, Military withdrew, Diaconate Ordination, Presbyteral Ordination, Incardination, Episcopal Consecration, Episcopal Installation, Married, Moved, Retired, Died }
+
+
+## Other notes
+* Dates throughout take the form YYYY-MM-DD, or YYYY (when only the year is known)
