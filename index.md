@@ -56,7 +56,7 @@ Structure:
 ]
 ```
 
-## [people.json](https://tomreitz.github.io/catholicdata/people.json)
+## [people_living.json](https://tomreitz.github.io/catholicdata/people_living.json) and [people_deceased.json](https://tomreitz.github.io/catholicdata/people_deceased.json)
 Structure:
 ```
 [
