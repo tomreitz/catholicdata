@@ -16,7 +16,7 @@ Structure:
       zip: 49855,
       latitude: 46.5410832,
       longitude: -87.3988471,
-      google_place_id: "ChIJVVVKWJ4gTk0RMIJOaRo3LV8" // see https://developers.google.com/places/place-id
+      google_place_id: "ChIJVVVKWJ4gTk0RMIJOaRo3LV8"
     },
     contact: {
       facebook: "https://www.facebook.com/mqtcathedral/",
@@ -26,6 +26,10 @@ Structure:
   ...
 ]
 ```
+Details:
+* *type* takes values like { Major Basilica, Minor Basilica, Cathedral, Church, University, School, Convent, Chapel, Office }
+* *location.google_place_id* is a [Goole Place ID](https://developers.google.com/places/place-id) (for use with Google Maps)
+* The *contact* object may contain { facebook (URL), twitter (handle), instagram (URL), email }
 
 ## [regions.json](https://tomreitz.github.io/catholicdata/regions.json)
 Structure:
@@ -34,7 +38,8 @@ Structure:
   {
     id: "regions/ecclesiastical/us/or/ardiocese-portland",
     name: "Archdiocese of Portland Oregon",
-    type: "Archdiocese",
+    type: "Ecclesiastical",
+    subtype: "Archdiocese",
     location: {
       country: "United States",
       state: "Oregon",
@@ -57,6 +62,12 @@ Structure:
   ...
 ]
 ```
+Details:
+* *type* takes values { Ecclesiastical, Secular }
+* For *type=Ecclesiastical*, subtype takes values like { Archdiocese, Diocese, Archeparchy, Eparchy, Military Ordinariate, Apostolic Administration, Apostolic Prefecture, Apostolic Vicariate, Prelature, Personal Prelature, Personal Ordinariate, Territorial Prelature, Secretariat }
+* For *type=Secular*, subtype takes values like { Country, State, Province, County, City }
+* *location.geojson* (when present) is the URL to GeoJSON describing the region boundary
+* The *contact* object may contain { address1 and address2 (mailing address), website (URL), email, phone (with country code), fax (with country code), facebook (URL), twitter (handle), instagram (URL) }
 
 ## [people_living.json](https://tomreitz.github.io/catholicdata/people_living.json) and [people_deceased.json](https://tomreitz.github.io/catholicdata/people_deceased.json)
 Structure:
@@ -92,6 +103,8 @@ Structure:
   }
 ]
 ```
+Details:
+* 
 
 ## [organizations.json](https://tomreitz.github.io/catholicdata/organizations.json)
 Structure:
