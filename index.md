@@ -1,7 +1,4 @@
-This site contains public information about the Catholic church, including:
-
-
-## *places.json*
+## [places.json](https://tomreitz.github.io/catholicdata/places.json)
 Structure:
 ```
 [
@@ -28,7 +25,7 @@ Structure:
 ]
 ```
 
-## *regions.json*
+## [regions.json](https://tomreitz.github.io/catholicdata/regions.json)
 Structure:
 ```
 [
@@ -59,7 +56,7 @@ Structure:
 ]
 ```
 
-## *people.json*
+## [people.json](https://tomreitz.github.io/catholicdata/people.json)
 Structure:
 ```
 [
@@ -94,7 +91,7 @@ Structure:
 ]
 ```
 
-## *organizations.json*
+## [organizations.json](https://tomreitz.github.io/catholicdata/organizations.json)
 Structure:
 ```
 {
@@ -104,7 +101,8 @@ Structure:
 }
 ```
 
-## *events_19xx.json*
+## *events_19xx.json* ([17th](https://tomreitz.github.io/catholicdata/events_17xx.json), [18th](https://tomreitz.github.io/catholicdata/events_18xx.json),)
+## *events_19xx.json* ([19th](https://tomreitz.github.io/catholicdata/events_19xx.json), [20th](https://tomreitz.github.io/catholicdata/events_20xx.json),)
 (Separate files exist for events of each century.)
 Structure:
 ```
