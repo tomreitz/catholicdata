@@ -1,5 +1,4 @@
-# catholicdata
-This repo contains information about the Catholic church, including:
+This site contains public information about the Catholic church, including:
 
 
 ## *places.json*
