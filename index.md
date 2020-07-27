@@ -69,7 +69,7 @@ Details:
 * *location.geojson* (when present) is the URL to GeoJSON describing the region boundary
 * The *contact* object may contain { address1 and address2 (mailing address), website (URL), email, phone (with country code), fax (with country code), facebook (URL), twitter (handle), instagram (URL) }
 
-## [people_living.json](https://tomreitz.github.io/catholicdata/people_living.json) and [people_deceased.json](https://tomreitz.github.io/catholicdata/people_deceased.json)
+## [people/saints.json](/catholicdata/people/saints.json), [people/popes.json](/catholicdata/people/popes.json), and [people/bishops.json](/catholicdata/people/bishops.json)
 Structure:
 ```
 [
