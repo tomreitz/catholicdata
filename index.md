@@ -124,7 +124,7 @@ Structure:
 [
   {
     entity: "people/alexander-king-sample",
-    event: "education_completed",
+    event: "Education completed",
     date: "1978",
     place: "places/us/mi/michigan-technological-university"
     region: "regions/secular/us/mi/houghton",
