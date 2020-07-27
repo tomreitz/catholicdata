@@ -1,3 +1,5 @@
+# catholicdata
+
 ## [places.json](https://tomreitz.github.io/catholicdata/places.json)
 Structure:
 ```
