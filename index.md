@@ -12,7 +12,7 @@ One can measure the maturity of any dataset in terms of its breadth, depth, and 
 
 We are working on adding more information.
 
-<br /><br />
+-----
 
 ## [regions.json](/catholicdata/regions.json)
 Structure:
@@ -89,7 +89,7 @@ Event types for regions include
 * Split, when a region is split into two new regions
 * Renamed, when a region's name is changed
 
-<br /><br />
+-----
 
 ## [people.json](/catholicdata/people.json)
 Structure:
@@ -101,6 +101,7 @@ Structure:
     type: "Archbishop",
     title: "Archbishop",
     name: "Alexander King Sample",
+    deceased: false,
     assignments: [
       {
         title: "Archbishop of Portland, Oregon",
@@ -221,7 +222,7 @@ Event types for persons include:
 * Retired
 * Died
 
-<br /><br />
+-----
 
 ## [places.json](/catholicdata/places.json)
 Structure:
@@ -309,7 +310,7 @@ Event types for places include
 * Restoration completed
 * Closed
 
-<br /><br />
+-----
 
 ## [organizations.json](/catholicdata/organizations.json)
 Structure:
@@ -340,7 +341,7 @@ Event types for organizations include
 * Founded
 * Disbanded
 
-<br /><br />
+-----
 
 ## [literature.json](/catholicdata/literature.json)
 Structure:
@@ -382,7 +383,7 @@ Literature *type*s include
     * Articles
     * Books
 
-<br /><br />
+-----
 
 ## Notes
 * Dates throughout take the form YYYY-MM-DD, YYYY-MM (when only the year and month are known), or YYYY (when only the year is known)
