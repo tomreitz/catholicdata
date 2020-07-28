@@ -132,37 +132,37 @@ Details:
 
 The *rank*s of persons in the Church include
 * Clergy, or those ordained to religious orders
-** Bishop
-** Priest
-** Deacon
+ - Bishop
+ - Priest
+ - Deacon
 * Layperson, or the unordained
 
 The *type*s of persons in the Church include
 * (for Bishops)
-** Pope, who is successor of St. Peter, Vicar of Christ, and head of the Universal Catholic Church
-** Patriarch, who is head of a particular Eastern Catholic Church in communion with Rome
-** Major archbishop, who is head of a smaller Eastern Catholic Church
-** Cardinal, who is appointed by the Pope and is *usually* an Archbishop or Bishop, although priests can also be Cardinals
-** Primate, who is usually (Arch)bishop of the first or oldest (Arch)diocese in a country
-** Metropolitan bishop, who is an Archbishop but holds some additional authority
-** Archbishop, who is the bishop of an Archdiocese (which is typically a larger diocese)
-** Bishop, who is head of a diocese (usually a geographic one, although possibly a titular one)
+ - Pope, who is successor of St. Peter, Vicar of Christ, and head of the Universal Catholic Church
+ - Patriarch, who is head of a particular Eastern Catholic Church in communion with Rome
+ - Major archbishop, who is head of a smaller Eastern Catholic Church
+ - Cardinal, who is appointed by the Pope and is *usually* an Archbishop or Bishop, although priests can also be Cardinals
+ - Primate, who is usually (Arch)bishop of the first or oldest (Arch)diocese in a country
+ - Metropolitan bishop, who is an Archbishop but holds some additional authority
+ - Archbishop, who is the bishop of an Archdiocese (which is typically a larger diocese)
+ - Bishop, who is head of a diocese (usually a geographic one, although possibly a titular one)
 * Religious, who are members of a religious order or organization, and may be clergy or laypersons
 
 The *title*s of persons in the Church include
 * (for Bishops)
-** Abbot, who is the bishop or a religious order
+ - Abbot, who is the bishop or a religious order
 * (for Priests)
-** Monsignor
+ - Monsignor
 * (for Religious)
-** Mother, who is the head of an order of religious women
-** Sister, who is a female member of a religious order or organization
-** Brother, who is an unordained male member of a religious order or organization
+ - Mother, who is the head of an order of religious women
+ - Sister, who is a female member of a religious order or organization
+ - Brother, who is an unordained male member of a religious order or organization
 
 The *position*s of persons in the Church include
 * (for Priests)
-** Vicar General
-** Rector
+ - Vicar General
+ - Rector
 ** ...
 
 
