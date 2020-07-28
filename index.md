@@ -12,6 +12,7 @@ One can measure the maturity of any dataset in terms of its breadth, depth, and 
 
 We are working on adding more information.
 
+<br /><br />
 
 ## [regions.json](/catholicdata/regions.json)
 Structure:
@@ -53,9 +54,7 @@ Structure:
   ...
 ]
 ```
-Details:
-* *location.geojson* (when present) is the URL to GeoJSON describing the region boundary
-* The *contact* object may contain { address1 and address2 (mailing address), website (URL), email, phone (with country code), fax (with country code), facebook (URL), twitter (handle), instagram (URL) }
+When present, *location.geojson* is the URL to GeoJSON describing the region boundary.
 
 The *type*s of Regions include
 * Secular
@@ -90,6 +89,7 @@ Event types for regions include
 * Split, when a region is split into two new regions
 * Renamed, when a region's name is changed
 
+<br /><br />
 
 ## [people.json](/catholicdata/people.json)
 Structure:
@@ -171,9 +171,7 @@ Structure:
   }
 ]
 ```
-Details:
-* *current_assignments[\*].jurisdiction* and *past_assignments[\*].jurisdiction* contain IDs of [regions](#regionsjson)
-* The contact object may contain { facebook (URL), twitter (handle), instagram (URL), email }
+The *current_assignments[\*].jurisdiction* and *past_assignments[\*].jurisdiction* contain IDs of [regions](#regionsjson).
 
 The *rank*s of persons in the Church include
 * Clergy, or those men ordained to religious orders
@@ -223,6 +221,7 @@ Event types for persons include:
 * Retired
 * Died
 
+<br /><br />
 
 ## [places.json](/catholicdata/places.json)
 Structure:
@@ -283,10 +282,22 @@ Structure:
   ...
 ]
 ```
-Details:
-* *type* takes values like { Major Basilica, Minor Basilica, Cathedral, Church, University, School, Convent, Chapel, Office }
-* *location.google_place_id* is a [Goole Place ID](https://developers.google.com/places/place-id) (for use with Google Maps)
-* The *contact* object may contain { facebook (URL), twitter (handle), instagram (URL), email }
+When present, *location.google_place_id* is a [Google Place ID](https://developers.google.com/places/place-id) (for use with Google Maps).
+
+The *type*s of places include
+* Major Basilica
+* Minor Basilica
+* Cathedral
+* Church
+* University
+* School
+* Convent
+* Abbey
+* Monastery
+* Chapel
+* Mission
+* Office
+* Other
 
 Event types for places include
 * Established
@@ -298,6 +309,7 @@ Event types for places include
 * Restoration completed
 * Closed
 
+<br /><br />
 
 ## [organizations.json](/catholicdata/organizations.json)
 Structure:
@@ -307,18 +319,28 @@ Structure:
     id: "organizations/little-sisters-of-the-poor",
     type: "Pontifical Institute",
     name: "Little Sisters of the Poor",
+    contact: {
+      facebook: "https://www.facebook.com/Little-Sisters-of-the-Poor-United-States-1512750945687722/",
+      youtube: "https://www.youtube.com/channel/UCtXYBcbkxh7W8v8UR7CgvHQ"
+    },
     events: [
-      {}
+      {
+        event: "Founded",
+        date: "1839",
+	founder: "people/jeanne-jugan",
+        description: "",
+	source: "https://en.wikipedia.org/wiki/Little_Sisters_of_the_Poor"
+      }
     ]
   },
   ...
 ]
 ```
-
 Event types for organizations include
-* Established
+* Founded
 * Disbanded
 
+<br /><br />
 
 ## [literature.json](/catholicdata/literature.json)
 Structure:
@@ -360,6 +382,8 @@ Literature *type*s include
     * Articles
     * Books
 
+<br /><br />
 
-## Other notes
+## Notes
 * Dates throughout take the form YYYY-MM-DD, YYYY-MM (when only the year and month are known), or YYYY (when only the year is known)
+* The *contact* object of throughout may contain elements including *address1* and *address2* (mailing address), *website* (URL), *email*, *phone* (with country code), *fax* (with country code), *facebook* (URL), *twitter* (handle), *instagram* (URL), and *youtube* (URL).
