@@ -113,7 +113,6 @@ Structure:
   {
     id: "people/alexander-sample",
     rank: "Bishop",
-    type: "Archbishop",
     title: "Archbishop",
     status: "Active",
     name: "Alexander King Sample",
