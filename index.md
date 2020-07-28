@@ -370,6 +370,7 @@ Structure:
   ...
 ]
 ```
+<!--- see http://www.catholic-hierarchy.org/country/xrel.html -->
 Event types for organizations include
 * Founded
 * Disbanded
