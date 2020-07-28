@@ -2,7 +2,7 @@
 
 With over a billion members and 400,000 priests, the Catholic Church is among the largest organizations in the world.
 
-By gathering Catholic information into a comprehensive database, we hope to facilitate the study of the rich history of the Church, to foster the development of apps and visualizations, and to bring people to a deeper understanding of Catholicism.
+By gathering Catholic information into a comprehensive database, we hope to facilitate the study of the rich history of the Church, to foster the development technical tools such as apps and visualizations, and to bring people to a deeper understanding of Catholicism.
 
 This site collects and curates information about people, places, jurisdictions, organizations, and writings from the Catholic Church (both Latin and Eastern Rites). As often as possible, we obtain information from official Church sources such as Vatican press releases and Diocesan announcements.
 
@@ -43,11 +43,34 @@ Structure:
 ]
 ```
 Details:
-* *type* takes values { Ecclesiastical, Secular }
-* For *type=Ecclesiastical*, subtype takes values like { Archdiocese, Diocese, Archeparchy, Eparchy, Military Ordinariate, Apostolic Administration, Apostolic Prefecture, Apostolic Vicariate, Prelature, Personal Prelature, Personal Ordinariate, Territorial Prelature, Secretariat }
-* For *type=Secular*, subtype takes values like { Country, State, Province, County, City }
 * *location.geojson* (when present) is the URL to GeoJSON describing the region boundary
 * The *contact* object may contain { address1 and address2 (mailing address), website (URL), email, phone (with country code), fax (with country code), facebook (URL), twitter (handle), instagram (URL) }
+
+The *type*s of Regions include
+* Secular
+* Ecclesiastical
+
+The *subtype*s of *Secular* regions include
+* Country
+* State
+* Province
+* County
+* City
+
+The *subtype*s of *Ecclesiastical* regions include
+* Archdiocese
+* Diocese
+* Archeparchy
+* Eparchy
+* Military Ordinariate
+* Apostolic Administration
+* Apostolic Prefecture
+* Apostolic Vicariate
+* Prelature
+* Personal Prelature
+* Personal Ordinariate
+* Territorial Prelature
+* Secretariat
 
 <!--## [people/saints.json](/catholicdata/people/saints.json)-->
 <!--## [people/popes.json](/catholicdata/people/popes.json)-->
