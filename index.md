@@ -83,11 +83,13 @@ The *subtype*s of *Ecclesiastical* regions include
 * Secretariat
 
 Event types for regions include
-* Established, when a region is first created or recognized
+* Erected, when a region is first created or recognized
 * Elevated, when an Ecclesiastical region's subtype is upgraded
-* Absorbed, when region ceases to exist because it became part of another region
-* Split, when a region is split into two new regions
 * Renamed, when a region's name is changed
+* Split, when a region is split into two new regions
+* United, when a region is joined with another region
+* Absorbed, when a region ceases to exist because it became part of another region
+* Supressed, when a region ceased to exist and its territory is unted with another region
 
 -----
 
@@ -101,10 +103,13 @@ Structure:
     type: "Archbishop",
     title: "Archbishop",
     name: "Alexander King Sample",
+    display_name: "Archbishop Alexander King Sample",
     deceased: false,
     assignments: [
       {
         title: "Archbishop of Portland, Oregon",
+	modifier: "",
+	status: "Active",
         date_appointed: "2013-01-29",
         date_installed: "2013-04-02",
         date_left: null,
@@ -112,6 +117,8 @@ Structure:
       },
       {
         title: "Bishop of Marquette, Michigan",
+	modifier: "",
+	status: "Prior",
         date_appointed: "2005-12-13",
         date_installed: "2006-01-25",
         date_left: "2013-04-02",
@@ -204,7 +211,18 @@ The *title*s of persons in the Church include
 
 More details about the [Hierarchy of the Catholic Church](https://en.wikipedia.org/wiki/Hierarchy_of_the_Catholic_Church).
 
-Event types for persons include:
+Assignment *modifier*s include
+* (none)
+* Auxiliary
+* Coajutor
+
+Assignment *status*es include
+* Elect, for assignments that have been announced by have not yet taken effect
+* Active
+* Prior, for former assignments
+* Emeritus, for former assignments of a retired person
+
+Event *type*s for persons include
 * Born
 * Education began
 * Education completed
@@ -288,15 +306,17 @@ When present, *location.google_place_id* is a [Google Place ID](https://develope
 The *type*s of places include
 * Major Basilica
 * Minor Basilica
+* National Shrine
 * Cathedral
 * Church
-* University
-* School
-* Convent
-* Abbey
-* Monastery
+* Shrine
 * Chapel
 * Mission
+* Abbey
+* Monastery
+* Convent
+* University
+* School
 * Office
 * Other
 
