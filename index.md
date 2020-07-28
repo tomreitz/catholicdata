@@ -115,6 +115,7 @@ Structure:
     rank: "Bishop",
     type: "Archbishop",
     title: "Archbishop",
+    status: "Active",
     name: "Alexander King Sample",
     display_name: "Archbishop Alexander King Sample",
     deceased: false,
@@ -122,8 +123,7 @@ Structure:
       {
         title: "Archbishop of Portland, Oregon",
 	modifier: "",
-	status: "Active",
-        date_appointed: "2013-01-29",
+	date_appointed: "2013-01-29",
         date_installed: "2013-04-02",
         date_left: null,
         jurisdiction: "regions/ecclesiastical/us/or/portland"
@@ -131,8 +131,7 @@ Structure:
       {
         title: "Bishop of Marquette, Michigan",
 	modifier: "",
-	status: "Prior",
-        date_appointed: "2005-12-13",
+	date_appointed: "2005-12-13",
         date_installed: "2006-01-25",
         date_left: "2013-04-02",
         jurisdiction: "regions/ecclesiastical/us/mi/marquette"
@@ -224,16 +223,15 @@ The *title*s of persons in the Church include
 
 More details about the [Hierarchy of the Catholic Church](https://en.wikipedia.org/wiki/Hierarchy_of_the_Catholic_Church).
 
+The *status*es of persons in the Church include
+* Elect, for assignments that have been announced by have not yet taken effect
+* Active
+* Emeritus, for former assignments of a retired person
+
 Assignment *modifier*s include
 * (none)
 * Auxiliary
 * Coajutor
-
-Assignment *status*es include
-* Elect, for assignments that have been announced by have not yet taken effect
-* Active
-* Prior, for former assignments
-* Emeritus, for former assignments of a retired person
 
 Event *type*s for persons include
 * Born
