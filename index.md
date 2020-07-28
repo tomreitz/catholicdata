@@ -43,11 +43,24 @@ Structure:
     },
     events: [
       {
-        event: "Education completed",
-        date: "1978",
-        place: "places/us/mi/michigan-technological-university"
-        region: "regions/secular/us/mi",
-        description: "Masters of Science in Metallurgical Engineering"
+        event: "Erected",
+        date: "1842-12-01",
+        description: "Vicariate Apostolic of Oregon Territory"
+      },
+      {
+        event: "Elevated",
+        date: "1846-07-24",
+        description: "Diocese of Oregon City"
+      },
+      {
+        event: "Elevated",
+        date: "1850-07-29",
+        description: "Archdiocese of Oregon City"
+      },
+      {
+        event: "Renamed",
+        date: "1928-09-26",
+        description: "Archdiocese of Portland in Oregon"
       }
     ]
   },
