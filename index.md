@@ -9,7 +9,9 @@ This site collects and curates information about people, places, jurisdictions, 
 One can measure the maturity of any dataset in terms of its breadth, depth, and accuracy. This dataset currently includes:
 * 1,250 bishops (all current bishops of the US, UK, and several other countries, plus a few others)
 * 2,700 dioceses (all current geographic dioceses, but few titular ones)
+
 We are working on adding more information.
+
 
 ## [regions.json](/catholicdata/regions.json)
 Structure:
