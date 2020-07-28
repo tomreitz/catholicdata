@@ -7,16 +7,16 @@ By gathering Catholic information into a comprehensive database, we hope to faci
 This site collects and curates information about people, places, jurisdictions, organizations, and writings from the Catholic Church (both Latin and Eastern Rites). As often as possible, we obtain information from official Church sources such as Vatican press releases and Diocesan announcements.
 
 One can measure the maturity of any dataset in terms of its breadth, depth, and accuracy. This dataset currently includes:
-* 1,250 bishops
-* 2,700 dioceses
-
+* 1,250 bishops (all current bishops of the US, UK, and several other countries, plus a few others)
+* 2,700 dioceses (all current geographic dioceses, but few titular ones)
+We are working on adding more information.
 
 ## [regions.json](/catholicdata/regions.json)
 Structure:
 ```
 [
   {
-    id: "regions/ecclesiastical/us/or/ardiocese-portland",
+    id: "regions/ecclesiastical/us/or/portland",
     name: "Archdiocese of Portland Oregon",
     type: "Ecclesiastical",
     subtype: "Archdiocese",
@@ -26,7 +26,7 @@ Structure:
       city: "Portland",
       latitude: 29.83742,
       longitude: -83.94729,
-      geojson: "https://tomreitz.github.io/catholicdata/regions/ecclesiastical/us-or-ardiocese-portland.geojson"
+      geojson: "https://tomreitz.github.io/catholicdata/regions/ecclesiastical/us-or-portland.geojson"
     },
     contact: {
       address1: "2838 East Burnside Street",
@@ -37,7 +37,16 @@ Structure:
       fax: "+1-503-234-2545",
       facebook: "https://www.facebook.com/archdpdx",
       twitter: "archdpdx"
-    }
+    },
+    events: [
+      {
+        event: "Education completed",
+        date: "1978",
+        place: "places/us/mi/michigan-technological-university"
+        region: "regions/secular/us/mi",
+        description: "Masters of Science in Metallurgical Engineering"
+      }
+    ]
   },
   ...
 ]
@@ -72,35 +81,38 @@ The *subtype*s of *Ecclesiastical* regions include
 * Territorial Prelature
 * Secretariat
 
-<!--## [people/saints.json](/catholicdata/people/saints.json)-->
-<!--## [people/popes.json](/catholicdata/people/popes.json)-->
+Event types for regions include
+* Established, when a region is first created or recognized
+* Elevated, when an Ecclesiastical region's subtype is upgraded
+* Absorbed, when region ceases to exist because it became part of another region
+* Split, when a region is split into two new regions
+* Renamed, when a region's name is changed
+
+
 ## [people.json](/catholicdata/people.json)
 Structure:
 ```
 [
   {
-    id: "people/alexander-king-sample",
+    id: "people/alexander-sample",
     rank: "Bishop",
-    subrank: "Archbishop",
     type: "Archbishop",
     title: "Archbishop",
     name: "Alexander King Sample",
-    current_assignments: [
+    assignments: [
       {
         title: "Archbishop of Portland, Oregon",
         date_appointed: "2013-01-29",
         date_installed: "2013-04-02",
         date_left: null,
-        jurisdiction: "regions/ecclesiastical/us/or/archdiocese-of-portland"
-      }
-    ],
-    past_assignments: [
+        jurisdiction: "regions/ecclesiastical/us/or/portland"
+      },
       {
         title: "Bishop of Marquette, Michigan",
         date_appointed: "2005-12-13",
         date_installed: "2006-01-25",
         date_left: "2013-04-02",
-        jurisdiction: "regions/ecclesiastical/us/mi/diocese-of-marquette"
+        jurisdiction: "regions/ecclesiastical/us/mi/marquette"
       }
     ],
     contact: {
@@ -109,19 +121,50 @@ Structure:
     },
     events: [
       {
-        event: "Education completed",
-        date: "1978",
-        place: "places/us/mi/michigan-technological-university"
-        region: "regions/secular/us/mi/houghton",
-        description: "Masters of Science in Metallurgical Engineering"
+        event: "Born",
+        date: "1960-11-07",
+        place: "places/us/mt/kalispell"
+        region: "regions/secular/us/mt",
+        description: ""
       },
       {
         event: "Education completed",
         date: "1978",
         place: "places/us/mi/michigan-technological-university"
-        region: "regions/secular/us/mi/houghton",
+        region: "regions/secular/us/mi",
         description: "Masters of Science in Metallurgical Engineering"
       },
+      {
+        event: "Presbyteral Ordination",
+        date: "1990-06-01",
+        place: "places/us/mi/marquette/st-peter-cathedral"
+        region: "regions/ecclesiastical/us/mi/marquette",
+        description: ""
+      },
+      {
+        event: "Episcopal Appointment",
+        date: "2005-12-13",
+        description: "Appointed 12th Bishop of Marquette Michigan"
+      },
+      {
+        event: "Episcopal Consecration",
+        date: "2006-01-25",
+        place: "places/us/mi/marquette/st-peter-cathedral"
+        region: "regions/ecclesiastical/us/mi/marquette",
+        description: "Ordained 12th Bishop of Marquette Michigan"
+      },
+      {
+        event: "Episcopal Appointment",
+        date: "2013-01-29",
+        description: "Appointed 11th Archbishop of Portland Oregon"
+      },
+      {
+        event: "Episcopal Installation",
+        date: "2013-04-02",
+        place: "places/us/or/portland/chiles-center-arena"
+        region: "regions/ecclesiastical/us/or/portland",
+        description: "Installed as 11th Archbishop of Portland Oregon"
+      }
     ]
   }
 ]
@@ -131,44 +174,55 @@ Details:
 * The contact object may contain { facebook (URL), twitter (handle), instagram (URL), email }
 
 The *rank*s of persons in the Church include
-* Clergy, or those ordained to religious orders
-    * Bishop
-    * Priest
-    * Deacon
+* Clergy, or those men ordained to religious orders
+    * Bishop, a successor of the Apostles
+        * Pope, who is successor of St. Peter, Vicar of Christ, and head of the Universal Catholic Church
+        * Patriarch, who is head of a particular Eastern Catholic Church in communion with Rome
+        * Major archbishop, who is head of a smaller Eastern Catholic Church
+        * Cardinal, who is appointed by the Pope and is *usually* an Archbishop or Bishop, although priests can also be Cardinals
+        * Primate, who is usually (Arch)bishop of the first or oldest (Arch)diocese in a country
+        * Metropolitan bishop, who is an Archbishop but holds some additional authority
+        * Archbishop, who is the bishop of an Archdiocese (which is typically a larger diocese)
+        * Bishop, who is head of a diocese (usually a geographic one, although possibly a titular one)
+    * Priest, a (nearly always unmarried) pastor of souls who can consecrate the Eucharist
+    * Deacon, a (possibly married) man who assists in ministering to the people of God
 * Layperson, or the unordained
-
-The *type*s of persons in the Church include
-* (for Bishops)
-    * Pope, who is successor of St. Peter, Vicar of Christ, and head of the Universal Catholic Church
-    * Patriarch, who is head of a particular Eastern Catholic Church in communion with Rome
-    * Major archbishop, who is head of a smaller Eastern Catholic Church
-    *  Cardinal, who is appointed by the Pope and is *usually* an Archbishop or Bishop, although priests can also be Cardinals
-    * Primate, who is usually (Arch)bishop of the first or oldest (Arch)diocese in a country
-    * Metropolitan bishop, who is an Archbishop but holds some additional authority
-    * Archbishop, who is the bishop of an Archdiocese (which is typically a larger diocese)
-    * Bishop, who is head of a diocese (usually a geographic one, although possibly a titular one)
-* Religious, who are members of a religious order or organization, and may be clergy or laypersons
+* Religious, or a member of a religious order or organization &mdash; may be ordained or unordained
 
 The *title*s of persons in the Church include
 * (for Bishops)
     * Abbot, who is the bishop or a religious order
 * (for Priests)
-    * Monsignor
+    * Monsignor, who is a priest given a honorific title by the Pope
 * (for Religious)
     * Mother, who is the head of an order of religious women
     * Sister, who is a female member of a religious order or organization
     * Brother, who is an unordained male member of a religious order or organization
+* Blessed, who is a [beatified](https://en.wikipedia.org/wiki/Beatification) person
+* Saint, who is a [canonized](https://en.wikipedia.org/wiki/Canonization) person
 
-The *position*s of persons in the Church include
-* (for Priests)
-    * Vicar General
-    * Rector
-** ...
+More details about the [Hierarchy of the Catholic Church](https://en.wikipedia.org/wiki/Hierarchy_of_the_Catholic_Church).
 
-See [https://en.wikipedia.org/wiki/Hierarchy_of_the_Catholic_Church](here) for details.
+Event types for persons include:
+* Born
+* Education began
+* Education completed
+* Education withdrew
+* Military service began
+* Military service withdrew
+* Diaconate Ordination
+* Presbyteral Ordination
+* Incardination
+* Episcopal Appointment
+* Episcopal Consecration
+* Episcopal Installation
+* Married
+* Moved
+* Retired
+* Died
 
 
-## [places.json](https://tomreitz.github.io/catholicdata/places.json)
+## [places.json](/catholicdata/places.json)
 Structure:
 ```
 [
@@ -176,6 +230,7 @@ Structure:
     id: "places/us/mi/marquette/st-peter-cathedral",
     type: "Cathedral",
     name: "St. Peter Cathedral",
+    image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Marquettecathedral.jpg",
     location: {
       country: "United States",
       state: "Michigan",
@@ -189,7 +244,39 @@ Structure:
     contact: {
       facebook: "https://www.facebook.com/mqtcathedral/",
       email: "secretary@stpetercathedral.org"
-    }
+    },
+    events: [
+      {
+        event: "Construction began",
+        date: "1881-06-19",
+        description: "",
+	source: "https://stpetercathedral.org/about/history/"
+      },
+      {
+        event: "Construction completed",
+        date: "1890-07-27",
+        description: "",
+	source: "https://stpetercathedral.org/about/history/"
+      },
+      {
+        event: "Damaged",
+        date: "1935-11-03",
+        description: "Fire",
+	source: "https://stpetercathedral.org/about/history/;https://news.google.com/newspapers?nid=110&dat=19351104&id=dsk0AAAAIBAJ&sjid=hUADAAAAIBAJ&pg=2201,4772951&hl=en"
+      },
+      {
+        event: "Restoration began",
+        date: "1936",
+        description: "",
+	source: "https://stpetercathedral.org/about/history/"
+      },
+      {
+        event: "Restoration completed",
+        date: "1938",
+        description: "",
+	source: "https://stpetercathedral.org/about/history/"
+      }
+    ]
   },
   ...
 ]
@@ -199,38 +286,78 @@ Details:
 * *location.google_place_id* is a [Goole Place ID](https://developers.google.com/places/place-id) (for use with Google Maps)
 * The *contact* object may contain { facebook (URL), twitter (handle), instagram (URL), email }
 
-## [organizations.json](https://tomreitz.github.io/catholicdata/organizations.json)
-Structure:
-```
-{
-	id: "organizations/little-sisters-of-the-poor",
-	type: "Pontifical Institute",
-	name: "Little Sisters of the Poor"
-}
-```
+Event types for places include
+* Established
+* Construction began
+* Construction completed
+* Destroyed
+* Damaged
+* Restoration began
+* Restoration completed
+* Closed
 
-## *events_19xx.json* ([17th](https://tomreitz.github.io/catholicdata/events_17xx.json), [18th](https://tomreitz.github.io/catholicdata/events_18xx.json), [19th](https://tomreitz.github.io/catholicdata/events_19xx.json), [20th](https://tomreitz.github.io/catholicdata/events_20xx.json))
-(Separate files exist for events of each century.)
+
+## [organizations.json](/catholicdata/organizations.json)
 Structure:
 ```
 [
   {
-    entity: "people/alexander-king-sample",
-    event: "Education completed",
-    date: "1978",
-    place: "places/us/mi/michigan-technological-university"
-    region: "regions/secular/us/mi/houghton",
-    description: "Masters of Science in Metallurgical Engineering"
+    id: "organizations/little-sisters-of-the-poor",
+    type: "Pontifical Institute",
+    name: "Little Sisters of the Poor",
+    events: [
+      {}
+    ]
   },
   ...
 ]
 ```
-Event types include:
-* (for places) { established, rebuilt, renovated, destroyed, closed }
-* (for regions) { established, absorbed, split }
-* (for organizations) { established, disbanded }
-* (for people) { Born, Education began, Education completed, Education withdrew, Military began, Military withdrew, Diaconate Ordination, Presbyteral Ordination, Incardination, Episcopal Consecration, Episcopal Installation, Married, Moved, Retired, Died }
+
+Event types for organizations include
+* Established
+* Disbanded
+
+
+## [literature.json](/catholicdata/literature.json)
+Structure:
+```
+[
+  {
+    id: "literature/papal-encyclicals/redemptor-hominis",
+    type: "Encyclical",
+    language: "la",
+    title: "Redemptor hominis",
+    title_en: "The Redeemer of Man",
+    author: "people/karol-józef-wojtyła",
+    date: "1979-03-04",
+    summary: "On Jesus' Redemption of the world; the central importance of the human person; the Pope's plan of governance",
+    source: "http://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html",
+    source_en: "http://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html"
+  },
+  ...
+]
+```
+The *language* is an [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
+The *source* is a URL where the full text can be found.
+
+Literature *type*s include
+* Papal documents ([details](https://library.athenaeum.edu/c.php?g=30820&p=193150))
+    * Apostolic Constitution, which is a solemn doctrinal or disciplinary document, such as The Code of Canon Law
+    * Encyclical, which is a letter of a pastoral nature
+    * Motu Proprio, which is a (generally shorter) legislative document
+    * Apostolic Epistle, which is a letter usually addressing a particular need or a specific group of people
+    * Apostolic Exhortations, which is a reflction on a topic encouraging a particular virtue or mission
+    * Address, which is a less formal discussion of specific issues or circumstances 
+* Writings of the Church Fathers ([details](https://www.newadvent.org/fathers/)), including
+    * Homiles
+    * Epistles
+    * Treatise
+    * Other works
+* Select works by prominent modern Catholic authors, <!-- see https://www.cs.cmu.edu/~spok/catholic/writings.html --> including
+    * Homilies
+    * Articles
+    * Books
 
 
 ## Other notes
-* Dates throughout take the form YYYY-MM-DD, or YYYY (when only the year is known)
+* Dates throughout take the form YYYY-MM-DD, YYYY-MM (when only the year and month are known), or YYYY (when only the year is known)
