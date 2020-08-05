@@ -96,3 +96,5 @@ Event types for places include
 
 ## Notes
 * Dates throughout take the form YYYY-MM-DD, YYYY-MM (when only the year and month are known), or YYYY (when only the year is known). Dates may be appended with (c.) to indicate that an exact date is not known. We append rather than prepend to avoid issues with sorting by date. Example: "45 (c.)".
+
+[Back to homepage.](/catholicdata/)
