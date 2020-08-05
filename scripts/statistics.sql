@@ -13,31 +13,31 @@ SELECT Statistic, Count, Percent FROM (
 	UNION
 	SELECT
 		3 AS Sort,
-		"Regions with contact_website" AS Statistic,
+		"Regions with contact.website" AS Statistic,
 		(SELECT COUNT(*) FROM regions WHERE contact_website IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM regions WHERE contact_website IS NOT NULL)/(SELECT COUNT(*) FROM regions),2) || "%" AS Percent
 	UNION
 	SELECT
 		4 AS Sort,
-		"Regions with contact_address" AS Statistic,
+		"Regions with contact.address" AS Statistic,
 		(SELECT COUNT(*) FROM regions WHERE contact_address IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM regions WHERE contact_address IS NOT NULL)/(SELECT COUNT(*) FROM regions),2) || "%" AS Percent
 	UNION
 	SELECT
 		5 AS Sort,
-		"Regions with contact_email" AS Statistic,
+		"Regions with contact.email" AS Statistic,
 		(SELECT COUNT(*) FROM regions WHERE contact_email IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM regions WHERE contact_email IS NOT NULL)/(SELECT COUNT(*) FROM regions),2) || "%" AS Percent
 	UNION
 	SELECT
 		6 AS Sort,
-		"Regions with contact_phone" AS Statistic,
+		"Regions with contact.phone" AS Statistic,
 		(SELECT COUNT(*) FROM regions WHERE contact_phone IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM regions WHERE contact_phone IS NOT NULL)/(SELECT COUNT(*) FROM regions),2) || "%" AS Percent
 	UNION
 	SELECT
 		7 AS Sort,
-		"Regions with contact_fax" AS Statistic,
+		"Regions with contact.fax" AS Statistic,
 		(SELECT COUNT(*) FROM regions WHERE contact_fax IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM regions WHERE contact_fax IS NOT NULL)/(SELECT COUNT(*) FROM regions),2) || "%" AS Percent
 	UNION
@@ -49,25 +49,25 @@ SELECT Statistic, Count, Percent FROM (
 	UNION
 	SELECT
 		9 AS Sort,
-		"Regions with social_facebook" AS Statistic,
+		"Regions with social.facebook" AS Statistic,
 		(SELECT COUNT(*) FROM regions WHERE social_facebook IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM regions WHERE social_facebook IS NOT NULL)/(SELECT COUNT(*) FROM regions),2) || "%" AS Percent
 	UNION
 	SELECT
 		10 AS Sort,
-		"Regions with social_twitter" AS Statistic,
+		"Regions with social.twitter" AS Statistic,
 		(SELECT COUNT(*) FROM regions WHERE social_twitter IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM regions WHERE social_twitter IS NOT NULL)/(SELECT COUNT(*) FROM regions),2) || "%" AS Percent
 	UNION
 	SELECT
 		11 AS Sort,
-		"Regions with social_instagram" AS Statistic,
+		"Regions with social.instagram" AS Statistic,
 		(SELECT COUNT(*) FROM regions WHERE social_instagram IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM regions WHERE social_instagram IS NOT NULL)/(SELECT COUNT(*) FROM regions),2) || "%" AS Percent
 	UNION
 	SELECT
 		12 AS Sort,
-		"Regions with social_youtube" AS Statistic,
+		"Regions with social.youtube" AS Statistic,
 		(SELECT COUNT(*) FROM regions WHERE social_youtube IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM regions WHERE social_youtube IS NOT NULL)/(SELECT COUNT(*) FROM regions),2) || "%" AS Percent
 	UNION
@@ -97,13 +97,13 @@ SELECT Statistic, Count, Percent FROM (
 	UNION
 	SELECT
 		17 AS Sort,
-		"People with contact_website" AS Statistic,
+		"People with contact.website" AS Statistic,
 		(SELECT COUNT(*) FROM people WHERE contact_website IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM people WHERE contact_website IS NOT NULL)/(SELECT COUNT(*) FROM people),2) || "%" AS Percent
 	UNION
 	SELECT
 		18 AS Sort,
-		"People with contact_email" AS Statistic,
+		"People with contact.email" AS Statistic,
 		(SELECT COUNT(*) FROM people WHERE contact_email IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM people WHERE contact_email IS NOT NULL)/(SELECT COUNT(*) FROM people),2) || "%" AS Percent
 	UNION
@@ -115,25 +115,25 @@ SELECT Statistic, Count, Percent FROM (
 	UNION
 	SELECT
 		20 AS Sort,
-		"People with social_facebook" AS Statistic,
+		"People with social.facebook" AS Statistic,
 		(SELECT COUNT(*) FROM people WHERE social_facebook IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM people WHERE social_facebook IS NOT NULL)/(SELECT COUNT(*) FROM people),2) || "%" AS Percent
 	UNION
 	SELECT
 		21 AS Sort,
-		"People with social_twitter" AS Statistic,
+		"People with social.twitter" AS Statistic,
 		(SELECT COUNT(*) FROM people WHERE social_twitter IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM people WHERE social_twitter IS NOT NULL)/(SELECT COUNT(*) FROM people),2) || "%" AS Percent
 	UNION
 	SELECT
 		22 AS Sort,
-		"People with social_instagram" AS Statistic,
+		"People with social.instagram" AS Statistic,
 		(SELECT COUNT(*) FROM people WHERE social_instagram IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM people WHERE social_instagram IS NOT NULL)/(SELECT COUNT(*) FROM people),2) || "%" AS Percent
 	UNION
 	SELECT
 		23 AS Sort,
-		"People with social_youtube" AS Statistic,
+		"People with social.youtube" AS Statistic,
 		(SELECT COUNT(*) FROM people WHERE social_youtube IS NOT NULL) AS Count,
 		ROUND(100.0*(SELECT COUNT(*) FROM people WHERE social_youtube IS NOT NULL)/(SELECT COUNT(*) FROM people),2) || "%" AS Percent
 	UNION
