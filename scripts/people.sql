@@ -5,7 +5,7 @@ SELECT json_object(
 	'status', status,
 	'name', name,
 	'display_name', display_name,
-	'deceased', CASE WHEN deceased=0 THEN false ELSE true END,
+	'deceased', CASE WHEN deceased=0 THEN null ELSE 1 END,
 	'assignments', (
 		SELECT json_group_array( json_object(
 			'title', title,
