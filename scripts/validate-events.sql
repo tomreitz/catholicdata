@@ -1,0 +1,2 @@
+-- events tied to the wrong entity type
+-- events with invalid type for their entity type
