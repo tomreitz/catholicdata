@@ -36,7 +36,7 @@
         jurisdiction: "regions/ecclesiastical/us/mi/marquette"
       }
     ],
-    contact: {
+    social: {
       facebook: "https://www.facebook.com/bishopalexandersample/",
       twitter: "https://twitter.com/ArchbishpSample"
     },
