@@ -26,7 +26,7 @@ echo "On this page are general statistics about breadth and depth of the dataset
 echo "" >> statistics.md
 python scripts/statistics.py >> statistics.md
 echo "" >> statistics.md
-echo "(Back to homepage.)[/catholicdata/]" >> statistics.md
+echo "[Back to homepage.](/catholicdata/)" >> statistics.md
 
 
 # update repo
