@@ -15,7 +15,7 @@ We plan to add the following further information:
 * Additional people, including
     * all Popes (266)
     * many saints (thousands)
-    * all living bishops (an additiona 4,300) and known deceased bishops (many thousands)
+    * all living bishops (an additional 4,300) and known deceased bishops (many thousands)
     * a small number of other notable Catholics
 * Many notable Catholic places, including Basilicas (over 1,000), Cathedrals (over 3,000), and Abbeys/Priories (over 3,000)
 * Papal encyclicals and church council documents
