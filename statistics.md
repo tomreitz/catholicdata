@@ -11,7 +11,7 @@ On this page are general statistics about breadth and depth of the dataset. Thes
 | Regions with contact.email | 64 | 2.38% |
 | Regions with contact.phone | 163 | 6.05% |
 | Regions with contact.fax | 77 | 2.86% |
-| Regions with wikipedia | 76 | 2.82% |
+| Regions with wikipedia | 77 | 2.86% |
 | Regions with social.facebook | 194 | 7.2% |
 | Regions with social.twitter | 256 | 9.51% |
 | Regions with social.instagram | 101 | 3.75% |

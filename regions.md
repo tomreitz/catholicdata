@@ -17,19 +17,22 @@
       country: "United States",
       state: "Oregon",
       city: "Portland",
-      latitude: 29.83742,
-      longitude: -83.94729,
+      timezone: -8,
+      latitude: 45.523452,
+      longitude: -122.676207,
       geojson: "https://tomreitz.github.io/catholicdata/regions/ecclesiastical/us-or-portland.geojson"
     },
     contact: {
-      address1: "2838 East Burnside Street",
-      address2: "Portland, Oregon 97214-1830",
+      address: "2838 East Burnside Street\nPortland, Oregon 97214-1830",
       website: "https://archdpdx.org/",
       email: "info@archdpdx.org",
       phone: "+1-503-234-5334",
-      fax: "+1-503-234-2545",
+      fax: "+1-503-234-2545"
+    },
+    wikipedia: "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Portland_in_Oregon",
+    social: {
       facebook: "https://www.facebook.com/archdpdx",
-      twitter: "archdpdx"
+      twitter: "https://twitter.com/archdpdx"
     },
     events: [
       {
