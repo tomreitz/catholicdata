@@ -1,4 +1,5 @@
 # Statistics
+
 | Statistic | Count | Percent |
 | --------- | ----- | ------- |
 | Total regions | 2693 | 100.0% |
