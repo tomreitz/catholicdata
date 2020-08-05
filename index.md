@@ -28,26 +28,26 @@ We plan to add the following further information:
     * Founding and disbanding of organizations
 
 -----
-Below you can find all the available data endpoints, with links to further documentation about each dataset.
+Below are available data endpoints and links to further documentation.
 
 ## Regions
 * [regions.json](/catholicdata/regions.json), which contains all regions
 * [regions_ecclesiastical.json](/catholicdata/regions_ecclesiastical.json), which contains only ecclesiastical regions
-* [regions_ecclesiastical_current.json](/catholicdata/regions_ecclesiastical_current.json), which contains only current (non-suppressed) ecclesiastical regions
+* [regions_ecclesiastical_current.json](/catholicdata/regions_ecclesiastical_current.json), which contains only current ecclesiastical regions
 * [Documentation](/catholicdata/regions.html)
 
 ## People
-* [people.json](/catholicdata/people.json)
+* [people.json](/catholicdata/people.json), which contains all people
 * [Documentation](/catholicdata/people.html)
 
 ## Places
-* [places.json](/catholicdata/places.json)
+* [places.json](/catholicdata/places.json), which contains all places
 * [Documentation](/catholicdata/places.html)
 
 ## Organizations
-* [organizations.json](/catholicdata/organizations.json)
+* [organizations.json](/catholicdata/organizations.json), which contains all organizations
 * [Documentation](/catholicdata/organizations.html)
 
 ## Literature
-* [literature.json](/catholicdata/literature.json)
+* [literature.json](/catholicdata/literature.json), which contains all literature
 * [Documentation](/catholicdata/literature.html)
