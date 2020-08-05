@@ -10,6 +10,8 @@ One can measure the maturity of any dataset in terms of its breadth, depth, and 
 * 1,250 bishops (all current bishops of the US, UK, and several other countries, plus a few others)
 * 2,700 dioceses (all current geographic dioceses, but few titular ones)
 
+[Find further statistics here.](/catholicdata/statistics.html)
+
 We plan to add the following further information:
 * Historical dioceses, of which there are around 6,000
 * Additional people, including
