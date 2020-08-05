@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "id": "11", "properties": {"name": "District of Columbia", "density": 10065}, "geometry": {"type": "Polygon", "coordinates": [[[-77.035264, 38.993869], [-76.909294, 38.895284], [-77.040741, 38.791222], [-77.117418, 38.933623], [-77.035264, 38.993869]]]}}]}
