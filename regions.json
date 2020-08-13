@@ -5103,8 +5103,17 @@
         "latitude": 57.1474934,
         "longitude": -2.0953919
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "St Mary\u2019s House\n14 The Chanonry\nOld Aberdeen\nABERDEEN\nAB24 1RP",
+        "website": "https://www.rcda.scot/",
+        "phone": "+44 (0) 1224 319154",
+        "fax": "+44 (0) 1224 325570"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Aberdeen",
+      "social": {
+        "facebook": "https://www.facebook.com/RCDA.scot/",
+        "youtube": "https://www.youtube.com/user/keithherrera2"
+      },
       "events": []
     },
     {
@@ -5253,8 +5262,15 @@
         "latitude": 54.0774661,
         "longitude": -8.6537443
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Bishop\u2019s House\nConvent Road\nBallaghaderreen\nCo. Roscommon.\nF45 H004",
+        "website": "https://achonrydiocese.org/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Achonry",
+      "social": {
+        "twitter": "https://twitter.com/achonrydiocese",
+        "youtube": "https://www.youtube.com/user/AchonryDiocese"
+      },
       "events": []
     },
     {
@@ -6898,7 +6914,12 @@
         "latitude": 53.6663976,
         "longitude": -7.6941176
       },
-      "contact": {},
+      "contact": {
+        "address": "Diocesan Office\nBallinalee Road\nLongford\nCo. Longford",
+        "website": "https://ardaghdiocese.org/",
+        "email": "info@ardaghdiocese.org"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Ardagh_and_Clonmacnoise",
       "social": {},
       "events": []
     },
@@ -6947,8 +6968,16 @@
         "latitude": 56.2333333,
         "longitude": -5.7833333
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Diocesan Office, Bishop's House\nEsplanade, Oban, Argyll,\nPA34 5AB.\nScotland",
+        "website": "https://www.rcdai.org.uk/",
+        "email": "diocesansecretary@rcdai.org.uk",
+        "phone": "+44 01631 567436"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Argyll_and_the_Isles",
+      "social": {
+        "youtube": "https://www.youtube.com/channel/UCx5qmi0DZraqCADxacFPZ2A"
+      },
       "events": []
     },
     {
@@ -6995,8 +7024,15 @@
         "latitude": 54.3475392,
         "longitude": -6.6561082
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Ara Coeli\nCathedral Road\nARMAGH BT61 7QY",
+        "website": "https://www.armagharchdiocese.org/",
+        "email": "admin@aracoeli.com"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Armagh",
+      "social": {
+        "facebook": "https://www.facebook.com/ArchdioceseOfArmagh/"
+      },
       "events": []
     },
     {
@@ -7078,8 +7114,11 @@
         "longitude": -0.10742
       },
       "contact": {
-        "website": "https://www.dabnet.org/"
+        "address": "Bishop's House\nThe Upper Drive\nHove BN3 6NB",
+        "website": "https://www.dabnet.org/",
+        "phone": "+44 01273 506387"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Arundel_and_Brighton",
       "social": {
         "facebook": "https://www.facebook.com/ABDiocese/",
         "twitter": "https://twitter.com/ABDiocese"
@@ -9370,8 +9409,11 @@
       "contact": {
         "website": "https://www.birminghamdiocese.org.uk/"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Birmingham",
       "social": {
-        "twitter": "https://twitter.com/RCBirmingham"
+        "facebook": "https://www.facebook.com/BirminghamArchdiocese/",
+        "twitter": "https://twitter.com/RCBirmingham",
+        "instagram": "https://www.instagram.com/birminghamarchdiocese/"
       },
       "events": []
     },
@@ -9999,6 +10041,7 @@
       "contact": {
         "website": "https://www.dioceseofbrentwood.net/"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Brentwood",
       "social": {
         "twitter": "https://twitter.com/BrentwoodRC"
       },
@@ -11505,9 +11548,14 @@
         "longitude": -3.1804979
       },
       "contact": {
-        "website": "https://rcadc.org/"
+        "address": "Archbishop\u2019s House\n43 Cathedral Road\nCardiff\nCF11 9HD",
+        "website": "https://rcadc.org/",
+        "phone": "+44 (029) 2022 0411",
+        "fax": "+44 (029) 2037 9036"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Cardiff",
       "social": {
+        "facebook": "https://www.facebook.com/Cardiff.Archdiocese/",
         "twitter": "https://twitter.com/CatholicCardiff"
       },
       "events": []
@@ -11739,8 +11787,14 @@
         "latitude": 52.514595,
         "longitude": -7.893943
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://cashel-emly.ie/",
+        "email": "office@cashel-emly.ie"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Cashel_and_Emly",
+      "social": {
+        "twitter": "https://twitter.com/CashelandEmly"
+      },
       "events": []
     },
     {
@@ -13179,6 +13233,7 @@
       "contact": {
         "website": "https://cliftondiocese.com/"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Clifton",
       "social": {
         "twitter": "https://twitter.com/cliftondiocese"
       },
@@ -13196,8 +13251,15 @@
         "latitude": 52.2192139,
         "longitude": -8.4890404
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://www.clogherdiocese.ie/",
+        "email": "diocesanoffice@clogherdiocese.ie"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Clogher",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseofclogher/",
+        "twitter": "https://twitter.com/clogherdiocese"
+      },
       "events": []
     },
     {
@@ -13212,8 +13274,15 @@
         "latitude": 53.3620366,
         "longitude": -6.6725941
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Clonfert Diocese\nLoughrea\nCo. Galway",
+        "website": "https://www.clonfertdiocese.ie/",
+        "email": "office@clonfertdiocese.ie"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Clonfert",
+      "social": {
+        "twitter": "https://twitter.com/Clonfertdiocese"
+      },
       "events": []
     },
     {
@@ -13228,8 +13297,17 @@
         "latitude": 51.8630196,
         "longitude": -8.1189183
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Cloyne Diocesan Centre\nCobh\nCo. Cork",
+        "website": "http://cloynediocese.ie/",
+        "email": "info@cloynediocese.ie"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Cloyne",
+      "social": {
+        "facebook": "https://www.facebook.com/DioceseOfCloyne/",
+        "twitter": "https://twitter.com/CloyneDiocese",
+        "instagram": "https://www.instagram.com/diocese_of_cloyne/"
+      },
       "events": []
     },
     {
@@ -13710,8 +13788,17 @@
         "latitude": 53.1294577,
         "longitude": -7.9218816
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Cork and Ross Diocesan Offices\nRedemption Road\nCork\nT23 PXD0",
+        "website": "https://corkandross.org/",
+        "email": "info@corkandross.org",
+        "phone": "+353 (0)21 4301717",
+        "fax": "+353 (0)21 4301557"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Cork_and_Ross",
+      "social": {
+        "youtube": "https://www.youtube.com/channel/UC5cqvhBwBPTxHjFM3zgSiXA"
+      },
       "events": []
     },
     {
@@ -14778,10 +14865,15 @@
         "longitude": -7.325508
       },
       "contact": {
+        "address": "St Eugene\u2019s Cathedral\nFrancis Street, Derry\nBT48 9AP",
         "website": "https://derrydiocese.org/"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Derry",
       "social": {
-        "twitter": "https://twitter.com/DioceseOfDerry"
+        "facebook": "https://www.facebook.com/derrydiocese",
+        "twitter": "https://twitter.com/DioceseOfDerry",
+        "instagram": "https://www.instagram.com/dioceseofderry/",
+        "youtube": "https://www.youtube.com/channel/UC23j2EwUaLsjGI-5xnZ12oQ"
       },
       "events": []
     },
@@ -15204,6 +15296,7 @@
         "phone": "+44 (0) 28 9077 6185",
         "fax": "+44 (0) 28 9077 9377"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Down_and_Connor",
       "social": {
         "facebook": "https://www.facebook.com/downandconnor",
         "twitter": "https://twitter.com/DownandConnor"
@@ -15254,7 +15347,11 @@
         "latitude": 54.4165302,
         "longitude": -6.1488657
       },
-      "contact": {},
+      "contact": {
+        "website": "https://www.dromorediocese.org/",
+        "email": "bishop@dromorediocese.org"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Dromore",
       "social": {},
       "events": []
     },
@@ -15271,8 +15368,11 @@
         "longitude": -6.2674937
       },
       "contact": {
-        "website": "https://www.dublindiocese.ie/"
+        "address": "Archdiocese Of Dublin\nDrumcondra Road Lower\nDublin 9, Ireland",
+        "website": "https://www.dublindiocese.ie/",
+        "email": "communications@dublindiocese.ie"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Dublin",
       "social": {
         "facebook": "https://www.facebook.com/DublinDiocese/",
         "twitter": "https://twitter.com/DublinDiocese",
@@ -15405,8 +15505,17 @@
         "latitude": 56.5651093,
         "longitude": -3.5853577
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://www.dunkelddiocese.co.uk/",
+        "email": "chancellor@dunkelddiocese.org.uk",
+        "phone": "+44 01382 225453",
+        "fax": "+44 01382 204585"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Diocese_of_Dunkeld",
+      "social": {
+        "twitter": "https://twitter.com/DunkeldDiocese",
+        "youtube": "https://www.youtube.com/channel/UC-KO-dOv492Ll_w6WSbOmZg"
+      },
       "events": []
     },
     {
@@ -15481,9 +15590,16 @@
         "latitude": 52.0190289,
         "longitude": -0.7704274
       },
-      "contact": {},
+      "contact": {
+        "address": "The White House,\n21 Upgate,\nPoringland,\nNorwich,\nNorfolk, NR14 7SH",
+        "website": "https://www.rcdea.org.uk/",
+        "phone": "+44 01508 492202"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_East_Anglia",
       "social": {
-        "twitter": "https://twitter.com/RCEastAnglia"
+        "facebook": "https://www.facebook.com/CatholicEastAnglia/",
+        "twitter": "https://twitter.com/RCEastAnglia",
+        "youtube": "https://www.youtube.com/channel/UCp7jAV96y4v5T4s8C4aF6Eg"
       },
       "events": []
     },
@@ -15764,8 +15880,16 @@
         "latitude": 53.8448293,
         "longitude": -8.1922599
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Diocesan Office\nSt Mary\u2019s, Temple Street, Sligo",
+        "website": "https://www.elphindiocese.ie/",
+        "email": "office@elphindiocese.ie"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Diocese_of_Elphin",
+      "social": {
+        "facebook": "https://www.facebook.com/elphindiocese",
+        "twitter": "https://twitter.com/elphindiocese"
+      },
       "events": []
     },
     {
@@ -16373,7 +16497,12 @@
         "latitude": 52.591771,
         "longitude": -6.4976543
       },
-      "contact": {},
+      "contact": {
+        "address": "Bishop's House\nPO Box 40\nSummerhill, Wexford, Ireland",
+        "website": "https://ferns.ie/",
+        "email": "adm@ferns.ie"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Ferns",
       "social": {},
       "events": []
     },
@@ -17030,8 +17159,16 @@
         "latitude": 55.05,
         "longitude": -4.5
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Candida Casa, 8 Corsehill Road\nAyr KA7 2ST",
+        "website": "http://www.gallowaydiocese.org.uk/",
+        "email": "administration@gallowaydiocese.org.uk",
+        "phone": "+44 01292 266750"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Diocese_of_Galloway",
+      "social": {
+        "facebook": "https://www.facebook.com/GallowayDiocese/"
+      },
       "events": []
     },
     {
@@ -17046,8 +17183,16 @@
         "latitude": 53.5359425,
         "longitude": -9.1588506
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Diocesan Office\nThe Cathedral\nGaol Road\nGalway H91 A780\nIreland",
+        "website": "https://www.galwaydiocese.ie/",
+        "email": "info@galwaydiocese.ie"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Galway,_Kilmacduagh_and_Kilfenora",
+      "social": {
+        "facebook": "https://www.facebook.com/galwaydiocese",
+        "youtube": "https://www.youtube.com/channel/UC-IglX7vlWx_Knxs24v9YgA"
+      },
       "events": []
     },
     {
@@ -17468,6 +17613,7 @@
       "contact": {
         "website": "http://www.rcag.org.uk/"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Glasgow",
       "social": {
         "facebook": "https://www.facebook.com/ArchdioceseofGlasgow",
         "twitter": "https://twitter.com/ArchdiocGlasgow",
@@ -18579,8 +18725,17 @@
         "latitude": 52.9667936,
         "longitude": -1.3592845
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Hallam Pastoral Centre\nSt Charles Street\nSheffield, South Yorkshire, S9 3WU",
+        "website": "https://hallam-diocese.com/",
+        "email": "contact@hallam-diocese.com",
+        "phone": "+44 0114 256 6401",
+        "fax": "+44 0114 256 2673"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Hallam",
+      "social": {
+        "facebook": "https://www.facebook.com/whatsonhallamdiocese/"
+      },
       "events": []
     },
     {
@@ -18874,10 +19029,15 @@
         "longitude": -1.6129165
       },
       "contact": {
-        "website": "http://www.rcdhn.org.uk/"
+        "address": "St. Cuthbert's House\nWest Road\nNewcastle upon Tyne\nNE15 7PY",
+        "website": "http://www.rcdhn.org.uk/",
+        "email": "office@rcdhn.org.uk"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Hexham_and_Newcastle",
       "social": {
-        "twitter": "https://twitter.com/dioceseHN"
+        "facebook": "https://www.facebook.com/diocesehn",
+        "twitter": "https://twitter.com/dioceseHN",
+        "youtube": "https://www.youtube.com/channel/UC-Oh6u5ge6nPONK8lnUOh-g"
       },
       "events": []
     },
@@ -22047,8 +22207,16 @@
         "latitude": 52.0614133,
         "longitude": -9.5264371
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Bishop\u2019s House\nKillarney",
+        "website": "https://www.dioceseofkerry.ie/",
+        "email": "admin@dioceseofkerry.ie"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Kerry",
+      "social": {
+        "facebook": "https://www.facebook.com/KerryDiocese/",
+        "instagram": "https://www.instagram.com/youthdok/"
+      },
       "events": []
     },
     {
@@ -22304,9 +22472,11 @@
         "longitude": 0.0
       },
       "contact": {
+        "address": "Bishop\u2019s House,\nOld Dublin Road\nCarlow Town\nIreland",
         "website": "https://www.kandle.ie/",
         "phone": "+353 (0)59 9176725"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Kildare_and_Leighlin",
       "social": {
         "facebook": "https://www.facebook.com/KANDLEi",
         "twitter": "https://twitter.com/KANDLEi"
@@ -22325,8 +22495,17 @@
         "latitude": 54.211451,
         "longitude": -9.2202422
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Bishop's House\nBallina\nCo Mayo",
+        "website": "https://www.killaladiocese.org/",
+        "email": "admin@killaladiocese.org",
+        "phone": "+353 (0)96 21518",
+        "fax": "+353 (0)96 70344"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Killala",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseofkillala"
+      },
       "events": []
     },
     {
@@ -22341,8 +22520,19 @@
         "latitude": 52.8067765,
         "longitude": -8.4415884
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Killaloe Diocesan Office\nWestbourne, Cusack Road\nEnnis\nCo. Clare, V95 W63H",
+        "website": "https://www.killaloediocese.ie/",
+        "email": "office@killaloediocese.ie",
+        "phone": "+353 65 682 8638",
+        "fax": "+353 65 684 2538"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Killaloe",
+      "social": {
+        "facebook": "https://www.facebook.com/KillaloeDiocese/",
+        "twitter": "https://twitter.com/KillaloeDiocese",
+        "instagram": "https://www.instagram.com/killaloediocese/"
+      },
       "events": []
     },
     {
@@ -22357,8 +22547,15 @@
         "latitude": 53.9929208,
         "longitude": -7.4128995
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Bishop\u2019s House\nCullies\nCavan\nH12 P5W6",
+        "website": "https://www.kilmorediocese.ie/",
+        "email": "bishop@kilmorediocese.ie"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Kilmore",
+      "social": {
+        "twitter": "https://twitter.com/DioceseKilmore"
+      },
       "events": []
     },
     {
@@ -23514,6 +23711,7 @@
       "contact": {
         "website": "http://www.lancasterdiocese.org.uk/"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Lancaster",
       "social": {
         "facebook": "https://www.facebook.com/Diocese-of-Lancaster-733141523481854/",
         "twitter": "https://twitter.com/LancasterDioces"
@@ -23903,8 +24101,16 @@
         "latitude": 53.7996374,
         "longitude": -1.54911
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Hinsley Hall\n62 Headingley Lane\nLeeds\nLS6 2BX",
+        "website": "https://www.dioceseofleeds.org.uk/",
+        "email": "communications@dioceseofleeds.org.uk",
+        "phone": "+44 0113 261 8023"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Leeds",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseofleeds/"
+      },
       "events": []
     },
     {
@@ -24304,7 +24510,13 @@
         "latitude": 52.6638571,
         "longitude": -8.6267726
       },
-      "contact": {},
+      "contact": {
+        "address": "Limerick Diocesan Centre\nSt Munchins\nCorbally\nLimerick\nV94 925C",
+        "website": "https://www.limerickdiocese.org/",
+        "email": "office@limerickdiocese.org",
+        "phone": "+353 61 350000"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Limerick",
       "social": {},
       "events": []
     },
@@ -24418,6 +24630,7 @@
         "longitude": -6.4144862
       },
       "contact": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Bishop_of_Lindisfarne",
       "social": {},
       "events": []
     },
@@ -24596,8 +24809,11 @@
         "longitude": -2.9778383
       },
       "contact": {
-        "website": "http://liverpoolcatholic.org.uk/"
+        "address": "Liverpool Archdiocesan Office\nCroxteth Drive\nLiverpool\nL17 1AA",
+        "website": "http://liverpoolcatholic.org.uk/",
+        "phone": "+44 0151 522 1000"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Liverpool",
       "social": {
         "twitter": "https://twitter.com/lpoolcatholic"
       },
@@ -27109,8 +27325,15 @@
         "latitude": 53.6313366,
         "longitude": -6.7908388
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Meath Diocesan Office\nDublin Road\nMullingar\nCounty Westmeath",
+        "website": "https://dioceseofmeath.ie/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Meath",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseofmeath",
+        "twitter": "https://twitter.com/dioceseofmeath"
+      },
       "events": []
     },
     {
@@ -27345,7 +27568,14 @@
         "latitude": 52.4699784,
         "longitude": -3.8303771
       },
-      "contact": {},
+      "contact": {
+        "address": "27 Convent Street\nGreenhill\nSwansea\nSA1 2BX",
+        "website": "http://www.menevia.org/",
+        "email": "pa@menevia.org",
+        "phone": "+44 01792 644017",
+        "fax": "+44 01792 659286"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Menevia",
       "social": {},
       "events": []
     },
@@ -27616,9 +27846,17 @@
         "latitude": 54.5730073,
         "longitude": -1.2379106
       },
-      "contact": {},
+      "contact": {
+        "address": "50a The Avenue\nLinthorpe\nMiddlesbrough\nTS5 6QT",
+        "website": "https://middlesbrough-diocese.org.uk/",
+        "email": "communications@rcdmidd.org.uk",
+        "phone": "+44 01642 850505"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Middlesbrough",
       "social": {
-        "twitter": "https://twitter.com/MbroDiocese"
+        "facebook": "https://www.facebook.com/MiddlesbroughDiocese/",
+        "twitter": "https://twitter.com/MbroDiocese",
+        "youtube": "https://www.youtube.com/channel/UCrHHOTloR8TPdwQEC8IlPVw"
       },
       "events": []
     },
@@ -28455,8 +28693,18 @@
         "latitude": 55.789136,
         "longitude": -3.9954569
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Diocesan Centre\nCoursington Road\nMotherwell\nML1 1PP",
+        "website": "https://www.rcdom.org.uk/",
+        "email": "chancellor@rcdom.org.uk",
+        "phone": "+44 01698 269114",
+        "fax": "+44 01698 275630"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Motherwell",
+      "social": {
+        "facebook": "https://www.facebook.com/rcmotherwell",
+        "twitter": "https://twitter.com/rcmotherwell"
+      },
       "events": []
     },
     {
@@ -29939,9 +30187,17 @@
         "latitude": 52.2368744,
         "longitude": -0.8973906
       },
-      "contact": {},
+      "contact": {
+        "address": "Bishop's House\nMarriott Street\nNorthampton\nNN2 6AW",
+        "website": "https://northamptondiocese.org/",
+        "email": "enquiries@northamptondiocese.org",
+        "phone": "+44 01604 715635"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Northampton",
       "social": {
-        "twitter": "https://twitter.com/RCNorthampton"
+        "facebook": "https://www.facebook.com/Northamptondiocese/",
+        "twitter": "https://twitter.com/RCNorthampton",
+        "instagram": "https://www.instagram.com/dioceseofnorthampton/"
       },
       "events": []
     },
@@ -29991,10 +30247,17 @@
         "longitude": -1.1493098
       },
       "contact": {
-        "website": "https://www.dioceseofnottingham.uk/"
+        "address": "Bishop's House\n27 Cavendish Road East\nNottingham\nNG7 1BB",
+        "website": "https://www.dioceseofnottingham.uk/",
+        "email": "bishop@nrcdt.org.uk",
+        "phone": "+44 0115 947 4786",
+        "fax": "+44 0115947 5235"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Nottingham",
       "social": {
-        "twitter": "https://twitter.com/NottsDiocese"
+        "facebook": "https://www.facebook.com/dioceseofnottingham/",
+        "twitter": "https://twitter.com/NottsDiocese",
+        "instagram": "https://www.instagram.com/nottsdiocese/"
       },
       "events": []
     },
@@ -30987,10 +31250,13 @@
         "longitude": -6.2420065
       },
       "contact": {
+        "address": "Ossory Diocesan Office\nJames\u2019s Street\nKilkenny",
         "website": "https://ossory.ie/",
         "email": "bishop@ossory.ie",
+        "phone": "+353 056-7762448",
         "fax": "+353 056-7763753"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Ossory",
       "social": {
         "facebook": "https://www.facebook.com/ossory.diocese",
         "twitter": "https://twitter.com/OssoryDiocese"
@@ -31356,8 +31622,17 @@
         "latitude": 55.845413,
         "longitude": -4.4236038
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Cathedral Precincts\nIncle Street\nPaisley\nPA1 1HR",
+        "website": "https://rcdop.org.uk/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Paisley",
+      "social": {
+        "facebook": "https://www.facebook.com/paisleydiocese",
+        "twitter": "https://twitter.com/PaisleyDiocese",
+        "instagram": "https://www.instagram.com/dioceseofpaisley/",
+        "youtube": "https://www.youtube.com/channel/UCByQTCBDjIFa0zK7GG7lgZQ"
+      },
       "events": []
     },
     {
@@ -32825,10 +33100,16 @@
         "longitude": -4.142653
       },
       "contact": {
-        "website": "https://www.plymouth-diocese.org.uk/"
+        "address": "St Boniface House\nAshburton\nNewton Abbot\nTQ13 7JL",
+        "website": "https://www.plymouth-diocese.org.uk/",
+        "email": "info@prcdtr.org.uk",
+        "phone": "+44 01364 645360"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Plymouth",
       "social": {
-        "twitter": "https://twitter.com/PlymouthDiocese"
+        "facebook": "https://www.facebook.com/plymouthdiocese/",
+        "twitter": "https://twitter.com/PlymouthDiocese",
+        "youtube": "https://www.youtube.com/channel/UC8KUEwsXFK3VBLEfn4H1tBw"
       },
       "events": []
     },
@@ -33341,7 +33622,10 @@
         "latitude": 50.7989137,
         "longitude": -1.0911627
       },
-      "contact": {},
+      "contact": {
+        "website": "https://www.portsmouthdiocese.org.uk/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Portsmouth",
       "social": {},
       "events": []
     },
@@ -34368,8 +34652,17 @@
         "latitude": 54.8736878,
         "longitude": -7.6004822
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Ard Adhamhn\u00e1in\nLetterkenny\nCo Donegal\nIreland",
+        "website": "https://www.raphoediocese.ie/",
+        "email": "diocesanoffice@raphoediocese.ie",
+        "phone": "+353 074 9121208",
+        "fax": "+353 074 9124872"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Raphoe",
+      "social": {
+        "twitter": "https://twitter.com/RaphoeDiocese"
+      },
       "events": []
     },
     {
@@ -35289,8 +35582,18 @@
         "latitude": 55.9501755,
         "longitude": -3.1875359
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Archdiocesan Offices\n100 Strathearn Road\nEdinburgh\nEH9 1BB",
+        "website": "https://archedinburgh.org/",
+        "email": "information@staned.org.uk",
+        "phone": "+44 0131 623 8900"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_St_Andrews_and_Edinburgh",
+      "social": {
+        "facebook": "https://www.facebook.com/EdinburghRCdiocese/",
+        "twitter": "https://twitter.com/archedinburgh",
+        "youtube": "https://www.youtube.com/channel/UCpeWTFr87oQNpdWGgv_G9bw"
+      },
       "events": []
     },
     {
@@ -35748,9 +36051,17 @@
         "latitude": 53.487707,
         "longitude": -2.2904198
       },
-      "contact": {},
+      "contact": {
+        "website": "https://www.dioceseofsalford.org.uk/",
+        "email": "communications@dioceseofsalford.org.uk",
+        "phone": "+44 01618 172222"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Salford",
       "social": {
-        "twitter": "https://twitter.com/SalfordDiocese"
+        "facebook": "https://www.facebook.com/salforddiocese/",
+        "twitter": "https://twitter.com/SalfordDiocese",
+        "instagram": "https://www.instagram.com/salforddiocese/",
+        "youtube": "https://www.youtube.com/channel/UCLIzCEYrdV5SopVghvc28kw"
       },
       "events": []
     },
@@ -38404,6 +38715,7 @@
       "contact": {
         "website": "http://www.dioceseofshrewsbury.org/"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Shrewsbury",
       "social": {
         "twitter": "https://twitter.com/ShrewsRCnews"
       },
@@ -39115,10 +39427,18 @@
         "longitude": -0.0979935
       },
       "contact": {
-        "website": "http://www.rcsouthwark.co.uk/"
+        "address": "Archbishop's House\n150 St George's Road\nLondon\nSE1 6HX",
+        "website": "http://www.rcsouthwark.co.uk/",
+        "email": "archbishop@rcaos.org.uk",
+        "phone": "+44 020 7928 2495",
+        "fax": "+44 020 7928 7833"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Southwark",
       "social": {
-        "twitter": "https://twitter.com/RC_Southwark"
+        "facebook": "https://www.facebook.com/ArchdioceseOfSouthwark",
+        "twitter": "https://twitter.com/RC_Southwark",
+        "instagram": "https://www.instagram.com/rcsouthwark/",
+        "youtube": "https://www.youtube.com/channel/UCr5pOWykDRh4v042c7n_vYA"
       },
       "events": []
     },
@@ -41806,11 +42126,13 @@
         "longitude": -8.851281
       },
       "contact": {
+        "address": "The Archbishop\u2019s House\nTuam\nCo. Galway",
         "website": "https://www.tuamarchdiocese.org/",
         "email": "admin@tuamarchdiocese.org",
         "phone": "+353-093-24166",
         "fax": "+353-093-28070"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Tuam",
       "social": {
         "facebook": "https://www.facebook.com/archdiocesetuam",
         "twitter": "https://twitter.com/tuamarchdiocese"
@@ -43831,8 +44153,18 @@
         "latitude": 52.25,
         "longitude": -7.5
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Bishop\u2019s House\nJohn\u2019s Hill\nWaterford\nRep. Ireland",
+        "website": "https://www.waterfordlismore.ie/",
+        "email": "info@waterfordlismore.ie",
+        "phone": "+353 51 874463",
+        "fax": "+353 51 852703"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Waterford_and_Lismore",
+      "social": {
+        "facebook": "https://www.facebook.com/Diocese-of-Waterford-and-Lismore-124495764656586/",
+        "youtube": "https://www.youtube.com/channel/UCN3pVwI4TcSHYFo6O14TIyA"
+      },
       "events": []
     },
     {
@@ -43918,6 +44250,7 @@
         "email": "enquiries@rcdow.org.uk",
         "phone": "+44 020 7798 9009"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Westminster",
       "social": {
         "facebook": "https://www.facebook.com/diocese.westminster",
         "twitter": "https://twitter.com/RCWestminster",
@@ -44150,8 +44483,16 @@
         "latitude": 53.0469077,
         "longitude": -2.9916733
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Bishops House\nSontley Road\nWrexham\n\u200bLL13 7EW",
+        "website": "https://www.rcdwxm.org.uk/",
+        "email": "communications@rcdwxm.org.uk"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Wrexham",
+      "social": {
+        "facebook": "https://www.facebook.com/wrexhamdiocese/",
+        "youtube": "https://www.youtube.com/channel/UCGvWVUTM8wQ3AfMuS4rXbPQ"
+      },
       "events": []
     },
     {
@@ -45237,7 +45578,10 @@
         "latitude": 52.30721,
         "longitude": -1.935424
       },
-      "contact": {},
+      "contact": {
+        "website": "https://www.rcbishopricforces.org.uk/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Bishopric_of_the_Forces_in_Great_Britain",
       "social": {},
       "events": []
     },
@@ -45853,9 +46197,11 @@
         "longitude": -0.71045
       },
       "contact": {
+        "address": "24 Golden Square\nLondon\nW1F 9JR",
         "website": "https://www.ordinariate.org.uk/",
         "email": "enquiries@ordinariate.org.uk"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Personal_Ordinariate_of_Our_Lady_of_Walsingham",
       "social": {
         "facebook": "https://www.facebook.com/UKOrdinariate",
         "twitter": "https://twitter.com/UKOrdinariate"
