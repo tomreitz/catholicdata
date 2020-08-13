@@ -36,13 +36,13 @@ Below are available data endpoints and links to further documentation.
 * [regions_ecclesiastical_current.json](/catholicdata/regions_ecclesiastical_current.json), which contains only current ecclesiastical regions
 * [Documentation](/catholicdata/regions.html)
 
-## People
-* [people.json](/catholicdata/people.json), which contains all people
-* [Documentation](/catholicdata/people.html)
-
 ## Places
 * [places.json](/catholicdata/places.json), which contains all places
 * [Documentation](/catholicdata/places.html)
+
+## People
+* [people.json](/catholicdata/people.json), which contains all people
+* [Documentation](/catholicdata/people.html)
 
 ## Organizations
 * [organizations.json](/catholicdata/organizations.json), which contains all organizations

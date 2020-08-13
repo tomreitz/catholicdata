@@ -95,7 +95,7 @@ Event types for regions include
 * Split, when a region is split into two new regions
 * United, when a region is joined with another region
 * Absorbed, when a region ceases to exist because it became part of another region
-* Supressed, when a region ceased to exist and its territory is unted with another region
+* Suppressed, when a region ceased to exist and its territory is united with another region
 
 ## Notes
 * Dates throughout take the form YYYY-MM-DD, YYYY-MM (when only the year and month are known), or YYYY (when only the year is known). Dates may be appended with (c.) to indicate that an exact date is not known. We append rather than prepend to avoid issues with sorting by date. Example: "0045 (c.)".
