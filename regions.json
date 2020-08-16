@@ -5333,8 +5333,18 @@
         "latitude": -34.92577,
         "longitude": 138.599732
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "39 Wakefield Street, Adelaide SA 5000\nGPO Box 1364, Adelaide SA 5001",
+        "website": "https://adelaide.catholic.org.au/",
+        "email": "cco-reception@adelaide.catholic.org.au",
+        "phone": "+61 8210 8210",
+        "fax": "+61 8223 2307"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Adelaide",
+      "social": {
+        "facebook": "https://www.facebook.com/adelaidearchdiocese/",
+        "youtube": "https://www.youtube.com/channel/UCG8JH2Ixvf3Bf4rHrFO_vVw"
+      },
       "events": []
     },
     {
@@ -5978,8 +5988,16 @@
         "latitude": 45.17141,
         "longitude": -74.7784899
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "The Diocese of Alexandria-Cornwall\n220 Montreal Road\nCornwall, Ontario K6H 1B4",
+        "website": "https://alexandria-cornwall.ca/",
+        "phone": "+1-613-933-1138",
+        "fax": "+1-613-937-4931"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Alexandria-Cornwall",
+      "social": {
+        "facebook": "https://www.facebook.com/Diocese-of-Alexandria-Cornwall-122923081056376"
+      },
       "events": []
     },
     {
@@ -6351,8 +6369,16 @@
         "latitude": 48.57191,
         "longitude": -78.115982
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "450 rue Principale Nord\nAmos Qu\u00e9bec J9T 2M1",
+        "website": "http://www.diocese-amos.org/",
+        "email": "info@diocese-amos.org",
+        "phone": "+1-819-732-6515"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Amos",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseamos"
+      },
       "events": []
     },
     {
@@ -6657,8 +6683,19 @@
         "latitude": 45.622459,
         "longitude": -61.991416
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "168 Hawthorne St.\nPO Box 1330\nAntigonish, NS B2G 2L7",
+        "website": "https://www.antigonishdiocese.com/",
+        "email": "inquiry@dioceseofantigonish.ca",
+        "phone": "+1-902-863-3335"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Antigonish",
+      "social": {
+        "facebook": "https://www.facebook.com/antigonishdiocese",
+        "twitter": "https://twitter.com/d_antigonish",
+        "instagram": "https://www.instagram.com/d_antigonish/",
+        "youtube": "https://www.youtube.com/channel/UCPYevnyrNU6zIWHDh8KJ71w"
+      },
       "events": []
     },
     {
@@ -7064,8 +7101,17 @@
         "latitude": -30.514166,
         "longitude": 151.668986
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Unit 3/131 Barney Street\nPO Box 93\nArmidale NSW 2350",
+        "website": "https://armidale.catholic.org.au/",
+        "email": "chancery@armidale.catholic.org.au",
+        "phone": "+61 (02) 6771 8700"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Armidale",
+      "social": {
+        "facebook": "https://www.facebook.com/Diocese-of-Armidale-103284721332959/",
+        "youtube": "https://www.youtube.com/channel/UCqXeOeOKWuiCYm3_w402sfg"
+      },
       "events": []
     },
     {
@@ -7889,7 +7935,14 @@
         "latitude": 49.214479,
         "longitude": -68.194714
       },
-      "contact": {},
+      "contact": {
+        "address": "639 rue de Bretagne\nBaie-Comeau (Qu\u00e9bec) G5C 1X2",
+        "website": "https://diocese-bc.net/",
+        "email": "diocese.bcomeau@cgocable.ca",
+        "phone": "+1-418-589-5744",
+        "fax": "+1-418-295-3145"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Baie-Comeau",
       "social": {},
       "events": []
     },
@@ -8669,7 +8722,14 @@
         "latitude": 47.617401,
         "longitude": -65.649166
       },
-      "contact": {},
+      "contact": {
+        "address": "645, avenue Murray\nC.P. 460, Bathurst, N.-B. Canada\nE2A 3Z4",
+        "website": "http://diocesebathurst.com/",
+        "email": "diocesedebathurst@nb.aibn.com",
+        "phone": "+1-506-546-1420",
+        "fax": "+1-506-546-1423"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Bathurst_in_Canada",
       "social": {},
       "events": []
     },
@@ -10974,6 +11034,7 @@
         "email": "communications@calgarydiocese.ca",
         "phone": "+1-403-218-5500"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Calgary",
       "social": {
         "facebook": "https://www.facebook.com/calgarydiocese",
         "twitter": "https://twitter.com/calgarydiocese",
@@ -12312,8 +12373,18 @@
         "latitude": 46.256663,
         "longitude": -63.138874
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "P.O. Box 907\nCharlottetown, P.E.I.\nCanada, C1A 7L9",
+        "website": "http://dioceseofcharlottetown.com/",
+        "email": "rc@dioceseofcharlottetown.com",
+        "phone": "+1-902-368-8005",
+        "fax": "+1-902-892-1253"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Charlottetown",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseofcharlottetown",
+        "twitter": "https://twitter.com/chtowndiocese"
+      },
       "events": []
     },
     {
@@ -12441,8 +12512,14 @@
         "latitude": 48.427747,
         "longitude": -71.062875
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "http://www.evechedechicoutimi.qc.ca/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Chicoutimi",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesechicoutimi/",
+        "twitter": "https://twitter.com/Chic_diocese"
+      },
       "events": []
     },
     {
@@ -12892,8 +12969,16 @@
         "latitude": 52.9399159,
         "longitude": -106.4508639
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "P.O. Box 10\n230 Laverendrye Avenue\nChurchill, Manitoba, Canada\nROB OEO",
+        "website": "https://dioceseofchurchillhudsonbay.com/",
+        "phone": "+1-204-675-2252",
+        "fax": "+1-204-675-2140"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Churchill-Hudson_Bay",
+      "social": {
+        "facebook": "https://www.facebook.com/Diocese-of-Churchill-Hudson-Bay-519341644800065/"
+      },
       "events": []
     },
     {
@@ -13830,8 +13915,17 @@
         "latitude": 48.942358,
         "longitude": -57.920511
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "469 Curling Street\nCorner Brook, NL\nA2H 3K8",
+        "website": "http://www.rcchurch.com/",
+        "email": "diocese@nf.aibn.com",
+        "phone": "+1-709-639-7073",
+        "fax": "+1-709-639-8662"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Corner_Brook_and_Labrador",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseofcornerbrookandlabrador"
+      },
       "events": []
     },
     {
@@ -15684,10 +15778,16 @@
         "longitude": -113.493698
       },
       "contact": {
-        "website": "https://caedm.ca/"
+        "address": "8421 - 101 Avenue\nEdmonton, AB T6A 0L1",
+        "website": "https://caedm.ca/",
+        "phone": "+1-780-469-1010",
+        "fax": "+1-780-465-3003"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Edmonton",
       "social": {
-        "twitter": "https://twitter.com/archedmonton"
+        "facebook": "https://www.facebook.com/archedmonton",
+        "twitter": "https://twitter.com/archedmonton",
+        "youtube": "https://www.youtube.com/user/EdmontonArchdiocese"
       },
       "events": []
     },
@@ -15704,8 +15804,19 @@
         "latitude": 47.369055,
         "longitude": -68.323795
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "60 Ren\u00e9-Bouchard St.\nEdmundston, NB\nCANADA  E3V 3K1",
+        "website": "https://www.diocese-edmundston.ca/index.html",
+        "email": "diocese@nbnet.nb.ca",
+        "phone": "+1-506-735-5578",
+        "fax": "+1-506-735-4271"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Edmundston",
+      "social": {
+        "facebook": "https://www.facebook.com/sdj.diocesededmundston",
+        "twitter": "https://twitter.com/dio_edmundston",
+        "youtube": "https://www.youtube.com/channel/UCGupSFypoElBpzM_7aqgbYg"
+      },
       "events": []
     },
     {
@@ -17336,7 +17447,10 @@
         "latitude": 48.830066,
         "longitude": -64.481755
       },
-      "contact": {},
+      "contact": {
+        "website": "https://diocesegaspe.org/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Gasp%C3%A9",
       "social": {},
       "events": []
     },
@@ -17353,8 +17467,17 @@
         "latitude": 45.476592,
         "longitude": -75.701268
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "180, boulevard du Mont-Bleu,\nGatineau (Qu\u00e9bec) J8Z 3J5",
+        "website": "https://www.diocesegatineau.org/",
+        "phone": "+1-819-771-8391",
+        "fax": "+1-819-778-8969"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Gatineau",
+      "social": {
+        "facebook": "https://www.facebook.com/archidiogatineau/",
+        "twitter": "https://twitter.com/diocesegatineau"
+      },
       "events": []
     },
     {
@@ -17991,8 +18114,16 @@
         "latitude": 47.051377,
         "longitude": -67.734914
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO Box 771\nGrand Falls-Windsor\nNL   A2A 2M4",
+        "website": "http://www.rcdiocesegrandfalls.ca/",
+        "phone": "+1-709-489-2778",
+        "fax": "+1-709-489-8431"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Grand_Falls",
+      "social": {
+        "facebook": "https://www.facebook.com/DioceseOfGrandFalls/"
+      },
       "events": []
     },
     {
@@ -18104,8 +18235,16 @@
         "latitude": 55.7019,
         "longitude": -116.901001
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Archdiocese of Grouard-McLennan\nChancery Office\n10301 102 Street\nGrande Prairie, Alberta T8V 2W2",
+        "website": "https://archgm.ca/",
+        "phone": "+1-780-532-9766",
+        "fax": "+1-780-532-9706"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Grouard%E2%80%93McLennan",
+      "social": {
+        "facebook": "https://www.facebook.com/ArchGrouardMcLennan/"
+      },
       "events": []
     },
     {
@@ -18697,7 +18836,7 @@
     },
     {
       "id": "region/ecclesiastical/roman/canada/nova-scotia/halifax",
-      "name": "Archdiocese of Halifax",
+      "name": "Archdiocese of Halifax-Yarmouth",
       "type": "Ecclesiastical",
       "subtype": "Archdiocese",
       "location": {
@@ -18708,8 +18847,18 @@
         "latitude": 44.646244,
         "longitude": -63.573566
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "1559 Brunswick St., Suite 101\nHalifax, Nova Scotia\nB3J 2G1",
+        "website": "https://www.halifaxyarmouth.org/",
+        "phone": "+1-902-429-9800",
+        "fax": "+1-902-425-0997"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Halifax-Yarmouth",
+      "social": {
+        "facebook": "https://www.facebook.com/HalifaxYarmouth",
+        "twitter": "https://twitter.com/HalifaxYarmouth",
+        "youtube": "https://www.youtube.com/channel/UCdF7wsk8pS78HtXASAsB6xg"
+      },
       "events": []
     },
     {
@@ -18783,8 +18932,18 @@
         "latitude": 43.256692,
         "longitude": -79.869053
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "700 King St W\nHamilton, ON L8P 1C7",
+        "website": "https://hamiltondiocese.com/",
+        "phone": "+1-905-528-7988",
+        "fax": "+1-905-528-1088"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Hamilton,_Ontario",
+      "social": {
+        "facebook": "https://www.facebook.com/DioceseofHamilton",
+        "twitter": "https://twitter.com/DioceseHamilton",
+        "youtube": "https://www.youtube.com/c/hamiltondiocese"
+      },
       "events": []
     },
     {
@@ -18961,6 +19120,7 @@
         "longitude": -83.664873
       },
       "contact": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Hearst",
       "social": {},
       "events": []
     },
@@ -21117,8 +21277,17 @@
         "latitude": 46.023179,
         "longitude": -73.442526
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Dioc\u00e8se de Joliette\n2, rue St-Charles-Borrom\u00e9e Nord\nJoliette QC J6E 4R2",
+        "website": "http://www.diocesedejoliette.org/",
+        "email": "communication@diocesedejoliette.org",
+        "phone": "+1-450-753-7596",
+        "fax": "+1-450-759-0929"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Joliette",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedejoliette/"
+      },
       "events": []
     },
     {
@@ -21614,8 +21783,17 @@
         "latitude": 50.676609,
         "longitude": -120.338988
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "635A Tranquille Road\nKamloops, BC\nV2B 3H5 Canada",
+        "website": "https://www.rcdk.org/",
+        "email": "info@rcdk.org",
+        "phone": "+1-250-376-3351",
+        "fax": "+1-250-376-3363"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Kamloops",
+      "social": {
+        "youtube": "https://www.youtube.com/channel/UC4LMk5KyHYfXYPcEhehgPDQ"
+      },
       "events": []
     },
     {
@@ -22079,8 +22257,17 @@
         "latitude": 49.757409,
         "longitude": -94.5548
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "76 First Street West\nP.O. Box 270\nThe Pas, MB  R9A 1K4",
+        "website": "https://archdioceseofkeewatinlepas.ca/",
+        "email": "chancery@keepas.ca",
+        "phone": "+1-204-623-6152",
+        "fax": "+1-204-623-6121"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Keewatin%E2%80%93Le_Pas",
+      "social": {
+        "youtube": "https://www.youtube.com/user/keewatindiocese"
+      },
       "events": []
     },
     {
@@ -22635,8 +22822,17 @@
         "latitude": 44.231329,
         "longitude": -76.480925
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "390 Palace Road\nKingston, Ontario  K7L 4T3",
+        "website": "https://romancatholic.kingston.on.ca/",
+        "email": "reception@romancatholic.kingston.on.ca",
+        "phone": "+1-613-548-4461",
+        "fax": "+1-613-548-4744"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Kingston,_Canada",
+      "social": {
+        "facebook": "https://www.facebook.com/ArchdioceseofKingston"
+      },
       "events": []
     },
     {
@@ -25109,6 +25305,7 @@
         "website": "https://www.dol.ca/",
         "phone": "+1-519-433-0658"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_London,_Ontario",
       "social": {
         "facebook": "https://www.facebook.com/www.dol.ca/",
         "twitter": "https://twitter.com/DOL_ca"
@@ -25812,8 +26009,17 @@
         "latitude": 55.338125,
         "longitude": -123.094497
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "5117-52nd Street\nYellowknife, NT X1A 1T7",
+        "website": "https://mfsdiocese.ca/",
+        "email": "diocese.mackenzie@theedge.ca",
+        "phone": "+1-867-920-2129",
+        "fax": "+1-867-873-9021"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Mackenzie%E2%80%93Fort_Smith",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseofmackenzie"
+      },
       "events": []
     },
     {
@@ -28145,8 +28351,16 @@
         "latitude": 46.094356,
         "longitude": -64.775233
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "224 St-George\nMoncton, N.-B. E1C 0V1",
+        "website": "http://www.diomoncton.ca/",
+        "phone": "+1-506-857-9531"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Moncton",
+      "social": {
+        "facebook": "https://www.facebook.com/archdioceseofmoncton",
+        "youtube": "https://www.youtube.com/user/tsd19731"
+      },
       "events": []
     },
     {
@@ -28387,8 +28601,15 @@
         "latitude": 46.549239,
         "longitude": -75.499723
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "435 rue de la Madone\nJ9L 1S1 Mont-Laurier, Qu\u00e9bec",
+        "website": "https://www.dioceseml.com/",
+        "phone": "+1-819-623-5530"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Mont-Laurier",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseMontLaurier"
+      },
       "events": []
     },
     {
@@ -28426,6 +28647,7 @@
         "email": "infos@diocesemontreal.org",
         "phone": "+1-514-925-4300"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Montreal",
       "social": {
         "facebook": "https://www.facebook.com/diocesemontreal/",
         "twitter": "https://twitter.com/diocesemontreal",
@@ -28464,6 +28686,7 @@
         "longitude": -80.640866
       },
       "contact": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Moosonee",
       "social": {},
       "events": []
     },
@@ -29712,7 +29935,13 @@
         "latitude": 46.852627,
         "longitude": -65.690311
       },
-      "contact": {},
+      "contact": {
+        "address": "3665 Benvoulin Road\nKelowna, BC V1W 4M7",
+        "website": "https://www.nelsondiocese.org/",
+        "phone": "+1-250-448-2725",
+        "fax": "+1-250-869-8697"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Nelson",
       "social": {},
       "events": []
     },
@@ -29762,6 +29991,7 @@
         "longitude": -122.914588
       },
       "contact": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_New_Westminster",
       "social": {},
       "events": []
     },
@@ -29914,8 +30144,18 @@
         "latitude": 46.227355,
         "longitude": -72.619552
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "49, rue de Mgr-Brunault, porte A\nNicolet (Qu\u00e9bec) J3T 1X7",
+        "website": "http://www.diocesenicolet.qc.ca/",
+        "email": "services.diocesains@diocesenicolet.qc.ca",
+        "phone": "+1-819-293-6871",
+        "fax": "+1-819-293-6485"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Nicolet",
+      "social": {
+        "facebook": "https://www.facebook.com/Diocese.de.Nicolet/",
+        "youtube": "https://www.youtube.com/channel/UCtg8w-q6qSMTUcsY4OSrvlg"
+      },
       "events": []
     },
     {
@@ -31325,9 +31565,15 @@
         "longitude": -75.697933
       },
       "contact": {
-        "website": "https://www.catholicottawa.ca/"
+        "address": "1247 Kilborn Place\nOttawa, ON K1H 6K9",
+        "website": "https://www.catholicottawa.ca/",
+        "email": "Reception@archottawa.ca",
+        "phone": "+1-613-738-5025",
+        "fax": "+1-613-738-0130"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Ottawa%E2%80%93Cornwall",
       "social": {
+        "facebook": "https://www.facebook.com/Archdiocese-of-Ottawa-CornwallLarchidioc%C3%A8se-dOttawa-Cornwall-348577752711188/",
         "twitter": "https://twitter.com/ArchOttawa",
         "youtube": "https://www.youtube.com/channel/UCQ6bqTaauocsUpI2FZ8ayyg/"
       },
@@ -32498,7 +32744,14 @@
         "latitude": 45.826693,
         "longitude": -77.110831
       },
-      "contact": {},
+      "contact": {
+        "address": "188 Renfrew Street\nP.O. Box 7\nPembroke, Ontario K8A 6X1",
+        "website": "https://pembrokediocese.com/",
+        "email": "reception@pembrokediocese.com",
+        "phone": "+1-613-732-7933",
+        "fax": "+1-613-732-1679"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Pembroke",
       "social": {},
       "events": []
     },
@@ -32707,8 +32960,19 @@
         "latitude": 44.305913,
         "longitude": -78.320087
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "350 Hunter Street West\nPO Box 175\nPeterborough, ON, K9J 6Y8",
+        "website": "https://www.peterboroughdiocese.org/",
+        "email": "info@peterboroughdiocese.org ",
+        "phone": "+1-705-745-5123",
+        "fax": "+1-705-745-2555"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Peterborough",
+      "social": {
+        "facebook": "https://www.facebook.com/DiocesePtbo/",
+        "twitter": "https://twitter.com/DiocesePtbo",
+        "youtube": "https://www.youtube.com/channel/UC_Cd0rFPwUxMtMRhS_UtCxg"
+      },
       "events": []
     },
     {
@@ -33866,8 +34130,18 @@
         "latitude": 53.199515,
         "longitude": -105.760029
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "1415 - 4th  Avenue West\nPrince Albert, SK\nS6V 5H1, Canada",
+        "website": "https://www.padiocese.ca/",
+        "email": "info@padiocese.ca",
+        "phone": "+1-306-922-4747",
+        "fax": "+1-306-922-4754"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Prince_Albert",
+      "social": {
+        "facebook": "https://www.facebook.com/padiocese/",
+        "twitter": "https://twitter.com/padiocese"
+      },
       "events": []
     },
     {
@@ -33883,8 +34157,18 @@
         "latitude": 53.917113,
         "longitude": -122.74972
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Diocesan Pastoral Centre\n6500 Southridge Avenue\nPrince George, BC V2N 5P9",
+        "website": "https://www.pgdiocese.bc.ca/",
+        "email": "reception@pgdiocese.bc.ca",
+        "phone": "+1-250-964-4424",
+        "fax": "+1-250-964-2101"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Prince_George",
+      "social": {
+        "facebook": "https://www.facebook.com/RCDPG/",
+        "youtube": "https://www.youtube.com/user/pgdiocese"
+      },
       "events": []
     },
     {
@@ -34258,8 +34542,19 @@
         "latitude": 46.812754,
         "longitude": -71.215223
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "1073, boulevard Ren\u00e9-L\u00e9vesque Ouest\nQu\u00e9bec (Qu\u00e9bec) G1S 4R5, Canada",
+        "website": "https://www.ecdq.org/",
+        "email": "info@ecdq.org",
+        "phone": "+1-418-688-1211",
+        "fax": "+1-418-688-1399"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Quebec",
+      "social": {
+        "facebook": "https://www.facebook.com/ecdq.org",
+        "twitter": "https://twitter.com/ecdq",
+        "youtube": "https://www.youtube.com/channel/UCsHmzRrkTsUeP3oh4X4lVCw"
+      },
       "events": []
     },
     {
@@ -34806,8 +35101,19 @@
         "latitude": 50.447234,
         "longitude": -104.618013
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "445 Broad Street N.\nRegina, SK   S4R 2X8",
+        "website": "https://archregina.sk.ca/",
+        "phone": "+1-306-352-1651",
+        "fax": "+1-306-545-0510"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Regina",
+      "social": {
+        "facebook": "https://www.facebook.com/ArchdioceseofRegina/",
+        "twitter": "https://twitter.com/archdiocesereg",
+        "instagram": "https://www.instagram.com/archdioceseofregina/",
+        "youtube": "https://www.youtube.com/user/ArchdioceseRegina"
+      },
       "events": []
     },
     {
@@ -35035,8 +35341,17 @@
         "latitude": 48.448891,
         "longitude": -68.52403
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Archev\u00each\u00e9 de Rimouski\n34, rue de l'\u00c9v\u00each\u00e9 Ouest,\nRimouski, Qc, Canada, G5L 4H5",
+        "website": "http://www.dioceserimouski.com/",
+        "email": "diocriki@globetrotter.net",
+        "phone": "+1-418-723-3320",
+        "fax": "+1-418-722-8978"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Rimouski",
+      "social": {
+        "youtube": "https://www.youtube.com/channel/UCFHb8qBzdhjzr5d9JIAG1-Q"
+      },
       "events": []
     },
     {
@@ -35357,8 +35672,18 @@
         "latitude": 48.23978,
         "longitude": -79.028621
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "515, avenue Cuddihy\nRouyn-Noranda (Qu\u00e9bec) J9X 4C5",
+        "website": "http://diocese-rouyn-noranda.org/",
+        "email": "dioceser-n@cablevision.qc.ca",
+        "phone": "+1-819-764-4660",
+        "fax": "+1-819-764-3972"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Rouyn-Noranda",
+      "social": {
+        "facebook": "https://www.facebook.com/Dioc%C3%A8se-de-Rouyn-Noranda-110851850565584/",
+        "youtube": "https://www.youtube.com/user/drntvyt/"
+      },
       "events": []
     },
     {
@@ -35609,8 +35934,16 @@
         "latitude": 46.495724,
         "longitude": -72.829855
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "151 avenue de la Cath\u00e9drale\nSaint Boniface, Manitoba R2H 0H6",
+        "website": "https://www.archsaintboniface.ca/",
+        "email": "communications@archsaintboniface.ca",
+        "phone": "+1-204-237-9851"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Saint_Boniface",
+      "social": {
+        "youtube": "https://www.youtube.com/channel/UCWravaUyYPDZgiJU1uhilBw"
+      },
       "events": []
     },
     {
@@ -35642,8 +35975,17 @@
         "latitude": 43.158996,
         "longitude": -79.245679
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "P.O. Box 875\nSt. Catharines, Ontario, L2R 6Z4",
+        "website": "http://www.saintcd.com/",
+        "phone": "+1-905-684-0154",
+        "fax": "+1-905-684-2185"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Saint_Catharines",
+      "social": {
+        "facebook": "https://www.facebook.com/DioceseofStCatharines",
+        "twitter": "https://twitter.com/saintcdcom"
+      },
       "events": []
     },
     {
@@ -35739,8 +36081,13 @@
         "latitude": 47.330968,
         "longitude": -70.020071
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://www.diocese-ste-anne.net/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Sainte-Anne-de-la-Pocati%C3%A8re",
+      "social": {
+        "facebook": "https://www.facebook.com/Dioc%C3%A8se-de-Sainte-Anne-1525980787690352/"
+      },
       "events": []
     },
     {
@@ -35804,8 +36151,17 @@
         "latitude": 45.626829,
         "longitude": -72.94695
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "1900, Rue Girouard Ouest, C.P. 190\nSaint-Hyacinthe (Qu\u00e9bec) J2S 7B4",
+        "website": "https://www.ecdsh.org/",
+        "phone": "+1-450-773-8581",
+        "fax": "+1-450-774-1895"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Saint-Hyacinthe",
+      "social": {
+        "facebook": "https://www.facebook.com/DioceseDeSaintHyacinthe/",
+        "youtube": "https://www.youtube.com/channel/UC6fxzFlEJP3EBCqG9ZkGDPw"
+      },
       "events": []
     },
     {
@@ -35821,8 +36177,16 @@
         "latitude": 45.531273,
         "longitude": -73.518087
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "740, boulevard Sainte-Foy\nLongueuil, Qu\u00e9bec, J4J 1Z3",
+        "website": "https://www.dsjl.org/",
+        "phone": "+1-450-679-1100",
+        "fax": "+1-450-679-1102"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Saint-Jean-Longueuil",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesesjl/"
+      },
       "events": []
     },
     {
@@ -35838,7 +36202,14 @@
         "latitude": 45.780066,
         "longitude": -74.003479
       },
-      "contact": {},
+      "contact": {
+        "address": "355, place du Cur\u00e9-Labelle\nSaint-J\u00e9r\u00f4me (Qu\u00e9bec) J7Z 5A9",
+        "website": "http://diocesestj.ca/",
+        "email": "info@diocesestj.ca",
+        "phone": "+1-450-432-9742",
+        "fax": "+1-450-432-8155"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Saint-J%C3%A9r%C3%B4me",
       "social": {},
       "events": []
     },
@@ -35855,8 +36226,18 @@
         "latitude": 45.272938,
         "longitude": -66.063243
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Diocese of Saint John\n1 Bayard Drive\nSaint John, New Brunswick, Canada\nE2L 3L5",
+        "website": "https://dioceseofsaintjohn.org/",
+        "email": "reception@dioceseofsaintjohn.org",
+        "phone": "+1-506-653-6800",
+        "fax": "+1-506-653-6812"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Saint_John,_New_Brunswick",
+      "social": {
+        "facebook": "https://www.facebook.com/DioceseofSaintJohn",
+        "youtube": "https://www.youtube.com/channel/UC1YwjIicACKHtEBl8qvRnOw"
+      },
       "events": []
     },
     {
@@ -35888,7 +36269,13 @@
         "latitude": 47.576727,
         "longitude": -52.701129
       },
-      "contact": {},
+      "contact": {
+        "address": "Pastoral Centre\n200 Military Road\nSt. John\u2019s, NL A1C 2E8",
+        "website": "https://rcsj.org/",
+        "phone": "+1-709-726-3660",
+        "fax": "+1-709-726-8021"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_St._John%27s,_Newfoundland",
       "social": {},
       "events": []
     },
@@ -35937,8 +36324,18 @@
         "latitude": 45.976569,
         "longitude": -73.441509
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "4609 - 50 Avenue\nSaint Paul, AB T0A 3A3",
+        "website": "https://www.dioceseofstpaul.ca/",
+        "email": "bishopoffice@dioceseofstpaul.ca",
+        "phone": "+1-780-645-3277",
+        "fax": "+1-780-645-6099"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Saint_Paul,_Alberta",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseofSt.Paulpastoralservices/",
+        "youtube": "https://www.youtube.com/channel/UCRyBeUwyXMAgCAtDEce-CUg"
+      },
       "events": []
     },
     {
@@ -38155,9 +38552,11 @@
       "contact": {
         "address": "123 Nelson Road\nSaskatoon, SK S7S 1H1",
         "website": "https://rcdos.ca/",
+        "email": "info@rcdos.ca",
         "phone": "+1-306-242-1500",
         "fax": "+1-306-244-6010"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Saskatoon",
       "social": {
         "facebook": "https://www.facebook.com/saskatoonrcdiocese",
         "twitter": "https://twitter.com/saskatooncath",
@@ -38226,8 +38625,17 @@
         "latitude": 46.512828,
         "longitude": -84.337132
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "30 Ste-Anne Road\nSudbury, Ontario\nCanada P3C 5E1",
+        "website": "https://dioceseofsaultstemarie.org/",
+        "email": "chancery@ssmd.ca",
+        "phone": "+1-705-674-2727",
+        "fax": "+1-705-674-9889"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Sault_Sainte_Marie,_Ontario",
+      "social": {
+        "youtube": "https://www.youtube.com/channel/UC80EQm65Z6_fE7SsjJGrKyw"
+      },
       "events": []
     },
     {
@@ -38599,8 +39007,16 @@
         "latitude": 45.398599,
         "longitude": -71.918771
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "130, rue de la Cath\u00e9drale\nSherbrooke (Qu\u00e9bec)  J1H 4M1",
+        "website": "https://diocesedesherbrooke.org/",
+        "phone": "+1-819-563-9934",
+        "fax": "+1-819-562-0125"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Sherbrooke",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesesherbrooke/"
+      },
       "events": []
     },
     {
@@ -41127,8 +41543,17 @@
         "latitude": 48.406817,
         "longitude": -89.245468
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "1222 Reaume Street\nPostal Box 10400\nThunder Bay, Ontario\nP7B 6T8",
+        "website": "https://www.dotb.ca/",
+        "email": "chancery@dotb.ca",
+        "phone": "+1-807-343-9313",
+        "fax": "+1-807-343-9114"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Thunder_Bay",
+      "social": {
+        "youtube": "https://www.youtube.com/channel/UCkLje-k4d2DYlZt1KdsbYIQ"
+      },
       "events": []
     },
     {
@@ -41257,7 +41682,14 @@
         "latitude": 48.476105,
         "longitude": -81.335628
       },
-      "contact": {},
+      "contact": {
+        "address": "65 Jubilee Avenue East\nTimmins, ON P4N 5W4",
+        "website": "http://www.dioctims.ca/",
+        "email": "seceveque@dioctims.ca",
+        "phone": "+1-705-267-6224",
+        "fax": "+1-705-267-6226"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Timmins",
       "social": {},
       "events": []
     },
@@ -41629,8 +42061,11 @@
         "longitude": -79.386755
       },
       "contact": {
-        "website": "https://www.archtoronto.org/"
+        "address": "Catholic Pastoral Centre\n1155 Yonge Street\nToronto, Ontario\nM4T 1W2",
+        "website": "https://www.archtoronto.org/",
+        "phone": "+1-416-934-0606"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Toronto",
       "social": {
         "facebook": "https://www.facebook.com/archtoronto/",
         "twitter": "https://twitter.com/archtoronto",
@@ -42013,8 +42448,16 @@
         "latitude": 46.350883,
         "longitude": -72.54806
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "362, rue Bonaventure, C.P. 879\nTrois-Rivi\u00e8res QC G9A 5J9",
+        "website": "http://diocese-trois-rivieres.org/",
+        "email": "secretariatpastoral@diocese-tr.qc.ca",
+        "phone": "+1-819-379-1432"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Trois-Rivi%C3%A8res",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesetr"
+      },
       "events": []
     },
     {
@@ -43067,8 +43510,17 @@
         "latitude": 45.260731,
         "longitude": -74.129898
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "11 rue de l'\u00c9glise\nSalaberry-de-Valleyfield, QC, J6T 1J5T",
+        "website": "https://www.diocesevalleyfield.org/",
+        "email": "info@diocesevalleyfield.org",
+        "phone": "+1-450-373-8122",
+        "fax": "+1-450-371-0000"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Valleyfield",
+      "social": {
+        "twitter": "https://twitter.com/ComVlfd"
+      },
       "events": []
     },
     {
@@ -43122,6 +43574,7 @@
         "phone": "+1-604-683-0281 ",
         "fax": "+1-604-683-4288"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Vancouver",
       "social": {
         "facebook": "https://www.facebook.com/archvancouver",
         "twitter": "https://twitter.com/archvancouver",
@@ -43532,8 +43985,17 @@
         "latitude": 48.4275,
         "longitude": -123.367259
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "1-4044 Nelthorpe Street\nVictoria BC V8X 2A1",
+        "website": "https://www.rcdvictoria.org/",
+        "phone": "+1-250-479-1331",
+        "fax": "+1-250-479-5423"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Victoria_in_Canada",
+      "social": {
+        "twitter": "https://twitter.com/rcdvictoria",
+        "youtube": "https://www.youtube.com/channel/UCRinXZ2d6GBMpnDM7boV1CA"
+      },
       "events": []
     },
     {
@@ -44287,8 +44749,18 @@
         "latitude": 60.719692,
         "longitude": -135.052288
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "St. Kateri Pastoral Centre\n5119 \u2013 5th Avenue\nWhitehorse, YT  Y1A 1L5",
+        "website": "http://www.whitehorsediocese.ca/",
+        "email": "executiveassistant@whitehorsediocese.ca",
+        "phone": "+1-867-667-2052",
+        "fax": "+1-867-667-4713"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Whitehorse",
+      "social": {
+        "facebook": "https://www.facebook.com/RomanCatholicDioceseofWhitehorse/",
+        "youtube": "https://www.youtube.com/channel/UCTLpdEQBFzvybDXnlEMYqwg"
+      },
       "events": []
     },
     {
@@ -44385,8 +44857,19 @@
         "latitude": 49.895452,
         "longitude": -97.138273
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "1495 Pembina Highway Winnipeg\nManitoba R3T 2C6",
+        "website": "https://www.archwinnipeg.ca/",
+        "email": "communications@archwinnipeg.ca",
+        "phone": "+1-204-452-2227",
+        "fax": "+1-204-475-4409"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Winnipeg",
+      "social": {
+        "facebook": "https://www.facebook.com/ArchdioceseOfWinnipeg",
+        "twitter": "https://twitter.com/Archwinnipeg",
+        "instagram": "https://www.instagram.com/archdioceseofwinnipeg/"
+      },
       "events": []
     },
     {
@@ -44893,6 +45376,7 @@
         "longitude": -66.120208
       },
       "contact": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Yarmouth",
       "social": {},
       "events": []
     },
@@ -46361,6 +46845,30 @@
       "social": {
         "youtube": "https://www.youtube.com/channel/UCRUI0w05yJu-vQn2My2ab0g"
       },
+      "events": []
+    },
+    {
+      "id": "region/ecclesiastical/roman/canada/ontario/hearst-moosonee",
+      "name": "Diocese of Hearst-Moosonee",
+      "type": "Ecclesiastical",
+      "subtype": "Diocese",
+      "location": {
+        "country": "Canada",
+        "state": "Ontario",
+        "city": "Hearst",
+        "timezone": -5,
+        "latitude": 49.689651,
+        "longitude": -83.664873
+      },
+      "contact": {
+        "address": "76, 7th Street\nP.O. Box 1330\nHearst, ON\nP0L 1N0",
+        "website": "http://hearstdiocese.com/",
+        "email": "diocesedehearst@gmail.com",
+        "phone": "+1-705-362-4903",
+        "fax": "+1-705-362-4421"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Hearst%E2%80%93Moosonee",
+      "social": {},
       "events": []
     }
   ]

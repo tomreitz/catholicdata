@@ -30,4 +30,5 @@ echo "[Back to homepage.](/catholicdata/)" >> statistics.md
 
 
 # update repo
-git add . && git commit -m "update dataset" && git push origin master
+echo "Type a commit message, then press [ENTER]:"
+git add . && git commit -m "$(read msg && echo $msg)" && git push origin master
