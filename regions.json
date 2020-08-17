@@ -7991,7 +7991,14 @@
         "latitude": -33.790116,
         "longitude": 150.785675
       },
-      "contact": {},
+      "contact": {
+        "address": "PO Box 576\nBallarat, Victoria 3353",
+        "website": "https://www.ballarat.catholic.org.au/",
+        "email": "bishopsoffice@ballarat.catholic.org.au",
+        "phone": "+61 3 5337 7121",
+        "fax": "+61 3 5332 1122"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Ballarat",
       "social": {},
       "events": []
     },
@@ -8705,8 +8712,17 @@
         "latitude": -33.41978,
         "longitude": 149.574258
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "P.O. Box 246\nBathurst, NSW, 2795\nAustralia",
+        "website": "https://bathurst.catholic.org.au/",
+        "email": "reception@bathurst.catholic.org.au",
+        "phone": "+61 (02) 6334 6400",
+        "fax": "+61 (02) 6331 8465"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Bathurst_in_Australia",
+      "social": {
+        "facebook": "https://www.facebook.com/cdobathurst/"
+      },
       "events": []
     },
     {
@@ -10169,10 +10185,18 @@
         "longitude": 153.027892
       },
       "contact": {
-        "website": "https://brisbanecatholic.org.au/"
+        "address": "GPO Box 282\nBrisbane Qld 4001",
+        "website": "https://brisbanecatholic.org.au/",
+        "email": "aomail@bne.catholic.net.au",
+        "phone": "+61 07 3324 3324",
+        "fax": "+61 07 3324 3377"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Brisbane",
       "social": {
-        "twitter": "https://twitter.com/BneArchdiocese"
+        "facebook": "https://www.facebook.com/archbne/",
+        "twitter": "https://twitter.com/BneArchdiocese",
+        "instagram": "https://www.instagram.com/archbne/",
+        "youtube": "https://www.youtube.com/user/CatholicBrisbane/"
       },
       "events": []
     },
@@ -10211,6 +10235,7 @@
         "email": "enquiries@bbcatholic.org.au",
         "phone": "+61 02 8379 1600"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Broken_Bay",
       "social": {
         "facebook": "https://www.facebook.com/brokenbaydiocese/",
         "twitter": "https://twitter.com/BrokenBayDioc",
@@ -10231,7 +10256,14 @@
         "latitude": -17.955123,
         "longitude": 122.241457
       },
-      "contact": {},
+      "contact": {
+        "address": "PO Box 76\nBroome WA 6725",
+        "website": "http://broomediocese.org/",
+        "email": "info@broomediocese.org",
+        "phone": "+61 08 9192 1060",
+        "fax": "+61 08 9192 2136"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Broome",
       "social": {},
       "events": []
     },
@@ -10455,7 +10487,13 @@
         "latitude": -33.327112,
         "longitude": 115.636993
       },
-      "contact": {},
+      "contact": {
+        "address": "PO Box 2005\nBunbury WA 6231",
+        "website": "https://bunburycatholic.org.au/",
+        "phone": "+61 (08) 9721 0500",
+        "fax": "+61 (08) 9721 0588"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Bunbury",
       "social": {},
       "events": []
     },
@@ -10883,8 +10921,16 @@
         "latitude": -16.925397,
         "longitude": 145.775178
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO Box 625\nCairns QLD 4870",
+        "website": "http://www.cairns.catholic.org.au/",
+        "email": "reception@cairns.catholic.org.au",
+        "phone": "+61 07 4051 2838"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Cairns",
+      "social": {
+        "youtube": "https://www.youtube.com/channel/UC62ZAC9PYygbOuYJ1hwjV-Q"
+      },
       "events": []
     },
     {
@@ -11351,8 +11397,18 @@
         "latitude": -34.75535,
         "longitude": 149.717816
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "GPO Box 3089\nCanberra ACT 2601",
+        "website": "https://cgcatholic.org.au/",
+        "email": "information@cg.org.au",
+        "phone": "+61 02 6239 9800"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Canberra_and_Goulburn",
+      "social": {
+        "facebook": "https://www.facebook.com/archdiocesecanberragoulburn",
+        "twitter": "https://twitter.com/CGCatholic",
+        "instagram": "https://www.instagram.com/cgcatholic/"
+      },
       "events": []
     },
     {
@@ -14782,8 +14838,16 @@
         "latitude": -12.461334,
         "longitude": 130.841904
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "GPO Box 476\nDarwin, NT 0801",
+        "website": "http://www.darwin.catholic.org.au/",
+        "email": "reception@darwin.catholic.org.au",
+        "phone": "+61 (08) 8942 6000"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Darwin",
+      "social": {
+        "facebook": "https://www.facebook.com/darwindiocese/"
+      },
       "events": []
     },
     {
@@ -17588,8 +17652,15 @@
         "latitude": -28.773068,
         "longitude": 114.611265
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "7 Maitland Street\nPO Box 46\nGeraldton WA 6531",
+        "website": "https://www.geraldtondiocese.org.au/",
+        "phone": "+61 8 9921 3221"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Geraldton",
+      "social": {
+        "facebook": "https://www.facebook.com/Geraldton-Diocese-154128881830507/"
+      },
       "events": []
     },
     {
@@ -19294,8 +19365,15 @@
         "latitude": -42.882743,
         "longitude": 147.330234
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "GPO BOX 62\nHobart Tas 7001",
+        "website": "https://hobart.catholic.org.au/",
+        "phone": "+61 (03) 6208 6222"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Hobart",
+      "social": {
+        "facebook": "https://www.facebook.com/ArchdioceseofHobart"
+      },
       "events": []
     },
     {
@@ -24971,8 +25049,16 @@
         "latitude": -28.812725,
         "longitude": 153.278721
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "10 Orion St\n(PO Box 1)\nLismore 2480",
+        "website": "https://www.lismorediocese.org/",
+        "email": "chancery@lismore.catholic.org.au",
+        "phone": "+61 02 6621 9444"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Lismore",
+      "social": {
+        "youtube": "https://www.youtube.com/channel/UCYxOjNyku4JCI08vfeTq-fQ"
+      },
       "events": []
     },
     {
@@ -26218,7 +26304,14 @@
         "latitude": -32.889695,
         "longitude": 151.72635
       },
-      "contact": {},
+      "contact": {
+        "address": "PO Box 780\nNewcastle 2300 NSW",
+        "website": "https://www.mn.catholic.org.au/",
+        "email": "chancery@mn.catholic.org.au",
+        "phone": "+61 (02) 4979 1200",
+        "fax": "+61 (02) 4979 1119"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Maitland-Newcastle",
       "social": {},
       "events": []
     },
@@ -27657,6 +27750,7 @@
         "email": "info@cam.org.au",
         "phone": "+61 03 9926 5677"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Melbourne",
       "social": {
         "facebook": "https://www.facebook.com/CatholicArchdioceseofMelbourne/",
         "twitter": "https://twitter.com/catholicmelb",
@@ -32468,10 +32562,18 @@
         "longitude": 151.003451
       },
       "contact": {
-        "website": "https://www.parracatholic.org/"
+        "address": "PO Box 3066\nNorth Parramatta, NSW, 1750",
+        "website": "https://www.parracatholic.org/",
+        "email": "comms@parra.catholic.org.au",
+        "phone": "+61 02 8838 3400",
+        "fax": "+61 02 9630 4813"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Parramatta",
       "social": {
-        "twitter": "https://twitter.com/parracatholic"
+        "facebook": "https://www.facebook.com/parracatholic",
+        "twitter": "https://twitter.com/parracatholic",
+        "instagram": "https://www.instagram.com/parracatholic/",
+        "youtube": "https://www.youtube.com/user/ParramattaDiocese"
       },
       "events": []
     },
@@ -32863,8 +32965,19 @@
         "latitude": -31.9554,
         "longitude": 115.85859
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "GPO Box M962\nPerth WA 6843",
+        "website": "http://www.perthcatholic.org.au/",
+        "email": "reception.capac@perthcatholic.org.au",
+        "phone": "+61 (0)8 6104 3600",
+        "fax": "+61 (0)8 6162 0345"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Perth",
+      "social": {
+        "facebook": "https://www.facebook.com/perthcatholic",
+        "twitter": "https://twitter.com/PerthCatholic",
+        "instagram": "https://www.instagram.com/perthcatholic/"
+      },
       "events": []
     },
     {
@@ -33869,7 +33982,14 @@
         "latitude": -33.177044,
         "longitude": 138.010229
       },
-      "contact": {},
+      "contact": {
+        "address": "O'Reily House\nPO Box 1206\nPort Pirie 5540",
+        "website": "http://www.pp.catholic.org.au/",
+        "email": "msaracino@pp.catholic.org.au",
+        "phone": "+61 (08) 8632 0550",
+        "fax": "+61 (08) 8632 0599"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Port_Pirie",
       "social": {},
       "events": []
     },
@@ -35463,8 +35583,17 @@
         "latitude": -23.378941,
         "longitude": 150.512323
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO Box 611\nRockhampton Qld 4700",
+        "website": "https://rok.catholic.net.au/",
+        "email": "enquiries@rok.catholic.net.au",
+        "phone": "+61 07 4887 3070"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Rockhampton",
+      "social": {
+        "facebook": "https://www.facebook.com/RockhamptonCatholic",
+        "youtube": "https://www.youtube.com/channel/UCQeYD6B2cSvFb4zqStn_Brg"
+      },
       "events": []
     },
     {
@@ -36399,8 +36528,17 @@
         "latitude": -38.109349,
         "longitude": 147.068418
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO Box 1410\nWarragul, Victoria 3820",
+        "website": "https://www.cdsale.org.au/",
+        "phone": "+61 03 5622 6600"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Sale",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseofsale/",
+        "instagram": "https://www.instagram.com/dioceseofsale/",
+        "youtube": "https://www.youtube.com/channel/UC3L5M0mUA6KLif0K_qEBBKw"
+      },
       "events": []
     },
     {
@@ -36829,8 +36967,17 @@
         "latitude": -38.080294,
         "longitude": 145.210794
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO Box 201\nBendigo Vic 3552",
+        "website": "https://www.sandhurst.catholic.org.au/",
+        "email": "chancery@sandhurst.catholic.org.au",
+        "phone": "+61 03 5441 2544",
+        "fax": "+61 03 5441 8278"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Sandhurst",
+      "social": {
+        "facebook": "https://www.facebook.com/CatholicDioceseOfSandhurst/"
+      },
       "events": []
     },
     {
@@ -40271,8 +40418,20 @@
         "latitude": -33.867139,
         "longitude": 151.207114
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Polding Centre\n133 Liverpool Street\nSydney 2000",
+        "website": "https://www.sydneycatholic.org/",
+        "email": "chancery@sydneycatholic.org",
+        "phone": "+61 (02) 9390 5100",
+        "fax": "+61 (02) 9261 8312"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Sydney",
+      "social": {
+        "facebook": "https://www.facebook.com/SydneyCatholic/",
+        "twitter": "https://twitter.com/sydarchdiocese",
+        "instagram": "https://www.instagram.com/sydarchdiocese/",
+        "youtube": "https://www.youtube.com/channel/UCIdIzINcsCovnMSSTrSc1lg"
+      },
       "events": []
     },
     {
@@ -42011,8 +42170,17 @@
         "latitude": -27.561302,
         "longitude": 151.955505
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO Box 756\nToowoomba QLD 4350",
+        "website": "https://www.twb.catholic.org.au/",
+        "email": "bishsec@twb.catholic.org.au",
+        "phone": "+61 07 4632 4277",
+        "fax": "+61 07 4639 2251"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Toowoomba",
+      "social": {
+        "facebook": "https://www.facebook.com/CathDTwb/"
+      },
       "events": []
     },
     {
@@ -42223,8 +42391,19 @@
         "latitude": -19.258106,
         "longitude": 146.818351
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "266-270 Stanley Street\nPO Box 6149\nTownsville, Qld 4810",
+        "website": "https://www.tsv.catholic.org.au/",
+        "email": "diocese@tsv.catholic.org.au",
+        "phone": "+61 (07) 4726 3200"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Townsville",
+      "social": {
+        "facebook": "https://www.facebook.com/TSVDiocese",
+        "twitter": "https://twitter.com/tsv_diocese",
+        "instagram": "https://www.instagram.com/tsvdiocese/",
+        "youtube": "https://www.youtube.com/channel/UCwWOKo3FFE2N990SjChIeFQ"
+      },
       "events": []
     },
     {
@@ -44471,7 +44650,13 @@
         "latitude": -35.109861,
         "longitude": 147.370515
       },
-      "contact": {},
+      "contact": {
+        "address": "PO Box 473\nWagga Wagga NSW 2650",
+        "website": "https://www.wagga.catholic.org.au/",
+        "phone": "+61 (02) 6937 0003",
+        "fax": "+61 (02) 6921 5157"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Wagga_Wagga",
       "social": {},
       "events": []
     },
@@ -44808,8 +44993,16 @@
         "latitude": -33.385343,
         "longitude": 148.007905
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO Box 775\nForbes NSW 2871",
+        "website": "https://www.wf.catholic.org.au/",
+        "email": "chancery@wf.catholic.org.au",
+        "phone": "+61 02 6853 9340"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Wilcannia-Forbes",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesewf/"
+      },
       "events": []
     },
     {
@@ -44917,8 +45110,17 @@
         "latitude": -34.425878,
         "longitude": 150.899818
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO Box 1239\n38 Harbour Street\nWollongong NSW 2500",
+        "website": "https://www.dow.org.au/",
+        "email": "info@dow.org.au",
+        "phone": "+61 (02) 4222 2400"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Wollongong",
+      "social": {
+        "facebook": "https://www.facebook.com/WollongongCatholic/",
+        "youtube": "https://www.youtube.com/channel/UC-MkrNKf6btRVRELx2i_HjQ"
+      },
       "events": []
     },
     {
@@ -46485,7 +46687,14 @@
         "latitude": -33.867137,
         "longitude": 151.207112
       },
-      "contact": {},
+      "contact": {
+        "address": "PO Box 385\nStrathfield NSW 2135",
+        "website": "http://www.maronite.org.au/",
+        "email": "info@maronite.org.au",
+        "phone": "+61 2 8831 0000",
+        "fax": "+61 2 8831 0099"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Maronite_Catholic_Eparchy_of_Saint_Maron_of_Sydney",
       "social": {},
       "events": []
     },
@@ -46502,8 +46711,16 @@
         "latitude": -33.867141,
         "longitude": 151.207116
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO Box 620\nGreenacre NSW 2190\nAustralia",
+        "website": "https://www.melkite.org.au/",
+        "email": "eparchy@melkite.org.au",
+        "phone": "+61 2 9786 3444"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Melkite_Greek_Catholic_Eparchy_of_Saint_Michael_Archangel_in_Sydney",
+      "social": {
+        "facebook": "https://www.facebook.com/melkitecatholiceparchy/"
+      },
       "events": []
     },
     {
@@ -46519,8 +46736,17 @@
         "latitude": -37.814249,
         "longitude": 144.963167
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "35 Canning St\nNorth Melbourne VIC 3051",
+        "website": "https://catholicukes.org.au/",
+        "phone": "+61 3 9320 2566"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Ukrainian_Catholic_Eparchy_of_Saints_Peter_and_Paul_of_Melbourne",
+      "social": {
+        "facebook": "https://www.facebook.com/catholicukes/",
+        "twitter": "https://twitter.com/UkrainianCathol",
+        "youtube": "https://www.youtube.com/channel/UCkACRc8NUvbVMuLLDA4f2mQ"
+      },
       "events": []
     },
     {
@@ -46536,8 +46762,17 @@
         "latitude": -33.867137,
         "longitude": 151.207116
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO: 3120 Stockland mail\nWetherill Park NSW 2164",
+        "website": "https://www.stthomaschaldean.org.au/",
+        "email": "bishopoffice@chaldeanausnz.com",
+        "phone": "+61 2 9823 1800"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Chaldean_Catholic_Eparchy_of_Saint_Thomas_the_Apostle_of_Sydney",
+      "social": {
+        "facebook": "https://www.facebook.com/stthomasdiocese/",
+        "youtube": "https://www.youtube.com/channel/UCIHUQCF1gXI3Nwx5Wfd3tHA"
+      },
       "events": []
     },
     {
@@ -46664,7 +46899,13 @@
         "latitude": -34.790348,
         "longitude": 149.124755
       },
-      "contact": {},
+      "contact": {
+        "address": "The Chancery\nCatholic Military Ordinariate\n30 White Cres\nCampbell ACT 2612",
+        "website": "https://military.catholic.org.au/",
+        "email": "sec@cmoa.org.au",
+        "phone": "+61 02 6248 0511"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Catholic_Military_Ordinariate_of_Australia",
       "social": {},
       "events": []
     },
