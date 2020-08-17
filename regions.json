@@ -7412,7 +7412,12 @@
         "latitude": -36.847385,
         "longitude": 174.765735
       },
-      "contact": {},
+      "contact": {
+        "address": "Private Bag 47 904\nPonsonby\nAuckland 1144\nAotearoa \u2013 New Zealand",
+        "website": "https://www.aucklandcatholic.org.nz/",
+        "phone": "+64 09 378 4380"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Auckland",
       "social": {},
       "events": []
     },
@@ -12944,8 +12949,16 @@
         "latitude": -43.531637,
         "longitude": 172.636645
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO Box 4544\nChristchurch 8140\nNew Zealand",
+        "website": "https://chchcatholic.nz/",
+        "phone": "+64 03 366 9869"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Christchurch",
+      "social": {
+        "facebook": "https://www.facebook.com/ChchCatholic/",
+        "youtube": "https://www.youtube.com/channel/UCbDyKPjjDeYWfpoz_hSDLfw"
+      },
       "events": []
     },
     {
@@ -15646,8 +15659,16 @@
         "latitude": -45.87456,
         "longitude": 170.503388
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Private Bag 1941\nDunedin 9054",
+        "website": "https://www.cdd.org.nz/",
+        "phone": "+64 03 474 1994",
+        "fax": "+64 03 479 0563"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Dunedin",
+      "social": {
+        "facebook": "https://www.facebook.com/catholic.diocese.dunedin.newzealand"
+      },
       "events": []
     },
     {
@@ -19045,8 +19066,17 @@
         "latitude": -37.788263,
         "longitude": 175.283883
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO Box 4353\nHamilton East, Hamilton",
+        "website": "https://www.cdh.org.nz/",
+        "phone": "+64 (07) 856 6989"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Hamilton,_New_Zealand",
+      "social": {
+        "facebook": "https://www.facebook.com/catholicdioceseofhamilton/",
+        "instagram": "https://www.instagram.com/catholicdioceseofhamilton/",
+        "youtube": "https://www.youtube.com/channel/UCqqfwCqh8NbWENaNQHQGQbA"
+      },
       "events": []
     },
     {
@@ -32199,8 +32229,16 @@
         "latitude": -40.355746,
         "longitude": 175.61219
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Private Bag 11 012\nPalmerston North",
+        "website": "https://pndiocese.org.nz/",
+        "phone": "+64 6 354 1780",
+        "fax": "+64 6 357 3624"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Palmerston_North",
+      "social": {
+        "facebook": "https://www.facebook.com/centralcatholic.nz/"
+      },
       "events": []
     },
     {
@@ -44874,8 +44912,15 @@
         "latitude": -41.28648,
         "longitude": 174.776217
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "PO Box 1937\nWellington 6140",
+        "website": "https://www.wn.catholic.org.nz/",
+        "phone": "+64 04 496 1777"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Wellington",
+      "social": {
+        "facebook": "https://www.facebook.com/catholicwellington/"
+      },
       "events": []
     },
     {
