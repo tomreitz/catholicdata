@@ -1,4 +1,4 @@
-# catholicdata
+# CatholicData
 
 With over a billion members and 400,000 priests, the Catholic Church is one of the largest organizations in the world. And with a history reaching back over 2,000 years, it is also one of the oldest.
 
