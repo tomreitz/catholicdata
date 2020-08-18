@@ -1,7 +1,7 @@
 # Literature
 
 ## Endpoints
-* [literature.json](/catholicdata/literature.json), which contains all literature
+* [literature.json](/literature.json), which contains all literature
 
 ## Structure:
 ```
@@ -47,4 +47,4 @@ Literature *type*s include
 ## Notes
 * Dates throughout take the form YYYY-MM-DD, YYYY-MM (when only the year and month are known), or YYYY (when only the year is known). Dates may be appended with (c.) to indicate that an exact date is not known. We append rather than prepend to avoid issues with sorting by date. Example: "0045 (c.)".
 
-[Back to homepage.](/catholicdata/)
+[Back to homepage.](/)

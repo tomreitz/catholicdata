@@ -12,7 +12,7 @@
         "timezone": -6,
         "latitude": 43.073052,
         "longitude": -89.40123,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/wisconsin-madison.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/wisconsin-madison.geojson"
       },
       "contact": {
         "address": "702 South High Point Road, Suite 225\nMadison, WI 53719",
@@ -41,7 +41,7 @@
         "timezone": -6,
         "latitude": 42.499994,
         "longitude": -96.400307,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/iowa-sioux-city.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/iowa-sioux-city.geojson"
       },
       "contact": {
         "address": "1821 Jackson Street\nSioux City, Iowa 51105",
@@ -69,7 +69,7 @@
         "timezone": -9,
         "latitude": 61.218056,
         "longitude": -149.900278,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/alaska-anchorage.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/alaska-anchorage.geojson"
       },
       "contact": {
         "address": "225 Cordova Street\nAnchorage, Alaska 99501-2409",
@@ -97,7 +97,7 @@
         "timezone": -9,
         "latitude": 64.837778,
         "longitude": -147.716389,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/alaska-fairbanks.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/alaska-fairbanks.geojson"
       },
       "contact": {
         "address": "1316 Peger Rd\nFairbanks, AK 99709-5199",
@@ -126,7 +126,7 @@
         "timezone": -9,
         "latitude": 58.301944,
         "longitude": -134.419722,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/alaska-juneau.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/alaska-juneau.geojson"
       },
       "contact": {
         "website": "http://www.dioceseofjuneau.org/"
@@ -149,7 +149,7 @@
         "timezone": -5,
         "latitude": 33.748995,
         "longitude": -84.387982,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/georgia-atlanta.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/georgia-atlanta.geojson"
       },
       "contact": {
         "address": "2401 Lake Park Dr. SE\nSmyrna, GA 30080",
@@ -178,7 +178,7 @@
         "timezone": -5,
         "latitude": 32.776566,
         "longitude": -79.930922,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/south-carolina-charleston.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/south-carolina-charleston.geojson"
       },
       "contact": {
         "address": "901 Orange Grove Road\nCharleston, SC 29407",
@@ -206,7 +206,7 @@
         "timezone": -5,
         "latitude": 35.227087,
         "longitude": -80.843127,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/north-carolina-charlotte.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/north-carolina-charlotte.geojson"
       },
       "contact": {
         "address": "1123 South Church Street\nCharlotte, NC 28203",
@@ -229,7 +229,7 @@
         "timezone": -5,
         "latitude": 35.772096,
         "longitude": -78.638614,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/north-carolina-raleigh.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/north-carolina-raleigh.geojson"
       },
       "contact": {
         "address": "7200 Stonehenge Drive\nRaleigh, NC 27613",
@@ -257,7 +257,7 @@
         "timezone": -5,
         "latitude": 32.083541,
         "longitude": -81.099834,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/georgia-savannah.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/georgia-savannah.geojson"
       },
       "contact": {
         "address": "2170 East Victory Drive\nSavannah, GA 31404-3918",
@@ -286,7 +286,7 @@
         "timezone": -5,
         "latitude": 39.290385,
         "longitude": -76.612189,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/maryland-baltimore.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/maryland-baltimore.geojson"
       },
       "contact": {
         "address": "320 Cathedral Street\nBaltimore, MD 21201",
@@ -314,7 +314,7 @@
         "timezone": -5,
         "latitude": 38.89039,
         "longitude": -77.084145,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/virginia-arlington.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/virginia-arlington.geojson"
       },
       "contact": {
         "address": "200 North Glebe Road\nArlington, Virginia 22203",
@@ -343,7 +343,7 @@
         "timezone": -5,
         "latitude": 37.542979,
         "longitude": -77.469092,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/virginia-richmond.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/virginia-richmond.geojson"
       },
       "contact": {
         "website": "https://richmonddiocese.org/"
@@ -366,7 +366,7 @@
         "timezone": -5,
         "latitude": 40.063962,
         "longitude": -80.720915,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/west-virginia-wheeling-charleston.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/west-virginia-wheeling-charleston.geojson"
       },
       "contact": {
         "address": "1311 Byron Street\nWheeling, WV 26003",
@@ -394,7 +394,7 @@
         "timezone": -5,
         "latitude": 39.745947,
         "longitude": -75.546589,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/delaware-wilmington.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/delaware-wilmington.geojson"
       },
       "contact": {
         "address": "1925 Delaware Avenue\nWilmington, DE 19806",
@@ -420,7 +420,7 @@
         "timezone": -5,
         "latitude": 42.358431,
         "longitude": -71.059773,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/massachusetts-boston.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/massachusetts-boston.geojson"
       },
       "contact": {
         "address": "66 Brooks Drive\nBraintree, MA 02184",
@@ -446,7 +446,7 @@
         "timezone": -5,
         "latitude": 44.47433859,
         "longitude": -73.21203232,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/vermont-burlington.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/vermont-burlington.geojson"
       },
       "contact": {
         "address": "55 Joy Drive\nSouth Burlington, VT 05403",
@@ -474,7 +474,7 @@
         "timezone": -5,
         "latitude": 41.701491,
         "longitude": -71.155045,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/massachusetts-fall-river.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/massachusetts-fall-river.geojson"
       },
       "contact": {
         "address": "450 Highland Avenue\nFall River, MA 02720",
@@ -502,7 +502,7 @@
         "timezone": -5,
         "latitude": 42.99564,
         "longitude": -71.454789,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-hampshire-manchester.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-hampshire-manchester.geojson"
       },
       "contact": {
         "address": "153 Ash Street\nManchester, NH 03104",
@@ -530,7 +530,7 @@
         "timezone": -5,
         "latitude": 43.661471,
         "longitude": -70.255326,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/maine-portland.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/maine-portland.geojson"
       },
       "contact": {
         "address": "510 Ocean Avenue\nPortland, ME 04103-4936",
@@ -557,7 +557,7 @@
         "timezone": -5,
         "latitude": 42.101483,
         "longitude": -72.589811,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/massachusetts-springfield.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/massachusetts-springfield.geojson"
       },
       "contact": {
         "address": "65 Elliot St.\nSpringfield, MA 01105",
@@ -580,7 +580,7 @@
         "timezone": -5,
         "latitude": 42.262593,
         "longitude": -71.802293,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/massachusetts-worcester.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/massachusetts-worcester.geojson"
       },
       "contact": {
         "address": "49 Elm Street, Worcester\nMA 01609-2597",
@@ -604,7 +604,7 @@
         "timezone": -6,
         "latitude": 41.850033,
         "longitude": -87.650052,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/illinois-chicago.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/illinois-chicago.geojson"
       },
       "contact": {
         "address": "835 North Rush Street\nChicago, IL 60611-2030",
@@ -631,7 +631,7 @@
         "timezone": -6,
         "latitude": 38.52005,
         "longitude": -89.983994,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/illinois-belleville.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/illinois-belleville.geojson"
       },
       "contact": {
         "address": "222 South Third Street\nBelleville, Illinois 62220-1970",
@@ -656,7 +656,7 @@
         "timezone": -6,
         "latitude": 41.525031,
         "longitude": -88.081725,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/illinois-joliet.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/illinois-joliet.geojson"
       },
       "contact": {
         "website": "http://www.dioceseofjoliet.org/"
@@ -679,7 +679,7 @@
         "timezone": -6,
         "latitude": 40.693649,
         "longitude": -89.588986,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/illinois-peoria.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/illinois-peoria.geojson"
       },
       "contact": {
         "address": "419 NE Madison Avenue\nPeoria, IL 61603",
@@ -706,7 +706,7 @@
         "timezone": -6,
         "latitude": 42.271131,
         "longitude": -89.093995,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/illinois-rockford.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/illinois-rockford.geojson"
       },
       "contact": {
         "website": "https://www.rockforddiocese.org/"
@@ -729,7 +729,7 @@
         "timezone": -6,
         "latitude": 39.801717,
         "longitude": -89.643711,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/illinois-springfield.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/illinois-springfield.geojson"
       },
       "contact": {
         "address": "1615 W. Washington St.\nSpringfield, IL 62702",
@@ -757,7 +757,7 @@
         "timezone": -5,
         "latitude": 39.14801,
         "longitude": -84.47702,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/ohio-cincinnati.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/ohio-cincinnati.geojson"
       },
       "contact": {
         "website": "http://www.catholiccincinnati.org/"
@@ -780,7 +780,7 @@
         "timezone": -5,
         "latitude": 41.499495,
         "longitude": -81.695409,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/ohio-cleveland.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/ohio-cleveland.geojson"
       },
       "contact": {
         "address": "1404 East 9th Street\nCleveland, OH 44114",
@@ -808,7 +808,7 @@
         "timezone": -5,
         "latitude": 39.961176,
         "longitude": -82.998794,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/ohio-columbus.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/ohio-columbus.geojson"
       },
       "contact": {
         "address": "197 E. Gay Street\nColumbus, OH 43215",
@@ -836,7 +836,7 @@
         "timezone": -5,
         "latitude": 40.36979,
         "longitude": -80.633964,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/ohio-steubenville.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/ohio-steubenville.geojson"
       },
       "contact": {
         "website": "https://www.diosteub.org/"
@@ -859,7 +859,7 @@
         "timezone": -5,
         "latitude": 41.663938,
         "longitude": -83.555212,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/ohio-toledo.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/ohio-toledo.geojson"
       },
       "contact": {
         "address": "1933 Spielbusch Avenue\nToledo, Ohio 43604",
@@ -888,7 +888,7 @@
         "timezone": -5,
         "latitude": 41.09978,
         "longitude": -80.649519,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/ohio-youngstown.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/ohio-youngstown.geojson"
       },
       "contact": {
         "address": "144 West Wood Street\nYoungstown, Ohio 44503",
@@ -916,7 +916,7 @@
         "timezone": -7,
         "latitude": 39.739154,
         "longitude": -104.984703,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/colorado-denver.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/colorado-denver.geojson"
       },
       "contact": {
         "address": "1300 S. Steele St.\nDenver, CO 80210",
@@ -943,7 +943,7 @@
         "timezone": -7,
         "latitude": 41.139981,
         "longitude": -104.820246,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/wyoming-cheyenne.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/wyoming-cheyenne.geojson"
       },
       "contact": {
         "website": "https://dioceseofcheyenne.org/"
@@ -967,7 +967,7 @@
         "timezone": -7,
         "latitude": 38.833882,
         "longitude": -104.821363,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/colorado-colorado-springs.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/colorado-colorado-springs.geojson"
       },
       "contact": {
         "address": "228 N Cascade Ave\nColorado Springs, CO 80903",
@@ -994,7 +994,7 @@
         "timezone": -7,
         "latitude": 38.254447,
         "longitude": -104.609141,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/colorado-pueblo.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/colorado-pueblo.geojson"
       },
       "contact": {
         "address": "101 North Greenwood Street\nPueblo, CO 81003",
@@ -1020,7 +1020,7 @@
         "timezone": -5,
         "latitude": 42.331427,
         "longitude": -83.045754,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/michigan-detroit.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/michigan-detroit.geojson"
       },
       "contact": {
         "address": "12 State Street\nDetroit, MI 48226-1823",
@@ -1049,7 +1049,7 @@
         "timezone": -5,
         "latitude": 45.027513,
         "longitude": -84.674752,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/michigan-gaylord.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/michigan-gaylord.geojson"
       },
       "contact": {
         "website": "http://www.dioceseofgaylord.org/"
@@ -1074,7 +1074,7 @@
         "timezone": -5,
         "latitude": 42.96336,
         "longitude": -85.668086,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/michigan-grand-rapids.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/michigan-grand-rapids.geojson"
       },
       "contact": {
         "address": "360 Division Ave. S.\nGrand Rapids, MI 49503",
@@ -1103,7 +1103,7 @@
         "timezone": -5,
         "latitude": 42.291707,
         "longitude": -85.587229,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/michigan-kalamazoo.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/michigan-kalamazoo.geojson"
       },
       "contact": {
         "website": "https://www.diokzoo.org/"
@@ -1126,7 +1126,7 @@
         "timezone": -5,
         "latitude": 42.732535,
         "longitude": -84.555535,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/michigan-lansing.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/michigan-lansing.geojson"
       },
       "contact": {
         "address": "228 N. Walnut St\nLansing, MI 48933",
@@ -1151,7 +1151,7 @@
         "timezone": -5,
         "latitude": 46.543544,
         "longitude": -87.395417,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/michigan-marquette.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/michigan-marquette.geojson"
       },
       "contact": {
         "address": "1004 Harbor Hills Drive\nMarquette, MI 49855-8851",
@@ -1175,7 +1175,7 @@
         "timezone": -5,
         "latitude": 43.41947,
         "longitude": -83.950807,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/michigan-saginaw.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/michigan-saginaw.geojson"
       },
       "contact": {
         "address": "5800 Weiss St.\nSaginaw MI 48603",
@@ -1202,7 +1202,7 @@
         "timezone": -6,
         "latitude": 42.500558,
         "longitude": -90.664572,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/iowa-dubuque.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/iowa-dubuque.geojson"
       },
       "contact": {
         "address": "PO Box 479\nDubuque, Iowa 52004-0479",
@@ -1232,7 +1232,7 @@
         "timezone": -6,
         "latitude": 41.523644,
         "longitude": -90.577637,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/iowa-davenport.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/iowa-davenport.geojson"
       },
       "contact": {
         "address": "780 West Central Park Ave.\nDavenport, Iowa 52804-1901 ",
@@ -1260,7 +1260,7 @@
         "timezone": -6,
         "latitude": 41.600545,
         "longitude": -93.609106,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/iowa-des-moines.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/iowa-des-moines.geojson"
       },
       "contact": {
         "website": "https://www.dmdiocese.org/"
@@ -1283,7 +1283,7 @@
         "timezone": -6,
         "latitude": 29.763284,
         "longitude": -95.363272,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-galveston-houston.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-galveston-houston.geojson"
       },
       "contact": {
         "website": "https://www.archgh.org/"
@@ -1307,7 +1307,7 @@
         "timezone": -6,
         "latitude": 30.267153,
         "longitude": -97.743061,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-austin.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-austin.geojson"
       },
       "contact": {
         "address": "6225 E US 290 HWY SVRD EB\nAustin, TX 78723",
@@ -1335,7 +1335,7 @@
         "timezone": -6,
         "latitude": 30.086046,
         "longitude": -94.101846,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-beaumont.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-beaumont.geojson"
       },
       "contact": {
         "address": "PO Box 3948\nBeaumont, TX 77704-3948",
@@ -1363,7 +1363,7 @@
         "timezone": -6,
         "latitude": 25.901747,
         "longitude": -97.497484,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-brownsville.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-brownsville.geojson"
       },
       "contact": {
         "website": "https://www.cdob.org/"
@@ -1389,7 +1389,7 @@
         "timezone": -6,
         "latitude": 27.800583,
         "longitude": -97.396381,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-corpus-christi.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-corpus-christi.geojson"
       },
       "contact": {
         "address": "555 N. Carancahua, Suite 750\nCorpus Christi, TX 78401",
@@ -1417,7 +1417,7 @@
         "timezone": -6,
         "latitude": 32.35126,
         "longitude": -95.301062,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-tyler.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-tyler.geojson"
       },
       "contact": {
         "address": "1015 ESE Loop 323\nTyler, Texas 75701-9663",
@@ -1445,7 +1445,7 @@
         "timezone": -6,
         "latitude": 28.805267,
         "longitude": -97.003598,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-victoria.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-victoria.geojson"
       },
       "contact": {
         "address": "P.O. Box 4070\nVictoria TX 77903",
@@ -1473,7 +1473,7 @@
         "timezone": -5,
         "latitude": 41.763711,
         "longitude": -72.685093,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/connecticut-hartford.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/connecticut-hartford.geojson"
       },
       "contact": {
         "address": "134 Farmington Ave\nHartford, CT 06105",
@@ -1501,7 +1501,7 @@
         "timezone": -5,
         "latitude": 41.167041,
         "longitude": -73.204835,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/connecticut-bridgeport.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/connecticut-bridgeport.geojson"
       },
       "contact": {
         "website": "https://www.bridgeportdiocese.org/"
@@ -1527,7 +1527,7 @@
         "timezone": -5,
         "latitude": 41.524265,
         "longitude": -72.07591,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/connecticut-norwich.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/connecticut-norwich.geojson"
       },
       "contact": {
         "address": "201 Broadway\nNorwich, CT 06360-4328",
@@ -1553,7 +1553,7 @@
         "timezone": -5,
         "latitude": 41.823989,
         "longitude": -71.412834,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/rhode-island-providence.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/rhode-island-providence.geojson"
       },
       "contact": {
         "address": "One Cathedral Square\nProvidence, Rhode Island 02903",
@@ -1581,7 +1581,7 @@
         "timezone": -5,
         "latitude": 39.767016,
         "longitude": -86.156255,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/indiana-indianapolis.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/indiana-indianapolis.geojson"
       },
       "contact": {
         "address": "1400 N. Meridian Street\nIndianapolis, IN 46202",
@@ -1609,7 +1609,7 @@
         "timezone": -5,
         "latitude": 37.974764,
         "longitude": -87.555848,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/indiana-evansville.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/indiana-evansville.geojson"
       },
       "contact": {
         "address": "P.O. Box 4169\nEvansville, IN 47724-0169",
@@ -1633,7 +1633,7 @@
         "timezone": -5,
         "latitude": 41.130604,
         "longitude": -85.12886,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/indiana-fort-wayne-south-bend.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/indiana-fort-wayne-south-bend.geojson"
       },
       "contact": {
         "address": "915 S. Clinton St.\nFort Wayne, Indiana 46802",
@@ -1660,7 +1660,7 @@
         "timezone": -5,
         "latitude": 41.59337,
         "longitude": -87.346427,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/indiana-gary.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/indiana-gary.geojson"
       },
       "contact": {
         "website": "https://www.dcgary.org/"
@@ -1683,7 +1683,7 @@
         "timezone": -5,
         "latitude": 40.416702,
         "longitude": -86.875287,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/indiana-lafayette.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/indiana-lafayette.geojson"
       },
       "contact": {
         "address": "610 Lingle Ave.\nLafayette IN 47901",
@@ -1709,7 +1709,7 @@
         "timezone": -6,
         "latitude": 39.114171,
         "longitude": -94.627457,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/kansas-kansas-city.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/kansas-kansas-city.geojson"
       },
       "contact": {
         "address": "12615 Parallel Parkway\nKansas City, Kansas 66109",
@@ -1736,7 +1736,7 @@
         "timezone": -6,
         "latitude": 37.752798,
         "longitude": -100.017079,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/kansas-dodge-city.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/kansas-dodge-city.geojson"
       },
       "contact": {
         "address": "910 Central PO Box 137\nDodge City, KS 67801",
@@ -1763,7 +1763,7 @@
         "timezone": -6,
         "latitude": 38.84028,
         "longitude": -97.611424,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/kansas-salina.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/kansas-salina.geojson"
       },
       "contact": {
         "address": "103 North Ninth Street\nSalina, KS 67401-2503",
@@ -1789,7 +1789,7 @@
         "timezone": -6,
         "latitude": 37.692236,
         "longitude": -97.337545,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/kansas-wichita.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/kansas-wichita.geojson"
       },
       "contact": {
         "address": "424 N. Broadway\nWichita, KS 67202",
@@ -1816,7 +1816,7 @@
         "timezone": -8,
         "latitude": 34.052234,
         "longitude": -118.243685,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/california-los-angeles.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/california-los-angeles.geojson"
       },
       "contact": {
         "address": "3424 Wilshire Blvd.\nLos Angeles, CA 90010-2241",
@@ -1844,7 +1844,7 @@
         "timezone": -8,
         "latitude": 36.747727,
         "longitude": -119.772366,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/california-fresno.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/california-fresno.geojson"
       },
       "contact": {
         "address": "1550 North Fresno street\nFresno, CA 93703-3788",
@@ -1873,7 +1873,7 @@
         "timezone": -8,
         "latitude": 36.600238,
         "longitude": -121.894676,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/california-monterey.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/california-monterey.geojson"
       },
       "contact": {
         "website": "https://www.dioceseofmonterey.org/"
@@ -1898,7 +1898,7 @@
         "timezone": -8,
         "latitude": 33.787794,
         "longitude": -117.853112,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/california-orange.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/california-orange.geojson"
       },
       "contact": {
         "address": "13280 Chapman Ave.\nGarden Grove, CA 92840",
@@ -1926,7 +1926,7 @@
         "timezone": -8,
         "latitude": 34.108345,
         "longitude": -117.289765,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/california-san-bernardino.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/california-san-bernardino.geojson"
       },
       "contact": {
         "address": "1201 E. Highland Ave.\nSan Bernardino, CA 92404-4607",
@@ -1955,7 +1955,7 @@
         "timezone": -8,
         "latitude": 32.715329,
         "longitude": -117.157255,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/california-san-diego.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/california-san-diego.geojson"
       },
       "contact": {
         "website": "https://www.sdcatholic.org/"
@@ -1976,7 +1976,7 @@
         "timezone": -5,
         "latitude": 38.254238,
         "longitude": -85.759407,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/kentucky-louisville.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/kentucky-louisville.geojson"
       },
       "contact": {
         "website": "https://www.archlou.org/"
@@ -2000,7 +2000,7 @@
         "timezone": -5,
         "latitude": 39.083671,
         "longitude": -84.508554,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/kentucky-covington.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/kentucky-covington.geojson"
       },
       "contact": {
         "website": "https://covdio.org/",
@@ -2022,7 +2022,7 @@
         "timezone": -6,
         "latitude": 35.960638,
         "longitude": -83.920739,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/tennessee-knoxville.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/tennessee-knoxville.geojson"
       },
       "contact": {
         "website": "https://dioknox.org/",
@@ -2050,7 +2050,7 @@
         "timezone": -5,
         "latitude": 37.988689,
         "longitude": -84.477715,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/kentucky-lexington.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/kentucky-lexington.geojson"
       },
       "contact": {
         "address": "1310 West Main St.\nLexington, KY 40508-2428",
@@ -2072,7 +2072,7 @@
         "timezone": -6,
         "latitude": 35.149534,
         "longitude": -90.04898,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/tennessee-memphis.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/tennessee-memphis.geojson"
       },
       "contact": {
         "address": "5825 Shelby Oaks Drive\nMemphis, TN 38134-7316",
@@ -2099,7 +2099,7 @@
         "timezone": -6,
         "latitude": 36.16589,
         "longitude": -86.784443,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/tennessee-nashville.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/tennessee-nashville.geojson"
       },
       "contact": {
         "address": "2800 McGavock Pike\nNashville, TN, 37214-1402",
@@ -2126,7 +2126,7 @@
         "timezone": -5,
         "latitude": 37.774215,
         "longitude": -87.11333,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/kentucky-owensboro.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/kentucky-owensboro.geojson"
       },
       "contact": {
         "website": "https://owensborodiocese.org/"
@@ -2149,7 +2149,7 @@
         "timezone": -5,
         "latitude": 25.774266,
         "longitude": -80.193659,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/florida-miami.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/florida-miami.geojson"
       },
       "contact": {
         "address": "9401 Biscayne Boulevard\nMiami Shores, FL 33138",
@@ -2178,7 +2178,7 @@
         "timezone": -5,
         "latitude": 28.538336,
         "longitude": -81.379236,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/florida-orlando.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/florida-orlando.geojson"
       },
       "contact": {
         "address": "PO Box 1800\nOrlando, Florida 32802-1800",
@@ -2208,7 +2208,7 @@
         "timezone": -5,
         "latitude": 26.705621,
         "longitude": -80.03643,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/florida-palm-beach.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/florida-palm-beach.geojson"
       },
       "contact": {
         "address": "9995 N. Military Trail\nP.O. Box 109650\nPalm Beach Gardens, Florida 33410-9650",
@@ -2234,7 +2234,7 @@
         "timezone": -5,
         "latitude": 30.421309,
         "longitude": -87.216915,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/florida-pensacola-tallahassee.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/florida-pensacola-tallahassee.geojson"
       },
       "contact": {
         "website": "https://ptdiocese.org/"
@@ -2257,7 +2257,7 @@
         "timezone": -5,
         "latitude": 29.894691,
         "longitude": -81.314517,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/florida-st-augustine.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/florida-st-augustine.geojson"
       },
       "contact": {
         "address": "11625 Old St. Augustine Road\nJacksonville, FL 32258",
@@ -2287,7 +2287,7 @@
         "timezone": -5,
         "latitude": 27.770861,
         "longitude": -82.679266,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/florida-st-petersburg.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/florida-st-petersburg.geojson"
       },
       "contact": {
         "address": "6363 9th Ave. North\nSt. Petersburg, FL 33710",
@@ -2317,7 +2317,7 @@
         "timezone": -5,
         "latitude": 27.099778,
         "longitude": -82.454263,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/florida-venice.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/florida-venice.geojson"
       },
       "contact": {
         "website": "https://dioceseofvenice.org/",
@@ -2343,7 +2343,7 @@
         "timezone": -6,
         "latitude": 43.038902,
         "longitude": -87.906474,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/wisconsin-milwaukee.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/wisconsin-milwaukee.geojson"
       },
       "contact": {
         "address": "3501 South Lake Drive\nPO Box 070912\nMilwaukee, WI 53207-0912",
@@ -2372,7 +2372,7 @@
         "timezone": -6,
         "latitude": 44.519159,
         "longitude": -88.019826,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/wisconsin-green-bay.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/wisconsin-green-bay.geojson"
       },
       "contact": {
         "address": "PO Box 23825\nGreen Bay, WI 54305-3825",
@@ -2400,7 +2400,7 @@
         "timezone": -6,
         "latitude": 43.801356,
         "longitude": -91.239581,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/wisconsin-la-crosse.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/wisconsin-la-crosse.geojson"
       },
       "contact": {
         "website": "https://diolc.org/"
@@ -2423,7 +2423,7 @@
         "timezone": -6,
         "latitude": 46.720774,
         "longitude": -92.10408,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/wisconsin-superior.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/wisconsin-superior.geojson"
       },
       "contact": {
         "address": "1201 Hughitt Ave\nPO Box 969\nSuperior, Wisconsin 54880",
@@ -2450,7 +2450,7 @@
         "timezone": -6,
         "latitude": 30.694357,
         "longitude": -88.043054,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/alabama-mobile.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/alabama-mobile.geojson"
       },
       "contact": {
         "website": "http://mobarch.org/"
@@ -2473,7 +2473,7 @@
         "timezone": -6,
         "latitude": 30.396032,
         "longitude": -88.885308,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/mississippi-biloxi.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/mississippi-biloxi.geojson"
       },
       "contact": {
         "address": "1790 Popps Ferry Road\nBiloxi MS 39532",
@@ -2501,7 +2501,7 @@
         "timezone": -6,
         "latitude": 33.520661,
         "longitude": -86.80249,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/alabama-birmingham.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/alabama-birmingham.geojson"
       },
       "contact": {
         "website": "https://www.bhmdiocese.org/"
@@ -2524,7 +2524,7 @@
         "timezone": -6,
         "latitude": 32.298757,
         "longitude": -90.18481,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/mississippi-jackson.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/mississippi-jackson.geojson"
       },
       "contact": {
         "address": "237 East Amite\nJackson, MS 39201",
@@ -2551,7 +2551,7 @@
         "timezone": -6,
         "latitude": 29.954648,
         "longitude": -90.075072,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/louisiana-new-orleans.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/louisiana-new-orleans.geojson"
       },
       "contact": {
         "address": "7887 Walmsley Ave.\nNew Orleans, LA 70125",
@@ -2579,7 +2579,7 @@
         "timezone": -6,
         "latitude": 31.311294,
         "longitude": -92.445137,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/louisiana-alexandria.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/louisiana-alexandria.geojson"
       },
       "contact": {
         "website": "https://www.diocesealex.org/"
@@ -2602,7 +2602,7 @@
         "timezone": -6,
         "latitude": 30.450746,
         "longitude": -91.154551,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/louisiana-baton-rouge.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/louisiana-baton-rouge.geojson"
       },
       "contact": {
         "address": "Post Office Box 2028\nBaton Rouge, LA 70821-2028",
@@ -2628,7 +2628,7 @@
         "timezone": -6,
         "latitude": 29.742154,
         "longitude": -90.81037,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/louisiana-houma-thibodaux.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/louisiana-houma-thibodaux.geojson"
       },
       "contact": {
         "website": "https://htdiocese.org/",
@@ -2655,7 +2655,7 @@
         "timezone": -6,
         "latitude": 30.22409,
         "longitude": -92.019843,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/louisiana-lafayette.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/louisiana-lafayette.geojson"
       },
       "contact": {
         "address": "1408 Carmel Drive\nLafayette, Louisiana 70501",
@@ -2682,7 +2682,7 @@
         "timezone": -6,
         "latitude": 30.226595,
         "longitude": -93.217376,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/louisiana-lake-charles.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/louisiana-lake-charles.geojson"
       },
       "contact": {
         "address": "P.O. Box 3223\nLake Charles LA 70602-3223",
@@ -2710,7 +2710,7 @@
         "timezone": -6,
         "latitude": 32.525152,
         "longitude": -93.750179,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/louisiana-shreveport.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/louisiana-shreveport.geojson"
       },
       "contact": {
         "address": "3500 Fairfield Ave.\nShreveport, LA 71104",
@@ -2736,7 +2736,7 @@
         "timezone": -5,
         "latitude": 40.714269,
         "longitude": -74.005973,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-york-new-york.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-york-new-york.geojson"
       },
       "contact": {
         "address": "1011 1st Avenue\nNew York, NY 10022",
@@ -2763,7 +2763,7 @@
         "timezone": -5,
         "latitude": 42.652579,
         "longitude": -73.756232,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-york-albany.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-york-albany.geojson"
       },
       "contact": {
         "address": "40 North Main Avenue\nAlbany, NY 12203",
@@ -2791,7 +2791,7 @@
         "timezone": -5,
         "latitude": 40.650104,
         "longitude": -73.949582,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-york-brooklyn.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-york-brooklyn.geojson"
       },
       "contact": {
         "address": "310 Prospect Park West\nBrooklyn, NY 11215",
@@ -2817,7 +2817,7 @@
         "timezone": -5,
         "latitude": 42.886447,
         "longitude": -78.878369,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-york-buffalo.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-york-buffalo.geojson"
       },
       "contact": {
         "address": "795 Main Street\nBuffalo, NY 14203",
@@ -2844,7 +2844,7 @@
         "timezone": -5,
         "latitude": 44.694229,
         "longitude": -75.486336,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-york-ogdensburg.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-york-ogdensburg.geojson"
       },
       "contact": {
         "address": "622 Washington Street\nPO Box 369\nOgdensburg NY 13669",
@@ -2873,7 +2873,7 @@
         "timezone": -5,
         "latitude": 43.154784,
         "longitude": -77.615557,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-york-rochester.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-york-rochester.geojson"
       },
       "contact": {
         "address": "1150 Buffalo Road\nRochester, New York 14624",
@@ -2901,7 +2901,7 @@
         "timezone": -5,
         "latitude": 40.658714,
         "longitude": -73.641241,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-york-rockville-centre.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-york-rockville-centre.geojson"
       },
       "contact": {
         "address": "50 North Park Ave. (PO Box 9023)\nRockville Centre, NY 11571-9023",
@@ -2929,7 +2929,7 @@
         "timezone": -5,
         "latitude": 43.048122,
         "longitude": -76.147424,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-york-syracuse.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-york-syracuse.geojson"
       },
       "contact": {
         "website": "https://syracusediocese.org/"
@@ -2952,7 +2952,7 @@
         "timezone": -5,
         "latitude": 40.735657,
         "longitude": -74.172367,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-jersey-newark.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-jersey-newark.geojson"
       },
       "contact": {
         "address": "171 Clifton Avenue\nNewark, NJ 07104",
@@ -2980,7 +2980,7 @@
         "timezone": -5,
         "latitude": 39.925946,
         "longitude": -75.11962,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-jersey-camden.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-jersey-camden.geojson"
       },
       "contact": {
         "address": "631 Market Street\nCamden, NJ 08102",
@@ -3009,7 +3009,7 @@
         "timezone": -5,
         "latitude": 40.54316,
         "longitude": -74.363205,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-jersey-metuchen.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-jersey-metuchen.geojson"
       },
       "contact": {
         "address": "146 Metlars Lane\nPiscataway, NJ 08854",
@@ -3039,7 +3039,7 @@
         "timezone": -5,
         "latitude": 40.916765,
         "longitude": -74.171811,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-jersey-paterson.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-jersey-paterson.geojson"
       },
       "contact": {
         "address": "777 Valley Road\nClifton, New Jersey 07013",
@@ -3066,7 +3066,7 @@
         "timezone": -5,
         "latitude": 40.217053,
         "longitude": -74.742938,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-jersey-trenton.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-jersey-trenton.geojson"
       },
       "contact": {
         "website": "https://dioceseoftrenton.org/"
@@ -3090,7 +3090,7 @@
         "timezone": -6,
         "latitude": 35.46756,
         "longitude": -97.516428,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/oklahoma-oklahoma-city.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/oklahoma-oklahoma-city.geojson"
       },
       "contact": {
         "website": "https://www.archokc.org/"
@@ -3116,7 +3116,7 @@
         "timezone": -6,
         "latitude": 34.74274097,
         "longitude": -92.28961945,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/arkansas-little-rock.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/arkansas-little-rock.geojson"
       },
       "contact": {
         "address": "2500 N. Tyler St.\nLittle Rock, AR 72207",
@@ -3142,7 +3142,7 @@
         "timezone": -6,
         "latitude": 36.153982,
         "longitude": -95.992775,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/oklahoma-tulsa.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/oklahoma-tulsa.geojson"
       },
       "contact": {
         "address": "12300 E. 91st Street South\nBroken Arrow, OK 74012",
@@ -3171,7 +3171,7 @@
         "timezone": -6,
         "latitude": 41.254006,
         "longitude": -95.999258,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/nebraska-omaha.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/nebraska-omaha.geojson"
       },
       "contact": {
         "website": "https://archomaha.org/"
@@ -3195,7 +3195,7 @@
         "timezone": -6,
         "latitude": 40.921028,
         "longitude": -98.350281,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/nebraska-grand-island.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/nebraska-grand-island.geojson"
       },
       "contact": {
         "address": "2708 Old Fair Road\nGrand Island, NE 68803",
@@ -3224,7 +3224,7 @@
         "timezone": -6,
         "latitude": 40.806862,
         "longitude": -96.681679,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/nebraska-lincoln.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/nebraska-lincoln.geojson"
       },
       "contact": {
         "address": "3400 Sheridan Blvd\nLincoln NE 68506-6125",
@@ -3249,7 +3249,7 @@
         "timezone": -5,
         "latitude": 39.952335,
         "longitude": -75.163789,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/pennsylvania-philadelphia.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/pennsylvania-philadelphia.geojson"
       },
       "contact": {
         "address": "222 North 17th Street\nPhiladelphia, PA 19103",
@@ -3277,7 +3277,7 @@
         "timezone": -5,
         "latitude": 40.60843,
         "longitude": -75.490183,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/pennsylvania-allentown.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/pennsylvania-allentown.geojson"
       },
       "contact": {
         "address": "Post Office Box F\nAllentown, PA 18105-1538",
@@ -3306,7 +3306,7 @@
         "timezone": -5,
         "latitude": 40.427295,
         "longitude": -78.388902,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/pennsylvania-altoona-johnstown.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/pennsylvania-altoona-johnstown.geojson"
       },
       "contact": {
         "address": "2713 West Chestnut Avenue\nAltoona, PA 16601-1720",
@@ -3334,7 +3334,7 @@
         "timezone": -5,
         "latitude": 42.129224,
         "longitude": -80.085059,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/pennsylvania-erie.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/pennsylvania-erie.geojson"
       },
       "contact": {
         "website": "https://www.eriercd.org/"
@@ -3357,7 +3357,7 @@
         "timezone": -5,
         "latitude": 40.301458,
         "longitude": -79.538929,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/pennsylvania-greensburg.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/pennsylvania-greensburg.geojson"
       },
       "contact": {
         "address": "723 East Pittsburgh Street\nGreensburg, PA 15601",
@@ -3385,7 +3385,7 @@
         "timezone": -5,
         "latitude": 40.2737,
         "longitude": -76.884418,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/pennsylvania-harrisburg.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/pennsylvania-harrisburg.geojson"
       },
       "contact": {
         "website": "https://www.hbgdiocese.org/"
@@ -3408,7 +3408,7 @@
         "timezone": -5,
         "latitude": 40.440625,
         "longitude": -79.995886,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/pennsylvania-pittsburgh.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/pennsylvania-pittsburgh.geojson"
       },
       "contact": {
         "website": "https://www.diopitt.org/"
@@ -3431,7 +3431,7 @@
         "timezone": -5,
         "latitude": 41.408969,
         "longitude": -75.662412,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/pennsylvania-scranton.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/pennsylvania-scranton.geojson"
       },
       "contact": {
         "address": "300 Wyoming Avenue\nScranton, PA 18503-1279",
@@ -3459,7 +3459,7 @@
         "timezone": -8,
         "latitude": 45.523452,
         "longitude": -122.676207,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/oregon-portland.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/oregon-portland.geojson"
       },
       "contact": {
         "address": "2838 East Burnside Street\nPortland, Oregon 97214-1830",
@@ -3487,7 +3487,7 @@
         "timezone": -8,
         "latitude": 44.778591,
         "longitude": -117.836197,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/oregon-baker.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/oregon-baker.geojson"
       },
       "contact": {
         "address": "641 SW Umatilla Avenue\nRedmond, OR 97756",
@@ -3513,7 +3513,7 @@
         "timezone": -7,
         "latitude": 43.612631,
         "longitude": -116.211076,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/idaho-boise.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/idaho-boise.geojson"
       },
       "contact": {
         "website": "https://www.catholicidaho.org/"
@@ -3534,7 +3534,7 @@
         "timezone": -7,
         "latitude": 47.500235,
         "longitude": -111.300808,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/montana-great-falls-billings.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/montana-great-falls-billings.geojson"
       },
       "contact": {
         "address": "PO Box 1399\nGreat Falls, MT 59403",
@@ -3559,7 +3559,7 @@
         "timezone": -7,
         "latitude": 46.600212,
         "longitude": -112.014719,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/montana-helena.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/montana-helena.geojson"
       },
       "contact": {
         "address": "P.O. Box 1729\nHelena, MT 59624",
@@ -3587,7 +3587,7 @@
         "timezone": -6,
         "latitude": 38.646991,
         "longitude": -90.224967,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/missouri-st-louis.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/missouri-st-louis.geojson"
       },
       "contact": {
         "address": "20 Archbishop May Drive\nSt. Louis, MO 63119",
@@ -3615,7 +3615,7 @@
         "timezone": -6,
         "latitude": 38.576702,
         "longitude": -92.173516,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/missouri-jefferson-city.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/missouri-jefferson-city.geojson"
       },
       "contact": {
         "address": "2207 West Main Street\nJefferson City, MO 65109-0914",
@@ -3641,7 +3641,7 @@
         "timezone": -6,
         "latitude": 39.099726,
         "longitude": -94.578567,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/missouri-kansas-city.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/missouri-kansas-city.geojson"
       },
       "contact": {
         "address": "20 West Ninth Street\nKansas City, MO 64105",
@@ -3668,7 +3668,7 @@
         "timezone": -6,
         "latitude": 37.215326,
         "longitude": -93.298244,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/missouri-springfield-cape-girardeau.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/missouri-springfield-cape-girardeau.geojson"
       },
       "contact": {
         "website": "https://dioscg.org/"
@@ -3691,7 +3691,7 @@
         "timezone": -6,
         "latitude": 44.94441,
         "longitude": -93.093274,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/minnesota-st-paul-minneapolis.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/minnesota-st-paul-minneapolis.geojson"
       },
       "contact": {
         "address": "777 Forest Street\nSaint Paul, MN 55106",
@@ -3718,7 +3718,7 @@
         "timezone": -6,
         "latitude": 46.808327,
         "longitude": -100.783739,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/north-dakota-bismarck.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/north-dakota-bismarck.geojson"
       },
       "contact": {
         "website": "https://bismarckdiocese.com/"
@@ -3741,7 +3741,7 @@
         "timezone": -6,
         "latitude": 47.774138,
         "longitude": -96.608121,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/minnesota-crookston.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/minnesota-crookston.geojson"
       },
       "contact": {
         "address": "1200 Memorial Drive\nPO Box 610\nCrookston, MN 56716",
@@ -3771,7 +3771,7 @@
         "timezone": -6,
         "latitude": 46.783273,
         "longitude": -92.106579,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/minnesota-duluth.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/minnesota-duluth.geojson"
       },
       "contact": {
         "address": "2830 E Fourth Street\nDuluth, MN 55812",
@@ -3796,7 +3796,7 @@
         "timezone": -6,
         "latitude": 46.877186,
         "longitude": -96.789803,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/north-dakota-fargo.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/north-dakota-fargo.geojson"
       },
       "contact": {
         "address": "5201 Bishops Blvd. S., Suite A\nFargo, ND 58104-7605",
@@ -3823,7 +3823,7 @@
         "timezone": -6,
         "latitude": 44.309479,
         "longitude": -94.467789,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/minnesota-new-ulm.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/minnesota-new-ulm.geojson"
       },
       "contact": {
         "address": "1421 6th Street North\nNew Ulm, MN, 56073",
@@ -3849,7 +3849,7 @@
         "timezone": -6,
         "latitude": 44.080543,
         "longitude": -103.231015,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/south-dakota-rapid-city.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/south-dakota-rapid-city.geojson"
       },
       "contact": {
         "website": "https://www.rapidcitydiocese.org/"
@@ -3872,7 +3872,7 @@
         "timezone": -6,
         "latitude": 45.560799,
         "longitude": -94.162489,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/minnesota-st-cloud.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/minnesota-st-cloud.geojson"
       },
       "contact": {
         "address": "P.O. Box 1248\nSt. Cloud, MN 56302-1248",
@@ -3898,7 +3898,7 @@
         "timezone": -6,
         "latitude": 43.549975,
         "longitude": -96.700327,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/south-dakota-sioux-falls.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/south-dakota-sioux-falls.geojson"
       },
       "contact": {
         "website": "https://www.sfcatholic.org/"
@@ -3921,7 +3921,7 @@
         "timezone": -6,
         "latitude": 44.049963,
         "longitude": -91.639315,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/minnesota-winona.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/minnesota-winona.geojson"
       },
       "contact": {
         "address": "55 W. Sanborn (PO Box 588)\nWinona, MN 55987",
@@ -3949,7 +3949,7 @@
         "timezone": -6,
         "latitude": 29.424122,
         "longitude": -98.493628,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-san-antonio.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-san-antonio.geojson"
       },
       "contact": {
         "address": "2718 W. Woodlawn\nSan Antonio, Texas 78228",
@@ -3973,7 +3973,7 @@
         "timezone": -6,
         "latitude": 35.221997,
         "longitude": -101.831297,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-amarillo.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-amarillo.geojson"
       },
       "contact": {
         "address": "4512 NE 24th\nAmarillo, TX 79107",
@@ -4001,7 +4001,7 @@
         "timezone": -6,
         "latitude": 32.802955,
         "longitude": -96.769923,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-dallas.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-dallas.geojson"
       },
       "contact": {
         "address": "3725 Blackburn Street\nDallas, Texas 75219",
@@ -4030,7 +4030,7 @@
         "timezone": -6,
         "latitude": 31.75872,
         "longitude": -106.486931,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-el-paso.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-el-paso.geojson"
       },
       "contact": {
         "address": "499 St. Matthews St\nEl Paso, TX 79907",
@@ -4060,7 +4060,7 @@
         "timezone": -6,
         "latitude": 32.725409,
         "longitude": -97.32085,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-fort-worth.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-fort-worth.geojson"
       },
       "contact": {
         "website": "https://fwdioc.org/"
@@ -4086,7 +4086,7 @@
         "timezone": -6,
         "latitude": 27.506407,
         "longitude": -99.507542,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-laredo.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-laredo.geojson"
       },
       "contact": {
         "website": "https://www.dioceseoflaredo.org/"
@@ -4112,7 +4112,7 @@
         "timezone": -6,
         "latitude": 33.577863,
         "longitude": -101.855166,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-lubbock.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-lubbock.geojson"
       },
       "contact": {
         "address": "4620 Fourth Street\nLubbock, TX 79499-8700",
@@ -4137,7 +4137,7 @@
         "timezone": -6,
         "latitude": 31.463772,
         "longitude": -100.437038,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/texas-san-angelo.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/texas-san-angelo.geojson"
       },
       "contact": {
         "address": "PO Box 1829\nSan Angelo, TX 76902",
@@ -4163,7 +4163,7 @@
         "timezone": -8,
         "latitude": 37.77493,
         "longitude": -122.419416,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/california-san-francisco.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/california-san-francisco.geojson"
       },
       "contact": {
         "website": "https://www.sfarchdiocese.org/"
@@ -4189,7 +4189,7 @@
         "timezone": -10,
         "latitude": 21.306944,
         "longitude": -157.858333,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/hawaii-honolulu.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/hawaii-honolulu.geojson"
       },
       "contact": {
         "address": "1184 Bishop St\nHonolulu, HI 96813",
@@ -4216,7 +4216,7 @@
         "timezone": -8,
         "latitude": 36.114646,
         "longitude": -115.172816,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/nevada-las-vegas.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/nevada-las-vegas.geojson"
       },
       "contact": {
         "address": "336 Cathedral Way\nLas Vegas, Nevada 89109-0716",
@@ -4241,7 +4241,7 @@
         "timezone": -8,
         "latitude": 37.804372,
         "longitude": -122.270803,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/california-oakland.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/california-oakland.geojson"
       },
       "contact": {
         "website": "https://www.oakdiocese.org/"
@@ -4264,7 +4264,7 @@
         "timezone": -8,
         "latitude": 39.529633,
         "longitude": -119.813803,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/nevada-reno.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/nevada-reno.geojson"
       },
       "contact": {
         "website": "https://renodiocese.org/"
@@ -4290,7 +4290,7 @@
         "timezone": -8,
         "latitude": 38.581572,
         "longitude": -121.4944,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/california-sacramento.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/california-sacramento.geojson"
       },
       "contact": {
         "address": "2110 Broadway\nSacramento, CA 95818",
@@ -4316,7 +4316,7 @@
         "timezone": -7,
         "latitude": 40.760779,
         "longitude": -111.891047,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/utah-salt-lake-city.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/utah-salt-lake-city.geojson"
       },
       "contact": {
         "address": "27 C Street\nSalt Lake City, Utah 84103",
@@ -4344,7 +4344,7 @@
         "timezone": -8,
         "latitude": 37.339386,
         "longitude": -121.894956,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/california-san-jose.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/california-san-jose.geojson"
       },
       "contact": {
         "address": "1150 North First St., Suite 100\nSan Jose, CA 95112",
@@ -4371,7 +4371,7 @@
         "timezone": -8,
         "latitude": 38.440467,
         "longitude": -122.714431,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/california-santa-rosa.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/california-santa-rosa.geojson"
       },
       "contact": {
         "website": "http://srdiocese.org/"
@@ -4392,7 +4392,7 @@
         "timezone": -8,
         "latitude": 37.957702,
         "longitude": -121.29078,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/california-stockton.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/california-stockton.geojson"
       },
       "contact": {
         "address": "212 North San Joaquin Street\nStockton, CA 95202-2409",
@@ -4419,7 +4419,7 @@
         "timezone": -7,
         "latitude": 35.686975,
         "longitude": -105.937799,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-mexico-santa-fe.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-mexico-santa-fe.geojson"
       },
       "contact": {
         "address": "4000 Saint Joseph's Place NW\nAlbuquerque, NM 87120-1741",
@@ -4447,7 +4447,7 @@
         "timezone": -7,
         "latitude": 35.528078,
         "longitude": -108.742584,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-mexico-gallup.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-mexico-gallup.geojson"
       },
       "contact": {
         "website": "https://dioceseofgallup.org/"
@@ -4470,7 +4470,7 @@
         "timezone": -7,
         "latitude": 32.312316,
         "longitude": -106.778337,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/new-mexico-las-cruces.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/new-mexico-las-cruces.geojson"
       },
       "contact": {
         "website": "https://rcdlc.org/"
@@ -4493,7 +4493,7 @@
         "timezone": -7,
         "latitude": 33.448377,
         "longitude": -112.074037,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/arizona-phoenix.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/arizona-phoenix.geojson"
       },
       "contact": {
         "address": "400 E. Monroe St.\nPhoenix, AZ 85004-2336",
@@ -4522,7 +4522,7 @@
         "timezone": -7,
         "latitude": 32.221743,
         "longitude": -110.926479,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/arizona-tucson.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/arizona-tucson.geojson"
       },
       "contact": {
         "address": "P.O. Box 31\nTucson, AZ 85702",
@@ -4548,7 +4548,7 @@
         "timezone": -8,
         "latitude": 47.60621,
         "longitude": -122.332071,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/washington-seattle.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/washington-seattle.geojson"
       },
       "contact": {
         "address": "710 9th Avenue\nSeattle, WA 98104",
@@ -4574,7 +4574,7 @@
         "timezone": -8,
         "latitude": 47.65878,
         "longitude": -117.426047,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/washington-spokane.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/washington-spokane.geojson"
       },
       "contact": {
         "website": "https://www.dioceseofspokane.org/"
@@ -4597,7 +4597,7 @@
         "timezone": -8,
         "latitude": 46.602071,
         "longitude": -120.505899,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/washington-yakima.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/washington-yakima.geojson"
       },
       "contact": {
         "website": "https://yakimadiocese.org/"
@@ -4620,7 +4620,7 @@
         "timezone": -6,
         "latitude": 38.895112,
         "longitude": -77.036366,
-        "geojson": "https://tomreitz.github.io/catholicdata/geojson/ecclesiastical/maryland-washington.geojson"
+        "geojson": "https://catholicdata.org/geojson/ecclesiastical/maryland-washington.geojson"
       },
       "contact": {
         "address": "PO Box 29260\nWashington, DC 20017-0260",

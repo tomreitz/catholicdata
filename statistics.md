@@ -31,4 +31,4 @@ On this page are general statistics about breadth and depth of the dataset. Thes
 | People with social.youtube | 1 | 0.08% |
 | - - - - - - - - - - | - | - |
 
-[Back to homepage.](/catholicdata/)
+[Back to homepage.](/)
