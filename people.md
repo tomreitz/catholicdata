@@ -1,11 +1,11 @@
 # People
 
 ## Endpoints
-* [people.json](/catholicdata/people.json), which contains all people
-* [people_living.json](/catholicdata/people_living.json), which contains living people only
-* [people_saints.json](/catholicdata/people_saints.json), which contains only Saints
-* [people_popes.json](/catholicdata/people_popes.json), which contains only Popes
-* [people_bishops.json](/catholicdata/peoplebishops.json), which contains only Bishops
+* [people.json](/people.json), which contains all people
+* [people_living.json](/people_living.json), which contains living people only
+* [people_saints.json](/people_saints.json), which contains only Saints
+* [people_popes.json](/people_popes.json), which contains only Popes
+* [people_bishops.json](/peoplebishops.json), which contains only Bishops
 
 ## Structure:
 ```
@@ -157,4 +157,4 @@ Event *type*s for persons include
 * The *contact* object throughout may contain elements including *address1* and *address2* (mailing address), *website* (URL), *email*, *phone* (with country code), *fax* (with country code)
 * The *social* object throughout may contain elements including *facebook* (URL), *twitter* (handle), *instagram* (URL), and *youtube* (URL).
 
-[Back to homepage.](/catholicdata/)
+[Back to homepage.](/)

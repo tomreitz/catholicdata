@@ -1,7 +1,7 @@
 # Organizations
 
 ## Endpoints
-* [organizations.json](/catholicdata/organizations.json), which contains all organizations
+* [organizations.json](/organizations.json), which contains all organizations
 
 ## Structure:
 ```
@@ -41,4 +41,4 @@ Event types for organizations include
 * The *contact* object throughout may contain elements including *address1* and *address2* (mailing address), *website* (URL), *email*, *phone* (with country code), *fax* (with country code)
 * The *social* object throughout may contain elements including *facebook* (URL), *twitter* (handle), *instagram* (URL), and *youtube* (URL).
 
-[Back to homepage.](/catholicdata/)
+[Back to homepage.](/)

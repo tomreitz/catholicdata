@@ -10,7 +10,7 @@ One can measure the maturity of any dataset in terms of its breadth, depth, and 
 * 1,250 bishops (all current bishops of the US, UK, and several other countries, plus a few others)
 * 2,700 dioceses (all current geographic dioceses, but few titular ones)
 
-[Find further statistics here.](/catholicdata/statistics.html)
+[Find further statistics here.](/statistics.html)
 
 We plan to add the following further information:
 * Historical dioceses, of which there are around 6,000
@@ -31,23 +31,23 @@ We plan to add the following further information:
 Below are available data endpoints and links to further documentation.
 
 ## Regions
-* [regions.json](/catholicdata/regions.json), which contains all regions
-* [regions_ecclesiastical.json](/catholicdata/regions_ecclesiastical.json), which contains only ecclesiastical regions
-* [regions_ecclesiastical_current.json](/catholicdata/regions_ecclesiastical_current.json), which contains only current ecclesiastical regions
-* [Documentation](/catholicdata/regions.html)
+* [regions.json](/regions.json), which contains all regions
+* [regions_ecclesiastical.json](/regions_ecclesiastical.json), which contains only ecclesiastical regions
+* [regions_ecclesiastical_current.json](/regions_ecclesiastical_current.json), which contains only current ecclesiastical regions
+* [Documentation](/regions.html)
 
 ## Places
-* [places.json](/catholicdata/places.json), which contains all places
-* [Documentation](/catholicdata/places.html)
+* [places.json](/places.json), which contains all places
+* [Documentation](/places.html)
 
 ## People
-* [people.json](/catholicdata/people.json), which contains all people
-* [Documentation](/catholicdata/people.html)
+* [people.json](/people.json), which contains all people
+* [Documentation](/people.html)
 
 ## Organizations
-* [organizations.json](/catholicdata/organizations.json), which contains all organizations
-* [Documentation](/catholicdata/organizations.html)
+* [organizations.json](/organizations.json), which contains all organizations
+* [Documentation](/organizations.html)
 
 ## Literature
-* [literature.json](/catholicdata/literature.json), which contains all literature
-* [Documentation](/catholicdata/literature.html)
+* [literature.json](/literature.json), which contains all literature
+* [Documentation](/literature.html)

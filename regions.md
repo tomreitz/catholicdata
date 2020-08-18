@@ -1,9 +1,9 @@
 # Regions
 
 ## Endpoints
-* [regions.json](/catholicdata/regions.json), which contains all regions
-* [regions_ecclesiastical.json](/catholicdata/regions_ecclesiastical.json), which contains only ecclesiastical regions
-* [regions_ecclesiastical_current.json](/catholicdata/regions_ecclesiastical_current.json), which contains only current (non-suppressed) ecclesiastical regions
+* [regions.json](/regions.json), which contains all regions
+* [regions_ecclesiastical.json](/regions_ecclesiastical.json), which contains only ecclesiastical regions
+* [regions_ecclesiastical_current.json](/regions_ecclesiastical_current.json), which contains only current (non-suppressed) ecclesiastical regions
 
 ## Structure:
 ```
@@ -20,7 +20,7 @@
       timezone: -8,
       latitude: 45.523452,
       longitude: -122.676207,
-      geojson: "https://tomreitz.github.io/catholicdata/regions/ecclesiastical/us-or-portland.geojson"
+      geojson: "https://catholicdata.org/regions/ecclesiastical/us-or-portland.geojson"
     },
     contact: {
       address: "2838 East Burnside Street\nPortland, Oregon 97214-1830",
@@ -102,4 +102,4 @@ Event types for regions include
 * The *contact* object throughout may contain elements including *address1* and *address2* (mailing address), *website* (URL), *email*, *phone* (with country code), *fax* (with country code)
 * The *social* object throughout may contain elements including *facebook* (URL), *twitter* (handle), *instagram* (URL), and *youtube* (URL).
 
-[Back to homepage.](/catholicdata/)
+[Back to homepage.](/)

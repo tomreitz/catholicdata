@@ -5023,6 +5023,7 @@
         "longitude": -48.8742526
       },
       "contact": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Abaetetuba",
       "social": {},
       "events": []
     },
@@ -5407,8 +5408,16 @@
         "latitude": -7.7422891,
         "longitude": -37.6316504
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Roberto Nogueira, 366\nCentro Afogados da Ingazieira Pernambuco 56800-000",
+        "website": "http://www.dioceseafogadosdaingazeira.com.br/",
+        "phone": "+55 (87) 3838-1582",
+        "fax": "+55 (87) 3838-1582"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Afogados_da_Ingazeira",
+      "social": {
+        "youtube": "https://www.youtube.com/channel/UCzceaDUEKqeyYHr1YkSC14Q"
+      },
       "events": []
     },
     {
@@ -5711,8 +5720,17 @@
         "latitude": -11.68177,
         "longitude": -41.324699
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Manoel Vitorino, 368, Teres\u00f3polis\nAlagoinhas \u2013 BA\n48080-140",
+        "website": "http://www.diocesedealagoinhas.com.br/",
+        "email": "contato@diocesedealagoinhas.com.br",
+        "phone": "+55 (75) 3421-1842"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Alagoinhas",
+      "social": {
+        "facebook": "https://www.facebook.com/diocese.alagoinhas/",
+        "instagram": "https://www.instagram.com/diocese.alagoinhas/"
+      },
       "events": []
     },
     {
@@ -6125,7 +6143,10 @@
         "longitude": -40.6879731
       },
       "contact": {},
-      "social": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Almenara",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesealmenara"
+      },
       "events": []
     },
     {
@@ -6192,8 +6213,14 @@
         "latitude": -25.4192413,
         "longitude": -49.2811736
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://www.xaverianos.org.br/diocese-de-alto-solimoes",
+        "phone": "+55 97 3412-2514"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Alto_Solim%C3%B5es",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedoalto.solimoes/"
+      },
       "events": []
     },
     {
@@ -6240,8 +6267,15 @@
         "latitude": -13.0273705,
         "longitude": -39.6062725
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "http://www.diocesedeamargosa.com.br/",
+        "email": "dioceseamargosa@gmail.com",
+        "phone": "+55 (75) 3634-1059"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Amargosa",
+      "social": {
+        "facebook": "https://www.facebook.com/Diocese-de-Amargosa-774246336017818/"
+      },
       "events": []
     },
     {
@@ -6393,8 +6427,19 @@
         "latitude": -7.5683685,
         "longitude": -37.0524458
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Bar\u00e3o de Campinas, 307\nCentro, Amparo 13900-110",
+        "website": "http://www.diocesedeamparo.org.br/",
+        "email": "diamparo@uol.com.br",
+        "phone": "+55 (19) 3807-3192",
+        "fax": "+55 (19) 3817-3434"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Amparo",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedeamparo",
+        "instagram": "https://www.instagram.com/diocesedeamparo/",
+        "youtube": "https://www.youtube.com/user/diocesedeamparo"
+      },
       "events": []
     },
     {
@@ -6441,8 +6486,16 @@
         "latitude": -16.3287035,
         "longitude": -48.9533977
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "http://www.diocesedeanapolis.org.br/",
+        "email": "pascom@diocesedeanapolis.org.br",
+        "phone": "+55 (62) 3329-3400"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_An%C3%A1polis",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseanapolis/",
+        "youtube": "https://www.youtube.com/channel/UCouk2mUErCiW3YdZKhLrh5g"
+      },
       "events": []
     },
     {
@@ -6822,8 +6875,17 @@
         "latitude": -22.8479547,
         "longitude": -45.2274107
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Bar\u00e3o do Rio Branco, N\u00ba 412,\nCentro, Aparecida-SP, CEP 12570-000",
+        "website": "https://arqaparecida.org.br/",
+        "email": "imprensa@arqaparecida.org.br",
+        "phone": "+55 (12) 3104-2707"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Aparecida",
+      "social": {
+        "facebook": "https://www.facebook.com/ArqAparecidaOficial/",
+        "twitter": "https://twitter.com/arqaparecida"
+      },
       "events": []
     },
     {
@@ -6871,8 +6933,18 @@
         "latitude": -23.5515189,
         "longitude": -51.4613781
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Jos\u00e9 Miskovski, n.240 - Jardim Malibu\nApucarana - PR\n86812-285",
+        "website": "http://diocesedeapucarana.com.br/",
+        "phone": "+55 (43) 3423 1428"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Apucarana",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseonline",
+        "twitter": "https://twitter.com/dioceseonline",
+        "instagram": "https://www.instagram.com/apucaranadiocesede/",
+        "youtube": "https://www.youtube.com/diocesedeapucarana"
+      },
       "events": []
     },
     {
@@ -6887,8 +6959,17 @@
         "latitude": -10.9095421,
         "longitude": -37.0747732
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Pra\u00e7a Ol\u00edmpio Campos, 228\nCentro, Aracaju/SE 49010-040",
+        "website": "https://www.arquidiocesedearacaju.org/",
+        "email": "comunicacao@arquidiocesedearacaju.org",
+        "phone": "+55 (79) 3216-3000"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Aracaju",
+      "social": {
+        "facebook": "https://www.facebook.com/arquidioceseaju/",
+        "instagram": "https://www.instagram.com/arquidioceseaju/"
+      },
       "events": []
     },
     {
@@ -6903,8 +6984,19 @@
         "latitude": -21.2115445,
         "longitude": -50.4261364
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Brigadeiro Luis Ant\u00f4nio, 342\nBairro das Bandeiras, Ara\u00e7atuba \u2013 SP, 16025-160",
+        "website": "https://diocesedearacatuba.com.br/",
+        "email": "contato@diocesedearacatuba.org.br",
+        "phone": "+55 (18) 3624-3561"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Ara%C3%A7atuba",
+      "social": {
+        "facebook": "https://www.facebook.com/dioceseata.oficial/",
+        "twitter": "https://twitter.com/diocese_ata",
+        "instagram": "https://www.instagram.com/dioceseata/",
+        "youtube": "https://www.youtube.com/channel/UC9tMXc5AgCtwajKI6QXcH2Q"
+      },
       "events": []
     },
     {
@@ -6919,8 +7011,13 @@
         "latitude": -16.8485858,
         "longitude": -42.0658567
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "http://diocesedearacuai.com.br/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Ara%C3%A7ua%C3%AD",
+      "social": {
+        "facebook": "https://www.facebook.com/pascomdiocesearacuai/"
+      },
       "events": []
     },
     {
@@ -7247,8 +7344,16 @@
         "latitude": -22.6609693,
         "longitude": -50.399546
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Dom Jos\u00e9 L\u00e1zaro Neves, 414\nAssis/SP, 19814-391",
+        "website": "https://www.diocesedeassis.org/",
+        "email": "diocesedeassis@gmail.com",
+        "phone": "+55 (18) 3322-2614"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Assis",
+      "social": {
+        "facebook": "https://www.facebook.com/diocese.deassis/"
+      },
       "events": []
     },
     {
@@ -7748,6 +7853,7 @@
         "longitude": -47.02887
       },
       "contact": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Bacabal",
       "social": {},
       "events": []
     },
@@ -7875,8 +7981,16 @@
         "latitude": -31.328502,
         "longitude": -54.1072699
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Av. Marc\u00edlio Dias, 1586 - S\u00e3o Jorge\nBag\u00e9 - RS, 96400-021",
+        "website": "http://www.diocesedebage.com.br/",
+        "email": "curiadebage@bol.com.br",
+        "phone": "+55 (53) 3242-4772"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Bag%C3%A9",
+      "social": {
+        "youtube": "https://www.youtube.com/channel/UCOomZ6kFLVMdEs2LI1qsrhA"
+      },
       "events": []
     },
     {
@@ -8019,7 +8133,12 @@
         "latitude": -7.5329164,
         "longitude": -46.0350266
       },
-      "contact": {},
+      "contact": {
+        "website": "https://diocesedebalsas.wixsite.com/igrejaemacao/",
+        "email": "diocese@suprisul1.com.br",
+        "phone": "+55 (99) 3541-2483"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Balsas",
       "social": {},
       "events": []
     },
@@ -8502,6 +8621,7 @@
         "longitude": -43.1417767
       },
       "contact": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Barra",
       "social": {},
       "events": []
     },
@@ -8517,7 +8637,10 @@
         "latitude": -15.8930017,
         "longitude": -52.2599185
       },
-      "contact": {},
+      "contact": {
+        "website": "http://diocesebarradogarcas.org/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Barra_do_Gar%C3%A7as",
       "social": {},
       "events": []
     },
@@ -8533,8 +8656,16 @@
         "latitude": -22.656722,
         "longitude": -44.0873177
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "http://diocesevr.com.br/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Barra_do_Pira%C3%AD-Volta_Redonda",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesebpvr",
+        "twitter": "https://twitter.com/_diocesebpvr",
+        "instagram": "https://www.instagram.com/diocesebpvr/",
+        "youtube": "https://www.youtube.com/channel/UCMgeTu7jhc6QqAEqNudBdtQ"
+      },
       "events": []
     },
     {
@@ -8588,7 +8719,10 @@
         "latitude": -16.066667,
         "longitude": -39.333333
       },
-      "contact": {},
+      "contact": {
+        "website": "http://www.diocesebarreiras.org.br/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Barreiras",
       "social": {},
       "events": []
     },
@@ -8604,8 +8738,19 @@
         "latitude": -20.5592171,
         "longitude": -48.5688621
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua 20 n\u00ba 01600 - Jockey Club - CEP. 14.787-279\nBarretos/SP",
+        "website": "http://www.diocesedebarretos.com.br/",
+        "email": "comunicacao@diocesedebarretos.com.br",
+        "phone": "+55 (17) 3322-3565"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Barretos",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesebarretos",
+        "twitter": "https://twitter.com/diocesebarretos",
+        "instagram": "https://www.instagram.com/diocesedebarretos/",
+        "youtube": "https://www.youtube.com/user/DioceseBarretos"
+      },
       "events": []
     },
     {
@@ -8814,8 +8959,18 @@
         "latitude": -22.3154431,
         "longitude": -49.0614649
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Fernando Costa, 3-30\nVila Nova Santa Clara \u2013 Bauru\nCEP 17014-130",
+        "website": "http://www.bispadobauru.org.br/",
+        "email": "curia@bispadobauru.org.br",
+        "phone": "+55 (14) 3879-8706"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Bauru",
+      "social": {
+        "facebook": "https://www.facebook.com/Bispado-de-Bauru-1768155423411471/",
+        "twitter": "https://twitter.com/DioceseBauru",
+        "youtube": "https://www.youtube.com/user/TVDiocesana"
+      },
       "events": []
     },
     {
@@ -9071,7 +9226,9 @@
         "longitude": -43.9542226
       },
       "contact": {},
-      "social": {},
+      "social": {
+        "twitter": "https://twitter.com/Arquidiocese"
+      },
       "events": []
     },
     {
@@ -9574,8 +9731,12 @@
         "latitude": -26.9187423,
         "longitude": -49.0660362
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://www.diocesedeblumenau.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/dioceseblumenau"
+      },
       "events": []
     },
     {
@@ -10022,8 +10183,12 @@
         "latitude": -15.7801482,
         "longitude": -47.9291698
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://arqbrasilia.com.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/ArqBrasilia"
+      },
       "events": []
     },
     {
@@ -11322,7 +11487,9 @@
         "longitude": -54.6477591
       },
       "contact": {},
-      "social": {},
+      "social": {
+        "twitter": "https://twitter.com/ArquiCGR"
+      },
       "events": []
     },
     {
@@ -11829,8 +11996,16 @@
         "latitude": -8.2813941,
         "longitude": -35.9734579
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Silveira Martins, 367 \u2013 Petr\u00f3polis\nCaruaru \u2013 PE",
+        "website": "https://diocesedecaruaru.org/",
+        "email": "chancelaria@diocesedecaruaru.org",
+        "phone": "+55 (81) 3046 5061"
+      },
+      "social": {
+        "twitter": "https://twitter.com/DioceseCaruaru",
+        "youtube": "https://www.youtube.com/channel/UCj4Z-zRyppoe9sIxfI7ZLkQ"
+      },
       "events": []
     },
     {
@@ -13573,8 +13748,12 @@
         "latitude": -19.5381608,
         "longitude": -40.6324359
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://diocesedecolatina.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/DioceseColatina"
+      },
       "events": []
     },
     {
@@ -14482,8 +14661,12 @@
         "latitude": -15.5989173,
         "longitude": -56.094894
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "http://www.arquidiocesecuiaba.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/arquidiocesecba"
+      },
       "events": []
     },
     {
@@ -16842,8 +17025,12 @@
         "latitude": -27.5969039,
         "longitude": -48.5494544
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://arquifln.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/Arquifloripa"
+      },
       "events": []
     },
     {
@@ -18121,8 +18308,12 @@
         "latitude": -3.583333,
         "longitude": -45.266667
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://diocesegrajau.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/diocesedegrajau"
+      },
       "events": []
     },
     {
@@ -21506,8 +21697,12 @@
         "latitude": -21.7642103,
         "longitude": -43.3495705
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://arquidiocesejuizdefora.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/arquidiocesejf"
+      },
       "events": []
     },
     {
@@ -21554,8 +21749,12 @@
         "latitude": -23.1864533,
         "longitude": -46.8844527
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://dj.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/diocesejundiai"
+      },
       "events": []
     },
     {
@@ -24799,7 +24998,9 @@
         "longitude": -47.4004093
       },
       "contact": {},
-      "social": {},
+      "social": {
+        "twitter": "https://twitter.com/dioceselimeira"
+      },
       "events": []
     },
     {
@@ -25440,8 +25641,12 @@
         "latitude": -23.29273,
         "longitude": -51.1732073
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "http://arquidioceselondrina.com.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/arquilondrina"
+      },
       "events": []
     },
     {
@@ -25928,8 +26133,12 @@
         "latitude": -19.7834313,
         "longitude": -45.681423
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://diocesedeluz.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/diocesedeluz"
+      },
       "events": []
     },
     {
@@ -26060,8 +26269,12 @@
         "latitude": -9.6662515,
         "longitude": -35.7350983
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://www.centenarioarqmaceio.com.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/arqdemaceio"
+      },
       "events": []
     },
     {
@@ -29850,8 +30063,12 @@
         "latitude": -5.7944785,
         "longitude": -35.2109531
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "http://arquidiocesedenatal.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/arqnatal"
+      },
       "events": []
     },
     {
@@ -30749,8 +30966,12 @@
         "latitude": -29.6846047,
         "longitude": -51.1418563
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "http://www.mitranh.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/MitraNH"
+      },
       "events": []
     },
     {
@@ -33154,8 +33375,12 @@
         "latitude": -22.5046388,
         "longitude": -43.1823294
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "http://diocesepetropolis.com.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/diocesepetrop"
+      },
       "events": []
     },
     {
@@ -33908,8 +34133,12 @@
         "latitude": -30.0277041,
         "longitude": -51.2287346
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://www.arquidiocesepoa.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/Arquidiocesepoa"
+      },
       "events": []
     },
     {
@@ -38469,8 +38698,17 @@
         "latitude": -20.820181,
         "longitude": -49.3796813
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Av. Constitui\u00e7\u00e3o, 1372\nBoa Vista 15025-120\nS\u00e3o Jos\u00e9 do Rio Preto / S\u00e3o Paulo / Brasil",
+        "website": "http://bispado.org.br/",
+        "email": "diocesesjrp@gmail.com",
+        "phone": "+55 (17) 2136-8699",
+        "fax": "+55 (17) 2136-8694"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_S%C3%A3o_Jos%C3%A9_do_Rio_Preto",
+      "social": {
+        "twitter": "https://twitter.com/bispadorp"
+      },
       "events": []
     },
     {
@@ -38605,8 +38843,12 @@
         "latitude": -23.5489433,
         "longitude": -46.6388182
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "http://arquisp.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/arquidioceseSP"
+      },
       "events": []
     },
     {
@@ -38637,8 +38879,12 @@
         "latitude": -13.005557,
         "longitude": -38.4698818
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://arquidiocesesalvador.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/ArquiSalvador"
+      },
       "events": []
     },
     {
@@ -38653,8 +38899,17 @@
         "latitude": -22.416667,
         "longitude": -44.383333
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Benjamin Constant 23, 7\u00ba andar Gl\u00f3ria\nRio de Janeiro - RJ - Brasil",
+        "website": "http://arqrio.org/",
+        "email": "jornalismo@arquidiocese.org.br",
+        "phone": "+55 (21) 2292-3132"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/arqrio",
+        "twitter": "https://twitter.com/arqrio",
+        "youtube": "https://www.youtube.com/user/arqrio"
+      },
       "events": []
     },
     {
@@ -43322,8 +43577,13 @@
         "latitude": -23.7641036,
         "longitude": -53.3183606
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://site.diocesedeumuarama.org.br/"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedeumuarama",
+        "twitter": "https://twitter.com/dioceseumuarama"
+      },
       "events": []
     },
     {
@@ -44531,8 +44791,12 @@
         "latitude": -20.3221861,
         "longitude": -40.3380886
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://aves.org.br/"
+      },
+      "social": {
+        "twitter": "https://twitter.com/arquivitoria"
+      },
       "events": []
     },
     {
@@ -47155,6 +47419,33 @@
       },
       "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Hearst%E2%80%93Moosonee",
       "social": {},
+      "events": []
+    },
+    {
+      "id": "region/ecclesiastical/roman/brazil/montenegro",
+      "name": "Diocese of Montenegro",
+      "type": "Ecclesiastical",
+      "subtype": "Diocese",
+      "location": {
+        "country": "Brazil",
+        "city": "Montenegro",
+        "timezone": -3,
+        "latitude": -29.690759,
+        "longitude": -51.461466
+      },
+      "contact": {
+        "address": "Rua Assis Brasil, 1167\nCentro, Montenegro/RS, 95780-000",
+        "website": "http://www.diocesemontenegro.org.br/",
+        "email": "diocesemontenegro@diocesemontenegro.org.brSIGA",
+        "phone": "+55 (51) 3632.3320"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Montenegro",
+      "social": {
+        "facebook": "https://www.facebook.com/dioc.montenegro/",
+        "twitter": "https://twitter.com/diocesemgo",
+        "instagram": "https://www.instagram.com/diocesedemontenegro/",
+        "youtube": "https://www.youtube.com/channel/UCY3_vAhZNxmkDin2pO6fRgw"
+      },
       "events": []
     }
   ]
