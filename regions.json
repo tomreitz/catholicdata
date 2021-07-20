@@ -9113,7 +9113,13 @@
         "latitude": -1.4550205,
         "longitude": -48.5023682
       },
-      "contact": {},
+      "contact": {
+        "address": "Avenida Governador Jos\u00e9 Malcher, 915, Ed\u00edficio Paulo VI, Bairro Nazar\u00e9, 66055-260 Bel\u00e9m \u2013 PA",
+        "website": "https://arquidiocesedebelem.com.br/",
+        "email": "curia@arqbelem.org",
+        "phone": "+55 (91) 3215\u20137001"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Bel%C3%A9m_do_Par%C3%A1",
       "social": {},
       "events": []
     },
@@ -9225,9 +9231,18 @@
         "latitude": -19.8157306,
         "longitude": -43.9542226
       },
-      "contact": {},
+      "contact": {
+        "address": "Av. Brasil, 2079, Bairro Savassi - Belo Horizonte - MG\nCEP: 30140-008",
+        "website": "http://arquidiocesebh.org.br/",
+        "email": "contato@arquidiocesebh.org.br",
+        "phone": "+55 31 3269-3100"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Belo_Horizonte",
       "social": {
-        "twitter": "https://twitter.com/Arquidiocese"
+        "facebook": "https://www.facebook.com/Arquidiocese.de.BH/",
+        "twitter": "https://twitter.com/Arquidiocese",
+        "instagram": "https://www.instagram.com/arquidiocesedebh/",
+        "youtube": "https://www.youtube.com/user/arquidiocesedebh"
       },
       "events": []
     },
@@ -9732,10 +9747,16 @@
         "longitude": -49.0660362
       },
       "contact": {
-        "website": "https://www.diocesedeblumenau.org.br/"
+        "address": "Rua Henrique Reif, 255 \u2013 Ponta Aguda\nCEP 89 051-300 \u2013 Blumenau \u2013 SC",
+        "website": "https://www.diocesedeblumenau.org.br/",
+        "email": "comunicacoes@diocesedeblumenau.org.br",
+        "phone": "+55 (47) 3322-4435"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Blumenau",
       "social": {
-        "twitter": "https://twitter.com/dioceseblumenau"
+        "facebook": "https://www.facebook.com/diocesedeblumenau",
+        "twitter": "https://twitter.com/dioceseblumenau",
+        "youtube": "https://www.youtube.com/channel/UCbS5d2USK7Ov-moE_cv_kzQ"
       },
       "events": []
     },
@@ -9895,8 +9916,16 @@
         "latitude": -13.247651,
         "longitude": -43.4147569
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Av. S\u00e3o Vicente de Paulo, s/n 47600-000\nBom Jesus da Lapa - BA",
+        "website": "http://diocesedebomjesusdalapa.com.br/",
+        "phone": "+55 (77) 3481-2086"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Bom_Jesus_da_Lapa",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesebomjesusdalapa/",
+        "youtube": "https://www.youtube.com/channel/UCQSQDeCeNmWnAEzGmZrAxhg"
+      },
       "events": []
     },
     {
@@ -9911,8 +9940,15 @@
         "latitude": -9.0,
         "longitude": -43.0
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Avenida Get\u00falio Vargas, 600\nCEP 64.900-000 - Bom Jesus/PI",
+        "website": "https://diocesedebomjesus.org.br/",
+        "phone": "+55 (89) 3562-2496"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Bom_Jesus_do_Gurgu%C3%A9ia",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedebomjesusdogurgueia/"
+      },
       "events": []
     },
     {
@@ -9959,7 +9995,14 @@
         "latitude": -20.3275311,
         "longitude": -44.2441251
       },
-      "contact": {},
+      "contact": {
+        "address": "Rua: C\u00f4nego Hugo, 96\nCx. Postal 12\n48970-000 Senhor do Bonfim \u2013 Bahia",
+        "website": "http://diocesedebonfim.org/",
+        "email": "curia@diocesedebonfim.org",
+        "phone": "+55 (74) 3541-1652",
+        "fax": "+55 (74) 3541-4681"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Bonfim",
       "social": {},
       "events": []
     },
@@ -10039,8 +10082,16 @@
         "latitude": -22.8903957,
         "longitude": -48.4553087
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Dr. Costa Leite, 668 - Centro - Botucatu, SP",
+        "website": "http://arquidiocesebotucatu.org.br/",
+        "phone": "+55 (14) 3811-5900"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Botucatu",
+      "social": {
+        "facebook": "https://www.facebook.com/arquidiocesedebotucatu",
+        "youtube": "https://www.youtube.com/channel/UC2iU_gXHRsJoXRWROJFvbTg"
+      },
       "events": []
     },
     {
@@ -10135,8 +10186,17 @@
         "latitude": -1.0659524,
         "longitude": -46.7895102
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Pra\u00e7a da Catedral, n\u00b0 368\nCentro, Bragan\u00e7a-Par\u00e1",
+        "website": "https://novo.diocesedebragancapa.org.br/",
+        "email": "secretario@diocesedebragancapa.org.br",
+        "phone": "+55 91 3425-1108"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Bragan%C3%A7a_do_Par%C3%A1",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedebraganca",
+        "youtube": "https://www.youtube.com/channel/UCmHe4sKZdsEuAO-R4bpmvTw"
+      },
       "events": []
     },
     {
@@ -10167,8 +10227,17 @@
         "latitude": -22.9522914,
         "longitude": -46.5424555
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Coronel Assis Gon\u00e7alves, 521\n12900-480\nBragan\u00e7a Paulista - SP",
+        "website": "http://www.diocesedebraganca.com.br/",
+        "email": "curiabraganca@hotmail.com",
+        "phone": "+55 (11) 4033-0858"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Bragan%C3%A7a_Paulista",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesebragancapaulista/",
+        "youtube": "https://www.youtube.com/channel/UCVc72OHhlOplDsPIYfIapuw"
+      },
       "events": []
     },
     {
@@ -10184,10 +10253,17 @@
         "longitude": -47.9291698
       },
       "contact": {
-        "website": "https://arqbrasilia.com.br/"
+        "address": "Esplanada dos Minist\u00e9rios, lote 12, Edif\u00edcio Jo\u00e3o Paulo II\nBras\u00edlia \u2013 DF, 70053-901.",
+        "website": "https://arqbrasilia.com.br/",
+        "email": "imprensa@arquidiocesedebrasilia.org.br",
+        "phone": "+55 (61) 3213-3333"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Bras%C3%ADlia",
       "social": {
-        "twitter": "https://twitter.com/ArqBrasilia"
+        "facebook": "https://www.facebook.com/ArqBrasilia/",
+        "twitter": "https://twitter.com/ArqBrasilia",
+        "instagram": "https://www.instagram.com/arqbrasilia/",
+        "youtube": "https://www.youtube.com/channel/UCQOtRRCxtRM3cfFzYaIeqBw"
       },
       "events": []
     },
@@ -10267,8 +10343,19 @@
         "latitude": -3.6852423,
         "longitude": -42.7509915
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Pra\u00e7a Benedito Leite, 166\nCentro - Brejo/MA ",
+        "website": "https://diocesedebrejo.com.br/",
+        "email": "diocesedebrejo@hotmail.com",
+        "phone": "+55 (98) 3472-1151"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Brejo",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedebrejo.com.br/",
+        "twitter": "https://twitter.com/diocesedebrejo",
+        "instagram": "https://www.instagram.com/diocesedebrejo/",
+        "youtube": "https://www.youtube.com/channel/UCRiZYNnSrJXtHSqTKpHr35g"
+      },
       "events": []
     },
     {
@@ -10294,19 +10381,25 @@
       "events": []
     },
     {
-      "id": "region/ecclesiastical/roman/brazil/brescia",
+      "id": "region/ecclesiastical/roman/italy/brescia",
       "name": "Diocese of Brescia",
       "type": "Ecclesiastical",
       "subtype": "Diocese",
       "location": {
-        "country": "Brazil",
+        "country": "Italy",
         "city": "Brescia",
         "timezone": -3,
         "latitude": -29.0853052,
         "longitude": -51.1940977
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Curia Diocesana di Brescia\nVia Trieste, 13 - 25121 Brescia",
+        "website": "https://www.diocesi.brescia.it/"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Brescia",
+      "social": {
+        "twitter": "https://twitter.com/diocesibs"
+      },
       "events": []
     },
     {
@@ -10923,8 +11016,16 @@
         "latitude": -26.7756812,
         "longitude": -51.0155139
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Avenida Santa Catarina, 228 \u2013 Centro\nCaixa Postal \u2013 227\nCEP: 89500-121  |  Ca\u00e7ador/SC",
+        "website": "https://www.diocesedecacador.org.br/",
+        "email": "mitradiocesana@diocesedecacador.org.br",
+        "phone": "+55 (49) 3563-2045"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Ca%C3%A7ador",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedecacador/"
+      },
       "events": []
     },
     {
@@ -10955,8 +11056,17 @@
         "latitude": -30.0125115,
         "longitude": -52.919818
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Moron, 1007 \u2013 96508-031\nCachoeira do Sul- RS",
+        "website": "https://www.diocesenet.com.br/",
+        "email": "bispado@diocesenet.com.br",
+        "phone": "+55 51 3722 1875"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Cachoeira_do_Sul",
+      "social": {
+        "facebook": "https://www.facebook.com/Diocese-de-cachoeira-do-Sul-155415187959223/",
+        "twitter": "https://twitter.com/mitracachoeira"
+      },
       "events": []
     },
     {
@@ -10971,8 +11081,17 @@
         "latitude": -20.8493678,
         "longitude": -41.113221
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Costa Pereira, 41 - Centro\nCEP: 29.300-090 - Cachoeiro de Itapemirim - ES",
+        "website": "http://www.diocesecachoeiro.org.br/",
+        "email": "diocese@diocesecachoeiro.org.br",
+        "phone": "+55 28 2101-7603"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Cachoeiro_de_Itapemirim",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesecachoeiro",
+        "instagram": "https://www.instagram.com/diocesecachoeiro/"
+      },
       "events": []
     },
     {
@@ -11009,8 +11128,17 @@
         "latitude": -14.0546848,
         "longitude": -42.4744374
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Bar\u00e3o de Caetit\u00e9, 22 \u2013 Centro\nCaixa Postal 06\n46400-970 Caetit\u00e9 \u2013 BA",
+        "website": "http://diocesedecaetite.org.br/",
+        "email": "curiacaetite@gmail.com",
+        "phone": "+55 (77) 3454-4405"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Caetit%C3%A9",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedesenhorasantana/",
+        "instagram": "https://www.instagram.com/diocese.caetite/"
+      },
       "events": []
     },
     {
@@ -11074,8 +11202,17 @@
         "latitude": -6.4598109,
         "longitude": -37.0990063
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Dom Manoel Tavares, 19\nBairro Para\u00edba \u2013 CEP: 59300-000\nCaic\u00f3/RN",
+        "website": "https://diocesedecaico.com.br/",
+        "phone": "+55 (84) 3421-2125"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Caic%C3%B3",
+      "social": {
+        "facebook": "https://www.facebook.com/diocese.caico.5",
+        "instagram": "https://www.instagram.com/diocaico/",
+        "youtube": "https://www.youtube.com/channel/UCB0OxusWQlGQWd9Cf4Ma30Q"
+      },
       "events": []
     },
     {
@@ -11131,8 +11268,18 @@
         "latitude": -6.8863398,
         "longitude": -38.5614178
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Avenida Padre Rolim, N\u00ba 571\n58900-000, Cajazeiras - PB",
+        "website": "https://www.diocajazeiras.com.br/",
+        "email": "diocajaz@uol.com.br",
+        "phone": "+55 (83) 3531-1335",
+        "fax": "+55 (83) 3531-1335"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Cajazeiras",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesecajazeiras/",
+        "instagram": "https://www.instagram.com/diocesedecajazeiras/"
+      },
       "events": []
     },
     {
@@ -11399,8 +11546,17 @@
         "latitude": -21.8317003,
         "longitude": -45.4077169
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Maestro Pompeu, 150 \u2013 Centro\nCEP: 37.400-000 \u2013 Campanha (MG)",
+        "website": "http://www.diocesedacampanha.org.br/",
+        "phone": "+55 (35) 3261-1217"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Campanha",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedacampanhaoficial/",
+        "instagram": "https://www.instagram.com/pascomdiocesedacampanha/",
+        "youtube": "https://www.youtube.com/channel/UCa_J4DIdFC7i94YLNv5C8wQ"
+      },
       "events": []
     },
     {
@@ -11432,8 +11588,20 @@
         "latitude": -7.2307181,
         "longitude": -35.8816664
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Afonso Campos, 251 \u2013 Centro \u2013 Campina Grande \u2013 PB\nCEP: 58400-235",
+        "website": "https://diocesecg.org/",
+        "email": "diocese@gmail.com",
+        "phone": "+55 (83) 3321-4199",
+        "fax": "+55 (83) 3321-0492"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Campina_Grande",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesecg/",
+        "twitter": "https://twitter.com/diocesecg",
+        "instagram": "https://www.instagram.com/diocesecg/",
+        "youtube": "https://www.youtube.com/channel/UCNxEKmulgk45IEQ-WE1LVRg"
+      },
       "events": []
     },
     {
@@ -11449,8 +11617,11 @@
         "longitude": -47.0615741
       },
       "contact": {
-        "website": "http://www.arquidiocesecampinas.com/"
+        "address": "Av. Aquidaban, 744 \u2013 Bosque\n13012-510 \u2013 Campinas \u2013 SP",
+        "website": "http://www.arquidiocesecampinas.com/",
+        "phone": "+55 (19) 3794.4650"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Campinas",
       "social": {
         "facebook": "https://www.facebook.com/arquidiocesedecampinas",
         "twitter": "https://twitter.com/ArqCampinas",
@@ -11486,9 +11657,15 @@
         "latitude": -20.4435053,
         "longitude": -54.6477591
       },
-      "contact": {},
+      "contact": {
+        "address": "Rua Amando de Oliveira, 448\nBairro Amamba\u00ed, Campo Grande-MS\nCEP 79-008-010",
+        "website": "https://arquidiocesedecampogrande.org.br/",
+        "phone": "+55 67 3320-2800"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Campo_Grande",
       "social": {
-        "twitter": "https://twitter.com/ArquiCGR"
+        "twitter": "https://twitter.com/ArquiCGR",
+        "youtube": "https://www.youtube.com/channel/UCqXNJ6B_IzP9E_fAA_sqd9g"
       },
       "events": []
     },
@@ -11504,8 +11681,17 @@
         "latitude": -20.733333,
         "longitude": -47.2
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "R. Lira Paulista, 30 - Jardim Bom Ref\u00fagio\nS\u00e3o Paulo\n05788-320",
+        "website": "http://www.dcl.org.br/",
+        "phone": "+55 (11) 3584-9000"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Campo_Limpo",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedecampolimpo/",
+        "instagram": "https://www.instagram.com/diocesedecampolimpo/",
+        "youtube": "https://www.youtube.com/channel/UCtyxNvMS3K44tUU2672Jomg"
+      },
       "events": []
     },
     {
@@ -11520,8 +11706,19 @@
         "latitude": -4.828275,
         "longitude": -42.1694779
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Pra\u00e7a Bona primo, n\u00ba 428, Centro\nCEP 64280-000\nCampo Maior \u2013 Piau\u00ed",
+        "website": "http://diocesedecampomaior.org.br/",
+        "email": "pascomdcm@gmail.com",
+        "phone": "+55 86 3252-1132"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Campo_Maior",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedecampomaior/",
+        "twitter": "https://twitter.com/diocesecm",
+        "instagram": "https://www.instagram.com/diocesedecampomaior/",
+        "youtube": "https://www.youtube.com/channel/UCXKOCAX3QbTmykZB6PwA8DA"
+      },
       "events": []
     },
     {
@@ -11536,8 +11733,16 @@
         "latitude": -24.0460254,
         "longitude": -52.3838048
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Harrison Jos\u00e9 Borges, 811 - Centro\n87300-380 Campo Mour\u00e3o \u2013 Pr",
+        "website": "http://www.diocesecampomourao.org.br/",
+        "phone": "+55 (44) 3525-1824"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Campo_Mour%C3%A3o",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesecampomourao",
+        "youtube": "https://www.youtube.com/channel/UCpnr3a45tBZngaZQsr8IoxA"
+      },
       "events": []
     },
     {
@@ -11552,8 +11757,16 @@
         "latitude": -21.752649,
         "longitude": -41.33379
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Gilberto Siqueira, 14 - Centro\nCampos dos Goytacazes-RJ CEP: 28010-400",
+        "website": "http://diocesedecampos.org.br/",
+        "email": "contato@diocesedecampos.org.br",
+        "phone": "+55 (22) 2722-8051"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Campos",
+      "social": {
+        "youtube": "https://www.youtube.com/channel/UCcYWqfl9wUAqnV-JAXafIrA"
+      },
       "events": []
     },
     {
@@ -11771,8 +11984,19 @@
         "latitude": -23.622528,
         "longitude": -45.4119006
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Santos Dumont, 100 \u2013 Centro\nCaraguatatuba \u2013 SP\nCEP 11.660-000",
+        "website": "http://diocesecaraguatatuba.com.br/",
+        "email": "imprensa@diocesecaraguatatuba.com.br",
+        "phone": "+55 (12) 3883 6668 ",
+        "fax": "+55 (12) 3883 4888"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Caraguatatuba",
+      "social": {
+        "facebook": "https://www.facebook.com/diocese.caraguatatuba/",
+        "twitter": "https://twitter.com/Diocese_Caragua",
+        "youtube": "https://www.youtube.com/user/DioceseCaraguatatuba"
+      },
       "events": []
     },
     {
@@ -11803,7 +12027,13 @@
         "latitude": -19.7904276,
         "longitude": -42.1392861
       },
-      "contact": {},
+      "contact": {
+        "address": "Pra\u00e7a Ces\u00e1rio Alvim, 156\nCaratinga - MG\nCEP 35300-000",
+        "website": "https://www.diocesecaratinga.org.br/",
+        "email": "curiadiocesanadecaratinga@gmail.com",
+        "phone": "+55 (33) 3321-4600"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Caratinga",
       "social": {},
       "events": []
     },
@@ -11861,7 +12091,13 @@
         "latitude": -7.337792,
         "longitude": -47.4679149
       },
-      "contact": {},
+      "contact": {
+        "address": "Avenida Get\u00falio Vargas, n. 23, Centro\nCEP 65980-000",
+        "website": "https://www.diocesedecarolina.com.br/",
+        "email": "diocesecarolina@gmail.com",
+        "phone": "+55 99 3531-8331"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Carolina",
       "social": {},
       "events": []
     },
@@ -12002,6 +12238,7 @@
         "email": "chancelaria@diocesedecaruaru.org",
         "phone": "+55 (81) 3046 5061"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Caruaru",
       "social": {
         "twitter": "https://twitter.com/DioceseCaruaru",
         "youtube": "https://www.youtube.com/channel/UCj4Z-zRyppoe9sIxfI7ZLkQ"
@@ -12052,8 +12289,18 @@
         "latitude": -24.9554503,
         "longitude": -53.4552361
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Maranh\u00e3o, 1595 - Neva\nCascavel - Paran\u00e1\nCEP: 85801-051",
+        "website": "https://arquicascavel.org.br/",
+        "email": "curia@arquicascavel.org.br",
+        "phone": "+55 (45) 3225-2324"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Cascavel",
+      "social": {
+        "facebook": "https://www.facebook.com/arquidiocesecascavel/",
+        "instagram": "https://www.instagram.com/arquidiocesecascavel/",
+        "youtube": "https://www.youtube.com/channel/UCU_KNYA7vq9yzUVkkOl4vgw"
+      },
       "events": []
     },
     {
@@ -12122,7 +12369,13 @@
         "latitude": -1.2973326,
         "longitude": -47.9221325
       },
-      "contact": {},
+      "contact": {
+        "address": "Av. Bar\u00e3o do Rio Branco, S/N\nCastanhal, PA",
+        "website": "https://www.diocesedecastanhal.com/",
+        "email": "diocesedecastanhal@gmail.com",
+        "phone": "+55 (91) 98959-8385"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Castanhal",
       "social": {},
       "events": []
     },
@@ -12186,8 +12439,17 @@
         "latitude": -21.1382582,
         "longitude": -48.9737616
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Av. Palmares, 930 \u2013 Catanduva / SP\nCep: 15804-115",
+        "website": "https://www.diocesedecatanduva.org.br/",
+        "email": "curia@diocesedecatanduva.org.br",
+        "phone": "+55 (17) 3521-6501"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Catanduva",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesecatanduva/",
+        "youtube": "https://www.youtube.com/user/diocesecat"
+      },
       "events": []
     },
     {
@@ -12251,7 +12513,10 @@
         "longitude": -43.3469352
       },
       "contact": {},
-      "social": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Caxias_do_Maranh%C3%A3o",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedecaxiasdomaranhao/"
+      },
       "events": []
     },
     {
@@ -12266,8 +12531,16 @@
         "latitude": -29.1678244,
         "longitude": -51.179383
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Os Dezoito do Forte, 1771, Centro\nCEP: 95020-472\nCaxias do Sul",
+        "website": "http://www.diocesedecaxias.org.br/",
+        "phone": "+55 (54) 3214-5388"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Caxias_do_Sul",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedecaxias/",
+        "youtube": "https://www.youtube.com/channel/UCUbBdJEs7E0a3Ins2I0vqvg"
+      },
       "events": []
     },
     {
@@ -12592,8 +12865,18 @@
         "latitude": -27.0967814,
         "longitude": -52.6186069
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Av. Get\u00falio Dorneles Vargas,121 S\nCentro, Chapec\u00f3 | SC",
+        "website": "http://diocesechapeco.org.br/",
+        "email": "contato@diocesechapeco.org.br",
+        "phone": "+55 (49) 3322-3045"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Chapec%C3%B3",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesede.chapeco/",
+        "twitter": "https://twitter.com/diocesechapeco",
+        "youtube": "https://www.youtube.com/user/Diocesedechapeco"
+      },
       "events": []
     },
     {
@@ -13749,10 +14032,17 @@
         "longitude": -40.6324359
       },
       "contact": {
-        "website": "https://diocesedecolatina.org.br/"
+        "address": "Rua Santa Maria, 350 \u2013 Edif\u00edcio Jo\u00e3o Paulo II \u2013 Centro\nColatina (ES) \u2013 CEP: 29700-200",
+        "website": "https://diocesedecolatina.org.br/",
+        "email": "comunicacao@diocesedecolatina.org.br",
+        "phone": "+55 (27) 2102-5000"
       },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Colatina",
       "social": {
-        "twitter": "https://twitter.com/DioceseColatina"
+        "facebook": "https://www.facebook.com/diocesecolatina/",
+        "twitter": "https://twitter.com/DioceseColatina",
+        "instagram": "https://www.instagram.com/diocesedecolatina/",
+        "youtube": "https://www.youtube.com/channel/UCsVe-YqUM7lI1QvMKQ4kqrg"
       },
       "events": []
     },
@@ -14146,8 +14436,17 @@
         "latitude": -23.1812912,
         "longitude": -50.6479834
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Av. Alberto Carazzai, 1080 - Centro\nCEP: 86300-000 - Corn\u00e9lio Proc\u00f3pio - PR",
+        "website": "http://www.dioceseprocopense.org.br/",
+        "email": "mitraprocopense@uol.com.br",
+        "phone": "+55 (43) 3524-1942"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Corn%C3%A9lio_Proc%C3%B3pio",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedecoroata1977/",
+        "instagram": "https://www.instagram.com/diocesedecp/"
+      },
       "events": []
     },
     {
@@ -14205,6 +14504,7 @@
         "longitude": -44.1304133
       },
       "contact": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Coroat%C3%A1",
       "social": {},
       "events": []
     },
@@ -14269,7 +14569,10 @@
         "longitude": -57.6547446
       },
       "contact": {},
-      "social": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Corumb%C3%A1",
+      "social": {
+        "facebook": "https://www.facebook.com/pascomdioceseCorumba/"
+      },
       "events": []
     },
     {
@@ -14349,6 +14652,7 @@
         "longitude": -54.7537279
       },
       "contact": {},
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Coxim",
       "social": {},
       "events": []
     },
@@ -14364,8 +14668,16 @@
         "latitude": -5.1985302,
         "longitude": -40.6689543
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Firmino Rosa, 1064,\nCrate\u00fas \u2013 CE, 63700-000",
+        "website": "https://www.diocesedecrateus.net.br/",
+        "phone": "+55 (88) 3691-2366"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Crate%C3%BAs",
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedecrateusce/",
+        "youtube": "https://www.youtube.com/channel/UCojHw5qOCnwkeMmZoiPtgcw"
+      },
       "events": []
     },
     {
@@ -14380,8 +14692,18 @@
         "latitude": -7.2295614,
         "longitude": -39.4087644
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Dom Quintino, n\u00ba 808\nCentro - CEP: 63100-070\nCrato / CE",
+        "website": "https://diocesedecrato.org/",
+        "email": "curia@diocesedecrato.org",
+        "phone": "+55 (88) 3521-1110"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Diocese_of_Crato",
+      "social": {
+        "facebook": "https://www.facebook.com/DiocesedeCratoCE/",
+        "instagram": "https://www.instagram.com/ejcdiocesecrato/",
+        "youtube": "https://www.youtube.com/channel/UCLvnh6gNXpP11BZMNqmdXJw"
+      },
       "events": []
     },
     {
@@ -14730,8 +15052,15 @@
         "latitude": -25.4283563,
         "longitude": -49.2732515
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Av. Jaime Reis, 369\nCuritiba, PR, Brazil, PR 80510010",
+        "website": "http://arquidiocesedecuritiba.org.br/",
+        "phone": "+55 41 2105-6300"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Curitiba",
+      "social": {
+        "facebook": "https://www.facebook.com/arquidiocesedecuritiba/"
+      },
       "events": []
     },
     {
@@ -15275,8 +15604,18 @@
         "latitude": -18.2380733,
         "longitude": -43.6110132
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Jogo da Bola, 173 - Centro\nCEP.:39.100-000 - Diamantina/MG",
+        "website": "https://arquidiamantina.org/",
+        "email": "imprensaarquidiamantina@gmail.com",
+        "phone": "+55 38 3531-1094"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Diamantina",
+      "social": {
+        "facebook": "https://www.facebook.com/arquidiocesedediamantina",
+        "instagram": "https://www.instagram.com/arquidiocesedediamantina/",
+        "youtube": "https://www.youtube.com/user/Arquidiamantina"
+      },
       "events": []
     },
     {
@@ -16780,8 +17119,17 @@
         "latitude": -12.273283,
         "longitude": -38.9555504
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Av. Get\u00falio Vargas, 394 \u2013 Centro\n44001-192 \u2013 Feira de Santana \u2013 BA",
+        "website": "https://arquifeira.org/",
+        "phone": "+55 75 3623-2875"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Feira_de_Santana",
+      "social": {
+        "facebook": "https://www.facebook.com/arquifeira",
+        "instagram": "https://www.instagram.com/arquifeira/",
+        "youtube": "https://www.youtube.com/channel/UC07dX9Nt4QceUYcDHWzNHhg"
+      },
       "events": []
     },
     {
@@ -17157,8 +17505,18 @@
         "latitude": -3.7183943,
         "longitude": -38.5433948
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Avenida Dom Manuel, 03\nFortaleza, CE, Brazil, CE 60060-090",
+        "website": "https://www.arquidiocesedefortaleza.org.br/",
+        "email": "curia.sec@arquidiocesedefortaleza.org.br",
+        "phone": "+55 85 3388-8703"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Fortaleza",
+      "social": {
+        "facebook": "https://www.facebook.com/curiadefortaleza/",
+        "twitter": "https://twitter.com/arqfortaleza",
+        "youtube": "https://www.youtube.com/user/arqfortaleza"
+      },
       "events": []
     },
     {
@@ -18100,8 +18458,18 @@
         "latitude": -16.6799203,
         "longitude": -49.2550315
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Pra\u00e7a Dom Emanuel, s/n\u00b0, Setor Central\nGoi\u00e2nia, GO, Brazil, GO 74020-010",
+        "website": "https://www.arquidiocesedegoiania.org.br/",
+        "email": "arquidiocesedegoiania@gmail.com",
+        "phone": "+55 62 3229-2673"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Goi%C3%A2nia",
+      "social": {
+        "facebook": "https://www.facebook.com/arquidiocesedegoiania/",
+        "instagram": "https://www.instagram.com/arquidiocesedegoiania/",
+        "youtube": "https://www.youtube.com/channel/UCa91GxpK4shp5JUoR06T3ng"
+      },
       "events": []
     },
     {
@@ -26900,8 +27268,16 @@
         "latitude": -3.1071923,
         "longitude": -60.0261267
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "767 Rua Major Gabriel - Centro\nManaus, AM, Brazil, AM CEP 69020-060",
+        "website": "https://arquidiocesedemanaus.org.br/",
+        "email": "curia@arquidiocesedemanaus.org.br",
+        "phone": "+55 92 3212-9000"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Manaus",
+      "social": {
+        "facebook": "https://www.facebook.com/arquidiocesedemanaus/"
+      },
       "events": []
     },
     {
@@ -27316,8 +27692,16 @@
         "latitude": -16.683333,
         "longitude": -45.033333
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "https://arqmariana.com.br/",
+        "phone": "+55 31 3557-1237"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Mariana",
+      "social": {
+        "facebook": "https://www.facebook.com/arqdemariana/",
+        "instagram": "https://www.instagram.com/arquimariana/",
+        "youtube": "https://www.youtube.com/channel/UCq35GtTdQj3NNG7v10UH_iQ"
+      },
       "events": []
     },
     {
@@ -27364,8 +27748,19 @@
         "latitude": -23.427304,
         "longitude": -51.9375047
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Av. Tiradentes, 740 - Zona 1\n87.001-970 Maring\u00e1 \u2013 PR",
+        "website": "http://arquidiocesedemaringa.org.br/",
+        "email": "curiamga@gmail.com",
+        "phone": "+55 44 3227-1706"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Maring%C3%A1",
+      "social": {
+        "facebook": "https://www.facebook.com/ArquidioceseMaringa/",
+        "twitter": "https://twitter.com/arquimaringa",
+        "instagram": "https://www.instagram.com/arquidiocesedemaringa/",
+        "youtube": "https://www.youtube.com/user/ArquidioceseMaringa"
+      },
       "events": []
     },
     {
@@ -28905,8 +29300,17 @@
         "latitude": -16.7370147,
         "longitude": -43.8647397
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Janu\u00e1ria, 371 centro\nMontes Claros, MG, Brazil, MG",
+        "website": "https://arquimoc.com/",
+        "email": "arquicuriamc@arquimoc.com",
+        "phone": "+55 38 98423-8384"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Montes_Claros",
+      "social": {
+        "facebook": "https://www.facebook.com/arquimoc/",
+        "instagram": "https://www.instagram.com/arquidiocesedemontesclaros/"
+      },
       "events": []
     },
     {
@@ -30623,8 +31027,18 @@
         "latitude": -22.8807655,
         "longitude": -43.104335
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Gavi\u00e3o Peixoto, 250, Sobreloja Icara\u00ed, Niter\u00f3i \u2013 Rio de Janeiro CEP: 24230-103",
+        "website": "https://arqnit.org/",
+        "phone": "+55 21 3602-1700"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Niter%C3%B3i",
+      "social": {
+        "facebook": "https://www.facebook.com/arqnit/",
+        "twitter": "https://twitter.com/arqnit",
+        "instagram": "https://www.instagram.com/arqnit/",
+        "youtube": "https://www.youtube.com/channel/UCpK74WEPSGHHhYQQhM9v3Pw"
+      },
       "events": []
     },
     {
@@ -31706,8 +32120,18 @@
         "latitude": -23.5316928,
         "longitude": -46.7899232
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "R. da Saudade, 60, Vila Osasco \u2013 Caixa Postal 56\nCEP: 06080-000 \u2013 Osasco/SP",
+        "website": "http://diocesedeosasco.com.br/",
+        "email": "curia@diocesedeosasco.com.br",
+        "phone": "+55 (11) 3683-4522"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/DioceseDeOsasco/",
+        "twitter": "https://twitter.com/diocesedeosasco",
+        "instagram": "https://www.instagram.com/diocesedeosasco/",
+        "youtube": "https://www.youtube.com/channel/UCfZoutUyhOdwOWPveoO1-DQ"
+      },
       "events": []
     },
     {
@@ -43694,8 +44118,18 @@
         "latitude": -14.5258083,
         "longitude": -49.1572982
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "address": "Rua Leopoldo de Bulh\u00f5es - Centro,\nQuadra 19, Lts. 5/7, n\u00ba 25\nCEP: 76.400-000 - Caixa Postal 32",
+        "website": "https://diocesedeuruacu.com.br/",
+        "email": "imprensa@diocesedeuruacu.com.br",
+        "phone": "+55 (62) 3357-1230"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/diocesedeuruacu/",
+        "twitter": "https://twitter.com/diocesedeuruacu",
+        "instagram": "https://www.instagram.com/diocesedeuruacu/",
+        "youtube": "https://www.youtube.com/channel/UCoke7b-OA6bmtwkXDddou0g"
+      },
       "events": []
     },
     {
@@ -47286,8 +47720,15 @@
         "latitude": -22.9,
         "longitude": -43.2333333
       },
-      "contact": {},
-      "social": {},
+      "contact": {
+        "website": "http://www.adapostolica.org/",
+        "email": "contato@adapostolica.org"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Personal_Apostolic_Administration_of_Saint_John_Mary_Vianney",
+      "social": {
+        "facebook": "https://www.facebook.com/adapostolica/",
+        "instagram": "https://www.instagram.com/adapostolica/"
+      },
       "events": []
     },
     {

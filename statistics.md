@@ -8,16 +8,16 @@ On this page are general statistics about breadth and depth of the dataset. Thes
 | US regions | 210 | 7.79% |
 | Current regions | 2691 | 99.85% |
 | Historical regions | 4 | 0.15% |
-| Regions with contact.website | 476 | 17.66% |
-| Regions with contact.address | 308 | 11.43% |
-| Regions with contact.email | 182 | 6.75% |
-| Regions with contact.phone | 310 | 11.5% |
-| Regions with contact.fax | 164 | 6.09% |
-| Regions with wikipedia | 397 | 14.73% |
-| Regions with social.facebook | 315 | 11.69% |
-| Regions with social.twitter | 328 | 12.17% |
-| Regions with social.instagram | 136 | 5.05% |
-| Regions with social.youtube | 213 | 7.9% |
+| Regions with contact.website | 523 | 19.41% |
+| Regions with contact.address | 357 | 13.25% |
+| Regions with contact.email | 217 | 8.05% |
+| Regions with contact.phone | 359 | 13.32% |
+| Regions with contact.fax | 168 | 6.23% |
+| Regions with wikipedia | 451 | 16.73% |
+| Regions with social.facebook | 359 | 13.32% |
+| Regions with social.twitter | 340 | 12.62% |
+| Regions with social.instagram | 161 | 5.97% |
+| Regions with social.youtube | 246 | 9.13% |
 | - - - - - - - - - - | - | - |
 | Total people | 1247 | 100.0% |
 | Living people | 1189 | 95.35% |
